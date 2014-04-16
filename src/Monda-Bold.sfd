@@ -1,0 +1,12484 @@
+SplineFontDB: 3.0
+FontName: Monda-Bold
+FullName: Monda Bold
+FamilyName: Monda
+Weight: Regular
+Copyright: Digitized data Copyright (c) 2012-2014, vernon adams.
+Version: 2.0
+ItalicAngle: 0
+UnderlinePosition: 0
+UnderlineWidth: 0
+Ascent: 800
+Descent: 200
+UFOAscent: 991.211
+UFODescent: -329.59
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1397594030
+ModificationTime: 1397594105
+PfmFamily: 17
+TTFWeight: 700
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'NeWT'
+Lookup: 6 0 0 "'locl' Localized Forms in Latin lookup 0"  {"'locl' Localized Forms in Latin lookup 0 contextual 0"  "'locl' Localized Forms in Latin lookup 0 contextual 1"  } ['locl' ('latn' <'CAT ' 'dflt' > ) ]
+Lookup: 4 0 0 "Ligature Substitution lookup 1"  {"Ligature Substitution lookup 1 subtable"  } []
+Lookup: 4 0 0 "Ligature Substitution lookup 2"  {"Ligature Substitution lookup 2 subtable"  } []
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 3"  {"'locl' Localized Forms in Latin lookup 3 subtable"  } ['locl' ('latn' <'ROM ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 4"  {"'locl' Localized Forms in Latin lookup 4 subtable"  } ['locl' ('latn' <'MOL ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 5"  {"'locl' Localized Forms in Latin lookup 5 subtable"  } ['locl' ('latn' <'KAZ ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 6"  {"'locl' Localized Forms in Latin lookup 6 subtable"  } ['locl' ('latn' <'TAT ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 7"  {"'locl' Localized Forms in Latin lookup 7 subtable"  } ['locl' ('latn' <'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 8"  {"'locl' Localized Forms in Latin lookup 8 subtable"  } ['locl' ('latn' <'CRT ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 9"  {"'locl' Localized Forms in Latin lookup 9 subtable"  } ['locl' ('latn' <'AZE ' 'dflt' > ) ]
+Lookup: 1 0 0 "'sups' Superscript lookup 10"  {"'sups' Superscript lookup 10 subtable" ("superior" ) } ['sups' ('latn' <'dflt' 'CAT ' 'ROM ' 'MOL ' 'TRK ' > 'grek' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 0 "'frac' Diagonal Fractions lookup 11"  {"'frac' Diagonal Fractions lookup 11 subtable"  } ['frac' ('latn' <'dflt' 'CAT ' 'ROM ' 'MOL ' 'TRK ' > 'grek' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures lookup 12"  {"'liga' Standard Ligatures lookup 12 subtable"  } ['liga' ('latn' <'dflt' 'CAT ' 'ROM ' 'MOL ' 'TRK ' > 'grek' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+ChainSub2: glyph "'locl' Localized Forms in Latin lookup 0 contextual 1"  0 0 0 1
+ String: 16 L periodcentered
+ BString: 0 
+ FString: 1 L
+ 1
+  SeqLookup: 0 "Ligature Substitution lookup 2" 
+EndFPST
+ChainSub2: glyph "'locl' Localized Forms in Latin lookup 0 contextual 0"  0 0 0 1
+ String: 16 l periodcentered
+ BString: 0 
+ FString: 1 l
+ 1
+  SeqLookup: 0 "Ligature Substitution lookup 1" 
+EndFPST
+LangName: 1033 "" "" "" "" "" "Version 2.0" "" "Monda is a trademark of Vernon Adams and may be registered in certain jurisdictions." "newtypography" "Vernon Adams" "" "newtypography.co.uk" "newtypography.co.uk" "Copyright (c) 2013, vernon adams.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoA" "http://scripts.sil.org/OFL" "" "" "" "Nunito-Light" 
+PickledData: "(dp1
+S'public.glyphOrder'
+p2
+(S'A'
+S'Aacute'
+p3
+S'Abreve'
+p4
+S'Acaron'
+p5
+S'Acircumflex'
+p6
+S'Adblgrave'
+p7
+S'Adieresis'
+p8
+S'Adotaccent'
+p9
+S'Agrave'
+p10
+S'Ainvertedbreve'
+p11
+S'Amacron'
+p12
+S'Aogonek'
+p13
+S'Aring'
+p14
+S'Aringacute'
+p15
+S'Atilde'
+p16
+S'AE'
+p17
+S'AEacute'
+p18
+S'AEmacron'
+p19
+S'B'
+S'Bdotaccent'
+p20
+S'C'
+S'Cacute'
+p21
+S'Ccaron'
+p22
+S'Ccedilla'
+p23
+S'Ccircumflex'
+p24
+S'Cdotaccent'
+p25
+S'D'
+S'DZ'
+p26
+S'DZcaron'
+p27
+S'Eth'
+p28
+S'Dcaron'
+p29
+S'Dcroat'
+p30
+S'Ddotaccent'
+p31
+S'Dz'
+p32
+S'Dzcaron'
+p33
+S'E'
+S'Eacute'
+p34
+S'Ebreve'
+p35
+S'Ecaron'
+p36
+S'uni0228'
+p37
+S'Ecircumflex'
+p38
+S'Edblgrave'
+p39
+S'Edieresis'
+p40
+S'Edotaccent'
+p41
+S'Egrave'
+p42
+S'Einvertedbreve'
+p43
+S'Emacron'
+p44
+S'Eogonek'
+p45
+S'Etilde'
+p46
+S'F'
+S'Fdotaccent'
+p47
+S'G'
+S'Gacute'
+p48
+S'Gbreve'
+p49
+S'Gcaron'
+p50
+S'Gcircumflex'
+p51
+S'Gcommaaccent'
+p52
+S'Gdotaccent'
+p53
+S'H'
+S'Hbar'
+p54
+S'uni021E'
+p55
+S'Hcircumflex'
+p56
+S'I'
+S'IJ'
+p57
+S'Iacute'
+p58
+S'Ibreve'
+p59
+S'Icaron'
+p60
+S'Icircumflex'
+p61
+S'Idblgrave'
+p62
+S'Idieresis'
+p63
+S'Idotaccent'
+p64
+S'Igrave'
+p65
+S'Iinvertedbreve'
+p66
+S'Imacron'
+p67
+S'Iogonek'
+p68
+S'Itilde'
+p69
+S'J'
+S'Jcircumflex'
+p70
+S'K'
+S'Kcaron'
+p71
+S'Kcommaaccent'
+p72
+S'L'
+S'LJ'
+p73
+S'Lacute'
+p74
+S'Lcaron'
+p75
+S'Lcommaaccent'
+p76
+S'Ldot'
+p77
+S'Lj'
+p78
+S'Lslash'
+p79
+S'M'
+S'Mdotaccent'
+p80
+S'N'
+S'NJ'
+p81
+S'Nacute'
+p82
+S'Ncaron'
+p83
+S'Ncommaaccent'
+p84
+S'uni01F8'
+p85
+S'Eng'
+p86
+S'Nj'
+p87
+S'Ntilde'
+p88
+S'O'
+S'Oacute'
+p89
+S'Obreve'
+p90
+S'Ocaron'
+p91
+S'Ocircumflex'
+p92
+S'Odblgrave'
+p93
+S'Odieresis'
+p94
+S'Ograve'
+p95
+S'Ohungarumlaut'
+p96
+S'Oinvertedbreve'
+p97
+S'Omacron'
+p98
+S'Oogonek'
+p99
+S'Oslash'
+p100
+S'Oslashacute'
+p101
+S'Otilde'
+p102
+S'OE'
+p103
+S'P'
+S'Pdotaccent'
+p104
+S'Thorn'
+p105
+S'Q'
+S'R'
+S'Racute'
+p106
+S'Rcaron'
+p107
+S'Rcommaaccent'
+p108
+S'Rdblgrave'
+p109
+S'Rinvertedbreve'
+p110
+S'S'
+S'Sacute'
+p111
+S'Scaron'
+p112
+S'Scedilla'
+p113
+S'Scircumflex'
+p114
+S'Scommaaccent'
+p115
+S'Sdotaccent'
+p116
+S'Schwa'
+p117
+S'T'
+S'Tbar'
+p118
+S'Tcaron'
+p119
+S'Tcedilla'
+p120
+S'uni021A'
+p121
+S'Tdotaccent'
+p122
+S'U'
+S'Uacute'
+p123
+S'Ubreve'
+p124
+S'Ucaron'
+p125
+S'Ucircumflex'
+p126
+S'Udblgrave'
+p127
+S'Udieresis'
+p128
+S'Ugrave'
+p129
+S'Uhungarumlaut'
+p130
+S'Uinvertedbreve'
+p131
+S'Umacron'
+p132
+S'Uogonek'
+p133
+S'Uring'
+p134
+S'Utilde'
+p135
+S'V'
+S'W'
+S'Wacute'
+p136
+S'Wcircumflex'
+p137
+S'Wdieresis'
+p138
+S'Wgrave'
+p139
+S'X'
+S'Y'
+S'Yacute'
+p140
+S'Ycircumflex'
+p141
+S'Ydieresis'
+p142
+S'Ygrave'
+p143
+S'Ymacron'
+p144
+S'Ytilde'
+p145
+S'Z'
+S'Zacute'
+p146
+S'Zcaron'
+p147
+S'Zdotaccent'
+p148
+S'a'
+S'aacute'
+p149
+S'abreve'
+p150
+S'acaron'
+p151
+S'acircumflex'
+p152
+S'adblgrave'
+p153
+S'adieresis'
+p154
+S'adotaccent'
+p155
+S'agrave'
+p156
+S'ainvertedbreve'
+p157
+S'amacron'
+p158
+S'aogonek'
+p159
+S'aring'
+p160
+S'aringacute'
+p161
+S'atilde'
+p162
+S'ae'
+p163
+S'aeacute'
+p164
+S'aemacron'
+p165
+S'b'
+S'bdotaccent'
+p166
+S'c'
+S'cacute'
+p167
+S'ccaron'
+p168
+S'ccedilla'
+p169
+S'ccircumflex'
+p170
+S'cdotaccent'
+p171
+S'd'
+S'eth'
+p172
+S'dcaron'
+p173
+S'dcroat'
+p174
+S'ddotaccent'
+p175
+S'dz'
+p176
+S'dzcaron'
+p177
+S'e'
+S'eacute'
+p178
+S'ebreve'
+p179
+S'ecaron'
+p180
+S'uni0229'
+p181
+S'ecircumflex'
+p182
+S'edblgrave'
+p183
+S'edieresis'
+p184
+S'edotaccent'
+p185
+S'egrave'
+p186
+S'einvertedbreve'
+p187
+S'emacron'
+p188
+S'eogonek'
+p189
+S'etilde'
+p190
+S'f'
+S'fdotaccent'
+p191
+S'g'
+S'gacute'
+p192
+S'gbreve'
+p193
+S'gcaron'
+p194
+S'gcircumflex'
+p195
+S'gcommaaccent'
+p196
+S'gdotaccent'
+p197
+S'h'
+S'hbar'
+p198
+S'uni021F'
+p199
+S'hcircumflex'
+p200
+S'i'
+S'dotlessi'
+p201
+S'iacute'
+p202
+S'ibreve'
+p203
+S'icaron'
+p204
+S'icircumflex'
+p205
+S'idblgrave'
+p206
+S'idieresis'
+p207
+S'i.loclTRK'
+p208
+S'igrave'
+p209
+S'iinvertedbreve'
+p210
+S'ij'
+p211
+S'imacron'
+p212
+S'iogonek'
+p213
+S'itilde'
+p214
+S'j'
+S'dotlessj'
+p215
+S'jcaron'
+p216
+S'jcircumflex'
+p217
+S'k'
+S'kcaron'
+p218
+S'kcommaaccent'
+p219
+S'kgreenlandic'
+p220
+S'l'
+S'lacute'
+p221
+S'lcaron'
+p222
+S'lcommaaccent'
+p223
+S'ldot'
+p224
+S'lj'
+p225
+S'lslash'
+p226
+S'm'
+S'mdotaccent'
+p227
+S'n'
+S'nacute'
+p228
+S'napostrophe'
+p229
+S'ncaron'
+p230
+S'ncommaaccent'
+p231
+S'uni01F9'
+p232
+S'eng'
+p233
+S'nj'
+p234
+S'ntilde'
+p235
+S'o'
+S'oacute'
+p236
+S'obreve'
+p237
+S'ocaron'
+p238
+S'ocircumflex'
+p239
+S'odblgrave'
+p240
+S'odieresis'
+p241
+S'ograve'
+p242
+S'ohungarumlaut'
+p243
+S'oinvertedbreve'
+p244
+S'omacron'
+p245
+S'oogonek'
+p246
+S'oslash'
+p247
+S'oslashacute'
+p248
+S'otilde'
+p249
+S'oe'
+p250
+S'p'
+S'pdotaccent'
+p251
+S'thorn'
+p252
+S'q'
+S'r'
+S'racute'
+p253
+S'rcaron'
+p254
+S'rcommaaccent'
+p255
+S'rdblgrave'
+p256
+S'rinvertedbreve'
+p257
+S's'
+S'sacute'
+p258
+S'scaron'
+p259
+S'scedilla'
+p260
+S'scircumflex'
+p261
+S'scommaaccent'
+p262
+S'sdotaccent'
+p263
+S'germandbls'
+p264
+S'schwa'
+p265
+S't'
+S'tbar'
+p266
+S'tcaron'
+p267
+S'tcedilla'
+p268
+S'uni021B'
+p269
+S'tdotaccent'
+p270
+S'u'
+S'uacute'
+p271
+S'ubreve'
+p272
+S'ucaron'
+p273
+S'ucircumflex'
+p274
+S'udblgrave'
+p275
+S'udieresis'
+p276
+S'ugrave'
+p277
+S'uhungarumlaut'
+p278
+S'uinvertedbreve'
+p279
+S'umacron'
+p280
+S'uogonek'
+p281
+S'uring'
+p282
+S'utilde'
+p283
+S'v'
+S'w'
+S'wacute'
+p284
+S'wcircumflex'
+p285
+S'wdieresis'
+p286
+S'wgrave'
+p287
+S'x'
+S'y'
+S'yacute'
+p288
+S'ycircumflex'
+p289
+S'ydieresis'
+p290
+S'ygrave'
+p291
+S'ymacron'
+p292
+S'ytilde'
+p293
+S'z'
+S'zacute'
+p294
+S'zcaron'
+p295
+S'zdotaccent'
+p296
+S'f_f'
+p297
+S'f_f_i'
+p298
+S'f_f_l'
+p299
+S'f_j'
+p300
+S'fi'
+p301
+S'fl'
+p302
+S'ordfeminine'
+p303
+S'ordmasculine'
+p304
+S'Delta'
+p305
+S'Delta'
+p306
+S'Sigma'
+p307
+S'Omega'
+p308
+S'Omega'
+p309
+S'mu'
+p310
+S'mu'
+p311
+S'pi'
+p312
+S'uni022E'
+p313
+S'uni022F'
+p314
+S'zero'
+p315
+S'one'
+p316
+S'two'
+p317
+S'three'
+p318
+S'four'
+p319
+S'five'
+p320
+S'six'
+p321
+S'seven'
+p322
+S'eight'
+p323
+S'nine'
+p324
+S'fraction'
+p325
+S'onehalf'
+p326
+S'onequarter'
+p327
+S'threequarters'
+p328
+S'onesuperior'
+p329
+S'twosuperior'
+p330
+S'threesuperior'
+p331
+S'foursuperior'
+p332
+S'asterisk'
+p333
+S'backslash'
+p334
+S'bullet'
+p335
+S'colon'
+p336
+S'comma'
+p337
+S'ellipsis'
+p338
+S'exclam'
+p339
+S'exclamdown'
+p340
+S'numbersign'
+p341
+S'period'
+p342
+S'periodcentered'
+p343
+S'question'
+p344
+S'questiondown'
+p345
+S'quotedbl'
+p346
+S'quotesingle'
+p347
+S'semicolon'
+p348
+S'slash'
+p349
+S'underscore'
+p350
+S'braceleft'
+p351
+S'braceright'
+p352
+S'bracketleft'
+p353
+S'bracketright'
+p354
+S'parenleft'
+p355
+S'parenright'
+p356
+S'emdash'
+p357
+S'endash'
+p358
+S'uni2015'
+p359
+S'hyphen'
+p360
+S'softhyphen'
+p361
+S'guillemotleft'
+p362
+S'guillemotright'
+p363
+S'guilsinglleft'
+p364
+S'guilsinglright'
+p365
+S'quotedblbase'
+p366
+S'quotedblleft'
+p367
+S'quotedblright'
+p368
+S'quoteleft'
+p369
+S'quoteright'
+p370
+S'quotesinglbase'
+p371
+S'space'
+p372
+S'uni00A0'
+p373
+S'CR'
+p374
+S'florin'
+p375
+S'cent'
+p376
+S'currency'
+p377
+S'dollar'
+p378
+S'Euro'
+p379
+S'sterling'
+p380
+S'yen'
+p381
+S'approxequal'
+p382
+S'asciitilde'
+p383
+S'bulletoperator'
+p384
+S'divide'
+p385
+S'divisionslash'
+p386
+S'emptyset'
+p387
+S'equal'
+p388
+S'greater'
+p389
+S'greaterequal'
+p390
+S'infinity'
+p391
+S'integral'
+p392
+S'less'
+p393
+S'lessequal'
+p394
+S'logicalnot'
+p395
+S'minus'
+p396
+S'multiply'
+p397
+S'notequal'
+p398
+S'partialdiff'
+p399
+S'percent'
+p400
+S'perthousand'
+p401
+S'plus'
+p402
+S'plusminus'
+p403
+S'product'
+p404
+S'radical'
+p405
+S'summation'
+p406
+S'lozenge'
+p407
+S'ampersand'
+p408
+S'asciicircum'
+p409
+S'at'
+p410
+S'bar'
+p411
+S'brokenbar'
+p412
+S'copyright'
+p413
+S'dagger'
+p414
+S'daggerdbl'
+p415
+S'degree'
+p416
+S'estimated'
+p417
+S'uni2113'
+p418
+S'paragraph'
+p419
+S'registered'
+p420
+S'section'
+p421
+S'trademark'
+p422
+S'acute'
+p423
+S'breve'
+p424
+S'caron'
+p425
+S'cedilla'
+p426
+S'circumflex'
+p427
+S'dieresis'
+p428
+S'dotaccent'
+p429
+S'grave'
+p430
+S'hungarumlaut'
+p431
+S'macron'
+p432
+S'ogonek'
+p433
+S'ring'
+p434
+S'tilde'
+p435
+S'caron.alt'
+p436
+S'uni0311'
+p437
+S'uni0326'
+p438
+S'uni0312'
+p439
+S'uni030F'
+p440
+S'uni0358'
+p441
+S'uni0307'
+p442
+S'uni02BC'
+p443
+S'firsttonechinese'
+p444
+S'NULL'
+p445
+S'foundryicon'
+p446
+tp447
+sS'com.schriftgestaltung.fontMasterID'
+p448
+S'F85E8FEC-B3CD-4A54-BF30-AB1986ECE904'
+p449
+sS'GSDimensionPlugin.Dimensions'
+p450
+(dp451
+S'F85E8FEC-B3CD-4A54-BF30-AB1986ECE904'
+p452
+(dp453
+ssS'com.superpolator.editor.generateInfo'
+p454
+S'Generated with LTR Superpolator version 100119_1225'
+p455
+sS'com.schriftgestaltung.useNiceNames'
+p456
+I01
+sS'com.typemytype.robofont.layerOrder'
+p457
+(tsS'com.typemytype.robofont.segmentType'
+p458
+S'curve'
+p459
+sS'com.typemytype.robofont.sort'
+p460
+((dp461
+S'type'
+p462
+S'glyphList'
+p463
+sS'ascending'
+p464
+(S'A'
+S'Aacute'
+p465
+S'Abreve'
+p466
+S'Acircumflex'
+p467
+S'Adieresis'
+p468
+S'Agrave'
+p469
+S'Amacron'
+p470
+S'Aogonek'
+p471
+S'Aring'
+p472
+S'Atilde'
+p473
+S'AE'
+p474
+S'B'
+S'C'
+S'Cacute'
+p475
+S'Ccaron'
+p476
+S'Ccedilla'
+p477
+S'Ccircumflex'
+p478
+S'Cdotaccent'
+p479
+S'D'
+S'Eth'
+p480
+S'Dcaron'
+p481
+S'Dcroat'
+p482
+S'E'
+S'Eacute'
+p483
+S'Ebreve'
+p484
+S'Ecaron'
+p485
+S'Ecircumflex'
+p486
+S'Edieresis'
+p487
+S'Edotaccent'
+p488
+S'Egrave'
+p489
+S'Emacron'
+p490
+S'Eogonek'
+p491
+S'F'
+S'G'
+S'Gbreve'
+p492
+S'Gcircumflex'
+p493
+S'Gcommaaccent'
+p494
+S'Gdotaccent'
+p495
+S'H'
+S'Hbar'
+p496
+S'Hcircumflex'
+p497
+S'I'
+S'IJ'
+p498
+S'Iacute'
+p499
+S'Ibreve'
+p500
+S'Icircumflex'
+p501
+S'Idieresis'
+p502
+S'Idotaccent'
+p503
+S'Igrave'
+p504
+S'Imacron'
+p505
+S'Iogonek'
+p506
+S'Itilde'
+p507
+S'J'
+S'Jcircumflex'
+p508
+S'K'
+S'Kcommaaccent'
+p509
+S'L'
+S'Lacute'
+p510
+S'Lcaron'
+p511
+S'Lcommaaccent'
+p512
+S'Ldot'
+p513
+S'Lslash'
+p514
+S'M'
+S'N'
+S'Nacute'
+p515
+S'Ncaron'
+p516
+S'Ncommaaccent'
+p517
+S'Eng'
+p518
+S'Ntilde'
+p519
+S'O'
+S'Oacute'
+p520
+S'Obreve'
+p521
+S'Ocircumflex'
+p522
+S'Odieresis'
+p523
+S'Ograve'
+p524
+S'Ohungarumlaut'
+p525
+S'Omacron'
+p526
+S'Oslash'
+p527
+S'Otilde'
+p528
+S'OE'
+p529
+S'P'
+S'Thorn'
+p530
+S'Q'
+S'R'
+S'Racute'
+p531
+S'Rcaron'
+p532
+S'Rcommaaccent'
+p533
+S'S'
+S'Sacute'
+p534
+S'Scaron'
+p535
+S'Scedilla'
+p536
+S'Scircumflex'
+p537
+S'Scommaaccent'
+p538
+S'T'
+S'Tbar'
+p539
+S'Tcaron'
+p540
+S'Tcommaaccent'
+p541
+S'U'
+S'Uacute'
+p542
+S'Ubreve'
+p543
+S'Ucircumflex'
+p544
+S'Udieresis'
+p545
+S'Ugrave'
+p546
+S'Uhungarumlaut'
+p547
+S'Umacron'
+p548
+S'Uogonek'
+p549
+S'Uring'
+p550
+S'Utilde'
+p551
+S'V'
+S'W'
+S'Wacute'
+p552
+S'Wcircumflex'
+p553
+S'Wdieresis'
+p554
+S'Wgrave'
+p555
+S'X'
+S'Y'
+S'Yacute'
+p556
+S'Ycircumflex'
+p557
+S'Ydieresis'
+p558
+S'Ygrave'
+p559
+S'Z'
+S'Zacute'
+p560
+S'Zcaron'
+p561
+S'Zdotaccent'
+p562
+S'uni01C4'
+p563
+S'uni01C5'
+p564
+S'uni01C7'
+p565
+S'uni01C8'
+p566
+S'uni01CA'
+p567
+S'uni01CB'
+p568
+S'uni01F1'
+p569
+S'uni01F2'
+p570
+S'uni01F4'
+p571
+S'uni0200'
+p572
+S'uni0202'
+p573
+S'uni0204'
+p574
+S'uni0206'
+p575
+S'uni0208'
+p576
+S'uni020A'
+p577
+S'uni020C'
+p578
+S'uni020E'
+p579
+S'uni0210'
+p580
+S'uni0212'
+p581
+S'uni0214'
+p582
+S'uni0216'
+p583
+S'uni021A'
+p584
+S'uni1E02'
+p585
+S'uni1E0A'
+p586
+S'uni1E1E'
+p587
+S'uni1E40'
+p588
+S'uni1E56'
+p589
+S'uni1E60'
+p590
+S'uni1E6A'
+p591
+S'a'
+S'aacute'
+p592
+S'abreve'
+p593
+S'acircumflex'
+p594
+S'adieresis'
+p595
+S'agrave'
+p596
+S'amacron'
+p597
+S'aogonek'
+p598
+S'aring'
+p599
+S'atilde'
+p600
+S'ae'
+p601
+S'b'
+S'c'
+S'cacute'
+p602
+S'ccaron'
+p603
+S'ccedilla'
+p604
+S'ccircumflex'
+p605
+S'cdotaccent'
+p606
+S'd'
+S'eth'
+p607
+S'dcaron'
+p608
+S'dcroat'
+p609
+S'e'
+S'eacute'
+p610
+S'ebreve'
+p611
+S'ecaron'
+p612
+S'ecircumflex'
+p613
+S'edieresis'
+p614
+S'edotaccent'
+p615
+S'egrave'
+p616
+S'emacron'
+p617
+S'eogonek'
+p618
+S'f'
+S'g'
+S'gbreve'
+p619
+S'gcircumflex'
+p620
+S'gcommaaccent'
+p621
+S'gdotaccent'
+p622
+S'h'
+S'hbar'
+p623
+S'hcircumflex'
+p624
+S'i'
+S'dotlessi'
+p625
+S'iacute'
+p626
+S'ibreve'
+p627
+S'icircumflex'
+p628
+S'idieresis'
+p629
+S'igrave'
+p630
+S'ij'
+p631
+S'imacron'
+p632
+S'iogonek'
+p633
+S'itilde'
+p634
+S'j'
+S'uni0237'
+p635
+S'jcircumflex'
+p636
+S'k'
+S'kcommaaccent'
+p637
+S'kgreenlandic'
+p638
+S'l'
+S'lacute'
+p639
+S'lcaron'
+p640
+S'lcommaaccent'
+p641
+S'ldot'
+p642
+S'lslash'
+p643
+S'm'
+S'n'
+S'nacute'
+p644
+S'napostrophe'
+p645
+S'ncaron'
+p646
+S'ncommaaccent'
+p647
+S'eng'
+p648
+S'ntilde'
+p649
+S'o'
+S'oacute'
+p650
+S'obreve'
+p651
+S'ocircumflex'
+p652
+S'odieresis'
+p653
+S'ograve'
+p654
+S'ohungarumlaut'
+p655
+S'omacron'
+p656
+S'oslash'
+p657
+S'otilde'
+p658
+S'oe'
+p659
+S'p'
+S'thorn'
+p660
+S'q'
+S'r'
+S'racute'
+p661
+S'rcaron'
+p662
+S'rcommaaccent'
+p663
+S's'
+S'sacute'
+p664
+S'scaron'
+p665
+S'scedilla'
+p666
+S'scircumflex'
+p667
+S'scommaaccent'
+p668
+S'germandbls'
+p669
+S't'
+S'tbar'
+p670
+S'tcaron'
+p671
+S'tcommaaccent'
+p672
+S'u'
+S'uacute'
+p673
+S'ubreve'
+p674
+S'ucircumflex'
+p675
+S'udieresis'
+p676
+S'ugrave'
+p677
+S'uhungarumlaut'
+p678
+S'umacron'
+p679
+S'uni01C6'
+p680
+S'uni01C9'
+p681
+S'uni01CC'
+p682
+S'uni01F3'
+p683
+S'uni01F5'
+p684
+S'uni0201'
+p685
+S'uni0203'
+p686
+S'uni0205'
+p687
+S'uni0207'
+p688
+S'uni0209'
+p689
+S'uni020B'
+p690
+S'uni020D'
+p691
+S'uni020F'
+p692
+S'uni0211'
+p693
+S'uni0213'
+p694
+S'uni0215'
+p695
+S'uni0217'
+p696
+S'uni021B'
+p697
+S'uni1E03'
+p698
+S'uni1E0B'
+p699
+S'uni1E1F'
+p700
+S'uni1E41'
+p701
+S'uni1E57'
+p702
+S'uni1E61'
+p703
+S'uni1E6B'
+p704
+S'uogonek'
+p705
+S'uring'
+p706
+S'utilde'
+p707
+S'v'
+S'w'
+S'wacute'
+p708
+S'wcircumflex'
+p709
+S'wdieresis'
+p710
+S'wgrave'
+p711
+S'x'
+S'y'
+S'yacute'
+p712
+S'ycircumflex'
+p713
+S'ydieresis'
+p714
+S'ygrave'
+p715
+S'z'
+S'zacute'
+p716
+S'zcaron'
+p717
+S'zdotaccent'
+p718
+S'uniFB01'
+p719
+S'uniFB02'
+p720
+S'uniFB00'
+p721
+S'uniFB03'
+p722
+S'uniFB04'
+p723
+S'Delta'
+p724
+S'ordfeminine'
+p725
+S'ordmasculine'
+p726
+S'zero'
+p727
+S'one'
+p728
+S'two'
+p729
+S'three'
+p730
+S'four'
+p731
+S'five'
+p732
+S'six'
+p733
+S'seven'
+p734
+S'eight'
+p735
+S'nine'
+p736
+S'fraction'
+p737
+S'onehalf'
+p738
+S'onequarter'
+p739
+S'threequarters'
+p740
+S'uni00B9'
+p741
+S'uni00B2'
+p742
+S'uni00B3'
+p743
+S'uni2074'
+p744
+S'asterisk'
+p745
+S'backslash'
+p746
+S'bullet'
+p747
+S'colon'
+p748
+S'comma'
+p749
+S'ellipsis'
+p750
+S'exclam'
+p751
+S'exclamdown'
+p752
+S'numbersign'
+p753
+S'period'
+p754
+S'periodcentered'
+p755
+S'question'
+p756
+S'questiondown'
+p757
+S'quotedbl'
+p758
+S'quotesingle'
+p759
+S'semicolon'
+p760
+S'slash'
+p761
+S'underscore'
+p762
+S'braceleft'
+p763
+S'braceright'
+p764
+S'bracketleft'
+p765
+S'bracketright'
+p766
+S'parenleft'
+p767
+S'parenright'
+p768
+S'emdash'
+p769
+S'endash'
+p770
+S'hyphen'
+p771
+S'uni00AD'
+p772
+S'guillemotleft'
+p773
+S'guillemotright'
+p774
+S'guilsinglleft'
+p775
+S'guilsinglright'
+p776
+S'quotedblbase'
+p777
+S'quotedblleft'
+p778
+S'quotedblright'
+p779
+S'quoteleft'
+p780
+S'quoteright'
+p781
+S'quotesinglbase'
+p782
+S'space'
+p783
+S'uni00A0'
+p784
+S'florin'
+p785
+S'cent'
+p786
+S'currency'
+p787
+S'dollar'
+p788
+S'sterling'
+p789
+S'yen'
+p790
+S'approxequal'
+p791
+S'asciitilde'
+p792
+S'divide'
+p793
+S'equal'
+p794
+S'greater'
+p795
+S'greaterequal'
+p796
+S'infinity'
+p797
+S'integral'
+p798
+S'less'
+p799
+S'lessequal'
+p800
+S'logicalnot'
+p801
+S'minus'
+p802
+S'multiply'
+p803
+S'notequal'
+p804
+S'percent'
+p805
+S'perthousand'
+p806
+S'plus'
+p807
+S'plusminus'
+p808
+S'product'
+p809
+S'uni00B5'
+p810
+S'uni2206'
+p811
+S'uni2219'
+p812
+S'ampersand'
+p813
+S'asciicircum'
+p814
+S'at'
+p815
+S'bar'
+p816
+S'brokenbar'
+p817
+S'copyright'
+p818
+S'dagger'
+p819
+S'daggerdbl'
+p820
+S'degree'
+p821
+S'paragraph'
+p822
+S'registered'
+p823
+S'section'
+p824
+S'Euro'
+p825
+S'uni2215'
+p826
+S'trademark'
+p827
+S'lozenge'
+p828
+S'uni0307'
+p829
+S'uni030F'
+p830
+S'uni0311'
+p831
+S'uni0326'
+p832
+S'uni02C9'
+p833
+S'acute'
+p834
+S'breve'
+p835
+S'caron'
+p836
+S'cedilla'
+p837
+S'circumflex'
+p838
+S'dieresis'
+p839
+S'dotaccent'
+p840
+S'grave'
+p841
+S'hungarumlaut'
+p842
+S'macron'
+p843
+S'ogonek'
+p844
+S'ring'
+p845
+S'tilde'
+p846
+S'dblgravecmb'
+p847
+S'commaaccentcomb'
+p848
+tp849
+stp850
+sS'com.schriftgestaltung.weight'
+p851
+S'Bold'
+p852
+s."
+Encoding: UnicodeBmp
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 33 33 14
+BeginPrivate: 0
+EndPrivate
+AnchorClass2: "caron.alt"  "" "bot"  "" "ogonek"  "" 
+BeginChars: 65545 494
+
+StartChar: A
+Encoding: 65 65 0
+Width: 751
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "ogonek" 629 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+41 0 m 257
+ 191 0 l 257
+ 233 137 l 257
+ 518 137 l 257
+ 559 0 l 257
+ 711 0 l 257
+ 471 721 l 257
+ 278 721 l 257
+ 41 0 l 257
+262 234 m 257
+ 378 608 l 257
+ 490 234 l 257
+ 262 234 l 257
+EndSplineSet
+Kerns2: 120 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: AE
+Encoding: 198 198 1
+Width: 895
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+41 0 m 257
+ 192 0 l 257
+ 230 137 l 257
+ 436 137 l 257
+ 436 0 l 257
+ 835 0 l 257
+ 835 111 l 257
+ 573 111 l 257
+ 573 315 l 257
+ 796 315 l 257
+ 796 419 l 257
+ 573 419 l 257
+ 573 610 l 257
+ 830 610 l 257
+ 830 721 l 257
+ 263 721 l 257
+ 41 0 l 257
+257 233 m 257
+ 370 610 l 257
+ 436 610 l 257
+ 436 233 l 257
+ 257 233 l 257
+EndSplineSet
+EndChar
+
+StartChar: AEacute
+Encoding: 508 508 2
+Width: 895
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 179 180 N 1 0 0 1 454 196 2
+Refer: 1 198 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01E2
+Encoding: 482 482 3
+Width: 895
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 336 175 N 1 0 0 1 410 196 2
+Refer: 1 198 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Aacute
+Encoding: 193 193 4
+Width: 751
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 179 180 N 1 0 0 1 300 196 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+Kerns2: 120 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: Abreve
+Encoding: 258 258 5
+Width: 751
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 207 728 N 1 0 0 1 251 196 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+Kerns2: 120 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: uni01CD
+Encoding: 461 461 6
+Width: 751
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 213 711 N 1 0 0 1 251 196 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Acircumflex
+Encoding: 194 194 7
+Width: 751
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 221 710 N 1 0 0 1 251 196 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+Kerns2: 120 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: uni0200
+Encoding: 512 512 8
+Width: 751
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 463 783 N 1 0 0 1 70 196 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Adieresis
+Encoding: 196 196 9
+Width: 751
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 233 168 N 1 0 0 1 140 196 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+Kerns2: 120 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: uni0226
+Encoding: 550 550 10
+Width: 751
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 237 729 N 1 0 0 1 256 196 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Agrave
+Encoding: 192 192 11
+Width: 751
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 289 96 N 1 0 0 1 188 196 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+Kerns2: 120 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: uni0202
+Encoding: 514 514 12
+Width: 751
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 464 785 N 1 0 0 1 234 196 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+Kerns2: 120 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: Amacron
+Encoding: 256 256 13
+Width: 751
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 336 175 N 1 0 0 1 256 196 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+Kerns2: 120 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: Aogonek
+Encoding: 260 260 14
+Width: 751
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 359 731 N 1 0 0 1 500 0 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+Kerns2: 120 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: Aring
+Encoding: 197 197 15
+Width: 751
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 406 730 N 1 0 0 1 236 196 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+Kerns2: 120 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: Aringacute
+Encoding: 506 506 16
+Width: 751
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 179 180 N 1 0 0 1 293 445 2
+Refer: 15 197 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Atilde
+Encoding: 195 195 17
+Width: 751
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 434 732 N 1 0 0 1 193 196 2
+Refer: 0 65 N 1 0 0 1 0 0 2
+Kerns2: 120 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: B
+Encoding: 66 66 18
+Width: 728
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+104 0 m 257
+ 416 0 l 258
+ 591 0 667 65 667 209 c 258
+ 667 219 l 258
+ 667 313 644 379 544 393 c 257
+ 619 412 636 458 636 531 c 256
+ 636 660 583 721 381 721 c 258
+ 104 721 l 257
+ 104 0 l 257
+249 102 m 257
+ 249 343 l 257
+ 404 343 l 258
+ 512 343 522 294 522 222 c 256
+ 522 122 502 102 389 102 c 258
+ 249 102 l 257
+249 431 m 257
+ 249 622 l 257
+ 372 622 l 258
+ 470 622 488 606 488 530 c 256
+ 488 465 482 431 398 431 c 258
+ 249 431 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni1E02
+Encoding: 7682 7682 19
+Width: 728
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 237 729 N 1 0 0 1 240 196 2
+Refer: 18 66 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: C
+Encoding: 67 67 20
+Width: 736
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "bot" 374 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+385 -13 m 256
+ 635 -13 669 92 669 234 c 258
+ 669 248 l 257
+ 527 248 l 257
+ 527 225 l 258
+ 527 122 495 101 385 101 c 256
+ 277 101 227 123 227 222 c 258
+ 227 494 l 258
+ 227 593 278 619 385 619 c 256
+ 495 619 527 592 527 491 c 258
+ 527 455 l 257
+ 669 471 l 257
+ 669 480 l 258
+ 669 626 631 733 385 733 c 256
+ 127 733 82 623 82 477 c 258
+ 82 236 l 258
+ 82 94 128 -13 385 -13 c 256
+EndSplineSet
+EndChar
+
+StartChar: uni000D
+Encoding: 13 13 21
+Width: 292
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+EndChar
+
+StartChar: Cacute
+Encoding: 262 262 22
+Width: 736
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 179 180 N 1 0 0 1 303 196 2
+Refer: 20 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ccaron
+Encoding: 268 268 23
+Width: 736
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 213 711 N 1 0 0 1 254 196 2
+Refer: 20 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ccedilla
+Encoding: 199 199 24
+Width: 736
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 219 184 N 1 0 0 1 278 0 2
+Refer: 20 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ccircumflex
+Encoding: 264 264 25
+Width: 736
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 221 710 N 1 0 0 1 254 196 2
+Refer: 20 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Cdotaccent
+Encoding: 266 266 26
+Width: 736
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 237 729 N 1 0 0 1 259 196 2
+Refer: 20 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: D
+Encoding: 68 68 27
+Width: 763
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+249 113 m 257
+ 249 608 l 257
+ 404 608 l 258
+ 505 608 537 566 537 488 c 258
+ 537 229 l 258
+ 537 149 506 113 404 113 c 258
+ 249 113 l 257
+104 0 m 257
+ 417 0 l 258
+ 620 0 682 104 682 248 c 258
+ 682 469 l 258
+ 682 610 625 721 416 721 c 258
+ 104 721 l 257
+ 104 0 l 257
+EndSplineSet
+Kerns2: 381 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  223 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  164 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  163 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  157 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  156 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  17 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  15 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  14 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  13 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  12 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  11 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  9 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  7 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  5 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  4 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  0 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: uni01F1
+Encoding: 497 497 28
+Width: 1360
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 170 90 N 1 0 0 1 764 0 2
+Refer: 27 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01C4
+Encoding: 452 452 29
+Width: 1360
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 172 381 N 1 0 0 1 764 0 2
+Refer: 27 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Dcaron
+Encoding: 270 270 30
+Width: 763
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 213 711 N 1 0 0 1 250 196 2
+Refer: 27 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Dcroat
+Encoding: 272 272 31
+Width: 763
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 49 208 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1E0A
+Encoding: 7690 7690 32
+Width: 763
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 237 729 N 1 0 0 1 255 196 2
+Refer: 27 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0394
+Encoding: 916 916 33
+Width: 692
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+53 0 m 257
+ 639 0 l 257
+ 406 721 l 257
+ 300 721 l 257
+ 53 0 l 257
+185 97 m 257
+ 336 557 l 257
+ 471 97 l 257
+ 185 97 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni01F2
+Encoding: 498 498 34
+Width: 1249
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 488 122 N 1 0 0 1 764 0 2
+Refer: 27 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01C5
+Encoding: 453 453 35
+Width: 1249
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 490 382 N 1 0 0 1 764 0 2
+Refer: 27 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: E
+Encoding: 69 69 36
+Width: 642
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "bot" 355 0 basechar 0
+AnchorPoint: "ogonek" 436 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+104 0 m 257
+ 581 0 l 257
+ 581 109 l 257
+ 248 109 l 257
+ 248 315 l 257
+ 539 315 l 257
+ 539 420 l 257
+ 248 420 l 257
+ 248 611 l 257
+ 576 611 l 257
+ 576 721 l 257
+ 104 721 l 257
+ 104 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: Eacute
+Encoding: 201 201 37
+Width: 642
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 179 180 N 1 0 0 1 281 196 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ebreve
+Encoding: 276 276 38
+Width: 642
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 207 728 N 1 0 0 1 232 196 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ecaron
+Encoding: 282 282 39
+Width: 642
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 213 711 N 1 0 0 1 232 196 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ecircumflex
+Encoding: 202 202 40
+Width: 642
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 221 710 N 1 0 0 1 232 196 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0204
+Encoding: 516 516 41
+Width: 642
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 463 783 N 1 0 0 1 51 196 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Edieresis
+Encoding: 203 203 42
+Width: 642
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 233 168 N 1 0 0 1 121 196 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Edotaccent
+Encoding: 278 278 43
+Width: 642
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 237 729 N 1 0 0 1 237 196 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Egrave
+Encoding: 200 200 44
+Width: 642
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 289 96 N 1 0 0 1 169 196 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0206
+Encoding: 518 518 45
+Width: 642
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 464 785 N 1 0 0 1 216 196 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Emacron
+Encoding: 274 274 46
+Width: 642
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 336 175 N 1 0 0 1 237 196 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Eng
+Encoding: 330 330 47
+Width: 800
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+440 -187 m 257
+ 656 -187 708 -107 708 79 c 258
+ 708 721 l 257
+ 578 721 l 257
+ 578 273 l 257
+ 203 721 l 257
+ 93 721 l 257
+ 93 0 l 257
+ 224 0 l 257
+ 224 486 l 257
+ 575 75 l 257
+ 575 57 l 258
+ 575 -78 540 -84 426 -94 c 257
+ 440 -187 l 257
+EndSplineSet
+EndChar
+
+StartChar: Eogonek
+Encoding: 280 280 48
+Width: 642
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 359 731 N 1 0 0 1 306 0 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Eth
+Encoding: 208 208 49
+Width: 763
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 300 45 N 1 0 0 1 -49 104 2
+Refer: 27 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EBC
+Encoding: 7868 7868 50
+Width: 642
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 434 732 N 1 0 0 1 174 196 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Euro
+Encoding: 8364 8364 51
+Width: 727
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+385 409 m 257
+ 385 475 l 257
+ 22 475 l 257
+ 22 409 l 257
+ 385 409 l 257
+385 262 m 257
+ 385 327 l 257
+ 22 327 l 257
+ 22 262 l 257
+ 385 262 l 257
+EndSplineSet
+Refer: 20 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: F
+Encoding: 70 70 52
+Width: 583
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+104 0 m 257
+ 249 0 l 257
+ 249 310 l 257
+ 520 310 l 257
+ 520 414 l 257
+ 249 414 l 257
+ 249 610 l 257
+ 540 610 l 257
+ 540 721 l 257
+ 104 721 l 257
+ 104 0 l 257
+EndSplineSet
+Kerns2: 408 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  381 -69 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  356 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  223 -58 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: uni1E1E
+Encoding: 7710 7710 53
+Width: 583
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 237 729 N 1 0 0 1 215 196 2
+Refer: 52 70 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: G
+Encoding: 71 71 54
+Width: 792
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "bot" 375 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+401 -13 m 256
+ 557 -13 590 60 597 83 c 257
+ 620 0 l 257
+ 697 0 l 257
+ 697 370 l 257
+ 420 370 l 257
+ 420 274 l 257
+ 566 274 l 257
+ 566 222 l 258
+ 566 123 511 101 401 101 c 256
+ 293 101 228 123 228 222 c 258
+ 228 494 l 258
+ 228 593 294 619 401 619 c 256
+ 509 619 554 596 554 499 c 258
+ 554 470 l 257
+ 696 480 l 257
+ 696 492 l 258
+ 696 630 651 733 401 733 c 256
+ 143 733 82 623 82 477 c 258
+ 82 236 l 258
+ 82 94 144 -13 401 -13 c 256
+EndSplineSet
+EndChar
+
+StartChar: uni01F4
+Encoding: 500 500 55
+Width: 792
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 179 180 N 1 0 0 1 320 196 2
+Refer: 54 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Gbreve
+Encoding: 286 286 56
+Width: 792
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 207 728 N 1 0 0 1 271 196 2
+Refer: 54 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Gcaron
+Encoding: 486 486 57
+Width: 792
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 213 711 N 1 0 0 1 271 196 2
+Refer: 54 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Gcircumflex
+Encoding: 284 284 58
+Width: 792
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 221 710 N 1 0 0 1 271 196 2
+Refer: 54 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0122
+Encoding: 290 290 59
+Width: 792
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 466 806 N 1 0 0 1 223 0 2
+Refer: 54 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Gdotaccent
+Encoding: 288 288 60
+Width: 792
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 237 729 N 1 0 0 1 276 196 2
+Refer: 54 71 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: H
+Encoding: 72 72 61
+Width: 814
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+104 0 m 257
+ 249 0 l 257
+ 249 300 l 257
+ 565 300 l 257
+ 565 0 l 257
+ 711 0 l 257
+ 711 721 l 257
+ 565 721 l 257
+ 565 414 l 257
+ 249 414 l 257
+ 249 721 l 257
+ 104 721 l 257
+ 104 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: Hbar
+Encoding: 294 294 62
+Width: 792
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+41 553 m 257
+ 752 553 l 257
+ 752 604 l 257
+ 41 604 l 257
+ 41 553 l 257
+EndSplineSet
+Refer: 61 72 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Hcircumflex
+Encoding: 292 292 63
+Width: 814
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 221 710 N 1 0 0 1 283 196 2
+Refer: 61 72 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: I
+Encoding: 73 73 64
+Width: 560
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "ogonek" 285 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+77 0 m 257
+ 483 0 l 257
+ 483 108 l 257
+ 353 108 l 257
+ 353 613 l 257
+ 483 613 l 257
+ 483 721 l 257
+ 77 721 l 257
+ 77 613 l 257
+ 208 613 l 257
+ 208 108 l 257
+ 77 108 l 257
+ 77 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: IJ
+Encoding: 306 306 65
+Width: 1157
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 78 74 N 1 0 0 1 561 0 2
+Refer: 64 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Iacute
+Encoding: 205 205 66
+Width: 560
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 179 180 N 1 0 0 1 209 196 2
+Refer: 64 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ibreve
+Encoding: 300 300 67
+Width: 560
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 207 728 N 1 0 0 1 161 196 2
+Refer: 64 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01CF
+Encoding: 463 463 68
+Width: 560
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 213 711 N 1 0 0 1 161 196 2
+Refer: 64 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Icircumflex
+Encoding: 206 206 69
+Width: 560
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 221 710 N 1 0 0 1 161 196 2
+Refer: 64 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0208
+Encoding: 520 520 70
+Width: 560
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 463 783 N 1 0 0 1 -21 196 2
+Refer: 64 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Idieresis
+Encoding: 207 207 71
+Width: 560
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 233 168 N 1 0 0 1 49 196 2
+Refer: 64 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Idotaccent
+Encoding: 304 304 72
+Width: 560
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 237 729 N 1 0 0 1 166 196 2
+Refer: 64 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Igrave
+Encoding: 204 204 73
+Width: 560
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 289 96 N 1 0 0 1 97 196 2
+Refer: 64 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni020A
+Encoding: 522 522 74
+Width: 560
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 464 785 N 1 0 0 1 144 196 2
+Refer: 64 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Imacron
+Encoding: 298 298 75
+Width: 560
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 336 175 N 1 0 0 1 166 196 2
+Refer: 64 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Iogonek
+Encoding: 302 302 76
+Width: 560
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 359 731 N 1 0 0 1 155 0 2
+Refer: 64 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Itilde
+Encoding: 296 296 77
+Width: 560
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 434 732 N 1 0 0 1 103 196 2
+Refer: 64 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: J
+Encoding: 74 74 78
+Width: 596
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+246 -12 m 256
+ 408 -12 506 67 506 206 c 258
+ 506 721 l 257
+ 113 721 l 257
+ 113 610 l 257
+ 361 610 l 257
+ 361 215 l 258
+ 361 153 328 102 237 102 c 256
+ 186 102 115 118 68 140 c 257
+ 34 33 l 257
+ 97 3 176 -12 246 -12 c 256
+EndSplineSet
+Kerns2: 381 -3 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  223 -3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: Jcircumflex
+Encoding: 308 308 79
+Width: 596
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 221 710 N 1 0 0 1 181 196 2
+Refer: 78 74 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: K
+Encoding: 75 75 80
+Width: 717
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "bot" 382 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+104 0 m 257
+ 249 0 l 257
+ 249 264 l 257
+ 316 332 l 257
+ 543 0 l 257
+ 707 0 l 257
+ 437 393 l 257
+ 689 721 l 257
+ 529 721 l 257
+ 249 371 l 257
+ 249 721 l 257
+ 104 721 l 257
+ 104 0 l 257
+EndSplineSet
+Kerns2: 470 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  448 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  443 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  356 -5 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: uni01E8
+Encoding: 488 488 81
+Width: 717
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 213 711 N 1 0 0 1 239 196 2
+Refer: 80 75 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0136
+Encoding: 310 310 82
+Width: 717
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 466 806 N 1 0 0 1 229 0 2
+Refer: 80 75 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: L
+Encoding: 76 76 83
+Width: 583
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "bot" 321 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+104 0 m 257
+ 550 0 l 257
+ 550 113 l 257
+ 249 113 l 257
+ 249 721 l 257
+ 104 721 l 257
+ 104 0 l 257
+EndSplineSet
+Kerns2: 396 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  394 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: uni01C7
+Encoding: 455 455 84
+Width: 1179
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 78 74 N 1 0 0 1 583 0 2
+Refer: 83 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Lacute
+Encoding: 313 313 85
+Width: 583
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 179 180 N 1 0 0 1 135 196 2
+Refer: 83 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Lcaron
+Encoding: 317 317 86
+Width: 583
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 214 -1 N 1 0 0 1 62 0 2
+Refer: 83 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni013B
+Encoding: 315 315 87
+Width: 583
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 466 806 N 1 0 0 1 168 0 2
+Refer: 83 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ldot
+Encoding: 319 319 88
+Width: 583
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 382 183 N 1 0 0 1 207 -44 2
+Refer: 83 76 N 1 0 0 1 0 0 2
+Ligature2: "Ligature Substitution lookup 2 subtable" L periodcentered
+EndChar
+
+StartChar: uni01C8
+Encoding: 456 456 89
+Width: 911
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 317 106 N 1 0 0 1 583 0 2
+Refer: 83 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Lslash
+Encoding: 321 321 90
+Width: 572
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+12 273 m 257
+ 387 425 l 257
+ 387 534 l 257
+ 12 382 l 257
+ 12 273 l 257
+EndSplineSet
+Refer: 83 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: M
+Encoding: 77 77 91
+Width: 936
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+104 0 m 257
+ 239 0 l 257
+ 239 531 l 257
+ 420 209 l 257
+ 517 209 l 257
+ 697 533 l 257
+ 697 0 l 257
+ 833 0 l 257
+ 833 721 l 257
+ 670 721 l 257
+ 468 372 l 257
+ 263 721 l 257
+ 104 721 l 257
+ 104 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni1E40
+Encoding: 7744 7744 92
+Width: 936
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 237 729 N 1 0 0 1 355 196 2
+Refer: 91 77 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: N
+Encoding: 78 78 93
+Width: 819
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "bot" 440 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+104 0 m 257
+ 234 0 l 257
+ 234 486 l 257
+ 607 0 l 257
+ 716 0 l 257
+ 716 721 l 257
+ 587 721 l 257
+ 587 227 l 257
+ 212 721 l 257
+ 104 721 l 257
+ 104 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni01CA
+Encoding: 458 458 94
+Width: 1416
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 78 74 N 1 0 0 1 819 0 2
+Refer: 93 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: NULL
+Encoding: 65536 -1 95
+Width: 292
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+EndChar
+
+StartChar: Nacute
+Encoding: 323 323 96
+Width: 819
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 179 180 N 1 0 0 1 340 196 2
+Refer: 93 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ncaron
+Encoding: 327 327 97
+Width: 819
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 213 711 N 1 0 0 1 292 196 2
+Refer: 93 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0145
+Encoding: 325 325 98
+Width: 819
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 466 806 N 1 0 0 1 288 0 2
+Refer: 93 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01CB
+Encoding: 459 459 99
+Width: 1147
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 317 106 N 1 0 0 1 819 0 2
+Refer: 93 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ntilde
+Encoding: 209 209 100
+Width: 819
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 434 732 N 1 0 0 1 233 196 2
+Refer: 93 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: O
+Encoding: 79 79 101
+Width: 791
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "ogonek" 431 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+401 101 m 256
+ 293 101 228 130 228 229 c 258
+ 228 490 l 258
+ 228 589 294 619 401 619 c 256
+ 509 619 564 587 564 490 c 258
+ 564 229 l 258
+ 564 130 510 101 401 101 c 256
+401 -13 m 256
+ 649 -13 710 110 710 252 c 258
+ 710 463 l 258
+ 710 609 650 733 401 733 c 256
+ 141 733 82 616 82 470 c 258
+ 82 245 l 258
+ 82 102 142 -13 401 -13 c 256
+EndSplineSet
+EndChar
+
+StartChar: OE
+Encoding: 338 338 102
+Width: 797
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+350 0 m 258
+ 736 0 l 257
+ 736 93 l 257
+ 564 93 l 257
+ 564 325 l 257
+ 694 325 l 257
+ 694 419 l 257
+ 564 419 l 257
+ 564 628 l 257
+ 735 628 l 257
+ 735 721 l 257
+ 350 721 l 258
+ 129 721 78 609 78 468 c 258
+ 78 247 l 258
+ 78 103 130 0 350 0 c 258
+349 93 m 258
+ 242 93 210 148 210 217 c 258
+ 210 499 l 258
+ 210 569 242 625 348 625 c 258
+ 433 625 l 257
+ 433 93 l 257
+ 349 93 l 258
+EndSplineSet
+EndChar
+
+StartChar: Oacute
+Encoding: 211 211 103
+Width: 791
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 179 180 N 1 0 0 1 320 196 2
+Refer: 101 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Obreve
+Encoding: 334 334 104
+Width: 791
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 207 728 N 1 0 0 1 271 196 2
+Refer: 101 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01D1
+Encoding: 465 465 105
+Width: 791
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 213 711 N 1 0 0 1 271 196 2
+Refer: 101 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ocircumflex
+Encoding: 212 212 106
+Width: 791
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 221 710 N 1 0 0 1 271 196 2
+Refer: 101 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni020C
+Encoding: 524 524 107
+Width: 791
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 463 783 N 1 0 0 1 90 196 2
+Refer: 101 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Odieresis
+Encoding: 214 214 108
+Width: 791
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 233 168 N 1 0 0 1 160 196 2
+Refer: 101 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ograve
+Encoding: 210 210 109
+Width: 791
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 289 96 N 1 0 0 1 208 196 2
+Refer: 101 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ohungarumlaut
+Encoding: 336 336 110
+Width: 791
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 299 733 N 1 0 0 1 223 196 2
+Refer: 101 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni020E
+Encoding: 526 526 111
+Width: 791
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 464 785 N 1 0 0 1 254 196 2
+Refer: 101 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Omacron
+Encoding: 332 332 112
+Width: 791
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 336 175 N 1 0 0 1 276 196 2
+Refer: 101 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni03A9
+Encoding: 937 937 113
+Width: 797
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+399 727 m 256
+ 211 727 71 692 71 364 c 256
+ 71 223 137 145 206 101 c 257
+ 82 101 l 257
+ 82 0 l 257
+ 359 0 l 257
+ 359 94 l 257
+ 250 149 222 218 222 380 c 256
+ 222 601 285 621 399 621 c 256
+ 518 621 576 601 576 380 c 256
+ 576 218 548 149 439 94 c 257
+ 439 0 l 257
+ 716 0 l 257
+ 716 101 l 257
+ 592 101 l 257
+ 661 145 727 223 727 364 c 256
+ 727 692 591 727 399 727 c 256
+EndSplineSet
+EndChar
+
+StartChar: uni01EA
+Encoding: 490 490 114
+Width: 791
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 359 731 N 1 0 0 1 302 0 2
+Refer: 101 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Oslash
+Encoding: 216 216 115
+Width: 784
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+246 -106 m 257
+ 599 818 l 257
+ 557 829 l 257
+ 204 -95 l 257
+ 246 -106 l 257
+EndSplineSet
+Refer: 101 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Oslashacute
+Encoding: 510 510 116
+Width: 784
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 179 180 N 1 0 0 1 320 196 2
+Refer: 115 216 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Otilde
+Encoding: 213 213 117
+Width: 791
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 434 732 N 1 0 0 1 213 196 2
+Refer: 101 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: P
+Encoding: 80 80 118
+Width: 687
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+104 0 m 257
+ 249 0 l 257
+ 249 249 l 257
+ 372 249 l 258
+ 560 249 621 324 621 491 c 256
+ 621 653 545 721 386 721 c 258
+ 104 721 l 257
+ 104 0 l 257
+249 354 m 257
+ 249 618 l 257
+ 400 618 l 258
+ 468 618 485 559 485 483 c 256
+ 485 397 468 354 395 354 c 258
+ 249 354 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni1E56
+Encoding: 7766 7766 119
+Width: 687
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 237 729 N 1 0 0 1 230 196 2
+Refer: 118 80 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Q
+Encoding: 81 81 120
+Width: 791
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+497 -261 m 257
+ 589 -208 l 257
+ 470 -9 l 257
+ 661 12 710 125 710 252 c 258
+ 710 463 l 258
+ 710 609 650 733 401 733 c 256
+ 141 733 82 616 82 470 c 258
+ 82 245 l 258
+ 82 115 132 7 340 -10 c 257
+ 497 -261 l 257
+401 101 m 256
+ 293 101 228 130 228 229 c 258
+ 228 490 l 258
+ 228 589 294 619 401 619 c 256
+ 509 619 564 587 564 490 c 258
+ 564 229 l 258
+ 564 130 510 101 401 101 c 256
+EndSplineSet
+EndChar
+
+StartChar: R
+Encoding: 82 82 121
+Width: 744
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "bot" 392 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+104 0 m 257
+ 249 0 l 257
+ 249 285 l 257
+ 412 285 l 257
+ 538 0 l 257
+ 688 0 l 257
+ 549 306 l 257
+ 637 342 655 416 655 505 c 256
+ 655 635 606 721 415 721 c 258
+ 104 721 l 257
+ 104 0 l 257
+249 388 m 257
+ 249 618 l 257
+ 433 618 l 258
+ 505 618 517 558 517 499 c 256
+ 517 437 501 388 427 388 c 258
+ 249 388 l 257
+EndSplineSet
+EndChar
+
+StartChar: Racute
+Encoding: 340 340 122
+Width: 744
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 179 180 N 1 0 0 1 269 196 2
+Refer: 121 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Rcaron
+Encoding: 344 344 123
+Width: 744
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 213 711 N 1 0 0 1 220 196 2
+Refer: 121 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0156
+Encoding: 342 342 124
+Width: 744
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 466 806 N 1 0 0 1 240 0 2
+Refer: 121 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0210
+Encoding: 528 528 125
+Width: 744
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 463 783 N 1 0 0 1 39 196 2
+Refer: 121 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0212
+Encoding: 530 530 126
+Width: 744
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 464 785 N 1 0 0 1 204 196 2
+Refer: 121 82 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: S
+Encoding: 83 83 127
+Width: 625
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "bot" 343 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+438 201 m 256
+ 438 140 420 101 333 101 c 256
+ 244 101 163 130 108 159 c 257
+ 59 53 l 257
+ 131 12 238 -13 336 -13 c 256
+ 501 -13 571 84 571 206 c 256
+ 571 319 522 380 425 409 c 258
+ 302 445 l 258
+ 230 466 209 490 209 539 c 256
+ 209 599 251 619 330 619 c 256
+ 400 619 463 600 517 575 c 257
+ 558 677 l 257
+ 492 716 412 733 317 733 c 256
+ 175 733 66 668 66 534 c 256
+ 66 442 98 368 216 333 c 258
+ 339 296 l 258
+ 425 271 438 241 438 201 c 256
+EndSplineSet
+EndChar
+
+StartChar: Sacute
+Encoding: 346 346 128
+Width: 625
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 179 180 N 1 0 0 1 246 196 2
+Refer: 127 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Scaron
+Encoding: 352 352 129
+Width: 625
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 213 711 N 1 0 0 1 197 196 2
+Refer: 127 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Scedilla
+Encoding: 350 350 130
+Width: 625
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 219 184 N 1 0 0 1 248 0 2
+Refer: 127 83 N 1 0 0 1 0 0 2
+Substitution2: "'locl' Localized Forms in Latin lookup 4 subtable" uni0218
+Substitution2: "'locl' Localized Forms in Latin lookup 3 subtable" uni0218
+EndChar
+
+StartChar: uni018F
+Encoding: 399 399 131
+Width: 292
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+EndChar
+
+StartChar: Scircumflex
+Encoding: 348 348 132
+Width: 625
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 221 710 N 1 0 0 1 197 196 2
+Refer: 127 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0218
+Encoding: 536 536 133
+Width: 625
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 466 806 N 1 0 0 1 190 0 2
+Refer: 127 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1E60
+Encoding: 7776 7776 134
+Width: 625
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 237 729 N 1 0 0 1 202 196 2
+Refer: 127 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Sigma
+Encoding: 931 931 135
+Width: 583
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+532 0 m 257
+ 532 110 l 257
+ 218 110 l 257
+ 426 358 l 257
+ 426 396 l 257
+ 219 611 l 257
+ 532 611 l 257
+ 532 721 l 257
+ 45 721 l 257
+ 45 630 l 257
+ 280 372 l 257
+ 45 93 l 257
+ 45 0 l 257
+ 532 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: T
+Encoding: 84 84 136
+Width: 583
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "bot" 281 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+219 0 m 257
+ 364 0 l 257
+ 364 610 l 257
+ 564 610 l 257
+ 564 721 l 257
+ 19 721 l 257
+ 19 610 l 257
+ 219 610 l 257
+ 219 0 l 257
+EndSplineSet
+Kerns2: 20 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: Tbar
+Encoding: 358 358 137
+Width: 583
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 336 175 N 1 0 0 1 168 -277 2
+Refer: 136 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Tcaron
+Encoding: 356 356 138
+Width: 583
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 213 711 N 1 0 0 1 163 196 2
+Refer: 136 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0162
+Encoding: 354 354 139
+Width: 583
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 219 184 N 1 0 0 1 186 0 2
+Refer: 136 84 N 1 0 0 1 0 0 2
+Substitution2: "'locl' Localized Forms in Latin lookup 4 subtable" uni0162
+Substitution2: "'locl' Localized Forms in Latin lookup 3 subtable" uni0162
+EndChar
+
+StartChar: uni1E6A
+Encoding: 7786 7786 140
+Width: 583
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 237 729 N 1 0 0 1 168 196 2
+Refer: 136 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Thorn
+Encoding: 222 222 141
+Width: 665
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+105 0 m 257
+ 250 0 l 257
+ 250 174 l 257
+ 380 174 l 258
+ 568 174 621 229 621 396 c 256
+ 621 558 554 605 394 605 c 258
+ 250 605 l 257
+ 250 721 l 257
+ 105 721 l 257
+ 105 0 l 257
+250 277 m 257
+ 250 504 l 257
+ 407 504 l 258
+ 475 504 490 464 490 389 c 256
+ 490 302 476 277 403 277 c 258
+ 250 277 l 257
+EndSplineSet
+EndChar
+
+StartChar: U
+Encoding: 85 85 142
+Width: 784
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "ogonek" 434 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+396 -13 m 256
+ 639 -13 690 97 690 234 c 258
+ 690 721 l 257
+ 545 721 l 257
+ 545 222 l 258
+ 545 128 498 101 396 101 c 256
+ 296 101 239 127 239 222 c 258
+ 239 721 l 257
+ 94 721 l 257
+ 94 229 l 258
+ 94 91 149 -13 396 -13 c 256
+EndSplineSet
+EndChar
+
+StartChar: Uacute
+Encoding: 218 218 143
+Width: 784
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 179 180 N 1 0 0 1 321 196 2
+Refer: 142 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ubreve
+Encoding: 364 364 144
+Width: 784
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 207 728 N 1 0 0 1 272 196 2
+Refer: 142 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01D3
+Encoding: 467 467 145
+Width: 784
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 213 711 N 1 0 0 1 272 196 2
+Refer: 142 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ucircumflex
+Encoding: 219 219 146
+Width: 784
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 221 710 N 1 0 0 1 272 196 2
+Refer: 142 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0214
+Encoding: 532 532 147
+Width: 784
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 463 783 N 1 0 0 1 91 196 2
+Refer: 142 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Udieresis
+Encoding: 220 220 148
+Width: 784
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 233 168 N 1 0 0 1 161 196 2
+Refer: 142 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ugrave
+Encoding: 217 217 149
+Width: 784
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 289 96 N 1 0 0 1 209 196 2
+Refer: 142 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Uhungarumlaut
+Encoding: 368 368 150
+Width: 784
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 299 733 N 1 0 0 1 224 196 2
+Refer: 142 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0216
+Encoding: 534 534 151
+Width: 784
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 464 785 N 1 0 0 1 256 196 2
+Refer: 142 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Umacron
+Encoding: 362 362 152
+Width: 784
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 336 175 N 1 0 0 1 277 196 2
+Refer: 142 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Uogonek
+Encoding: 370 370 153
+Width: 784
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 359 731 N 1 0 0 1 305 0 2
+Refer: 142 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Uring
+Encoding: 366 366 154
+Width: 784
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 406 730 N 1 0 0 1 258 196 2
+Refer: 142 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Utilde
+Encoding: 360 360 155
+Width: 784
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 434 732 N 1 0 0 1 214 196 2
+Refer: 142 85 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: V
+Encoding: 86 86 156
+Width: 724
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+275 0 m 257
+ 451 0 l 257
+ 705 721 l 257
+ 551 721 l 257
+ 365 140 l 257
+ 173 721 l 257
+ 20 721 l 257
+ 275 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: W
+Encoding: 87 87 157
+Width: 983
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+218 0 m 257
+ 348 0 l 257
+ 490 514 l 257
+ 644 0 l 257
+ 766 0 l 257
+ 949 721 l 257
+ 812 721 l 257
+ 700 228 l 257
+ 547 721 l 257
+ 426 721 l 257
+ 293 222 l 257
+ 171 721 l 257
+ 34 721 l 257
+ 218 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: Wacute
+Encoding: 7810 7810 158
+Width: 983
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 179 180 N 1 0 0 1 405 196 2
+Refer: 157 87 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Wcircumflex
+Encoding: 372 372 159
+Width: 983
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 221 710 N 1 0 0 1 356 196 2
+Refer: 157 87 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Wdieresis
+Encoding: 7812 7812 160
+Width: 983
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 233 168 N 1 0 0 1 245 196 2
+Refer: 157 87 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Wgrave
+Encoding: 7808 7808 161
+Width: 983
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 289 96 N 1 0 0 1 292 196 2
+Refer: 157 87 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: X
+Encoding: 88 88 162
+Width: 660
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+19 0 m 257
+ 170 0 l 257
+ 327 245 l 257
+ 482 0 l 257
+ 642 0 l 257
+ 405 366 l 257
+ 633 721 l 257
+ 473 721 l 257
+ 327 487 l 257
+ 175 721 l 257
+ 24 721 l 257
+ 250 365 l 257
+ 19 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: Y
+Encoding: 89 89 163
+Width: 654
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+257 0 m 257
+ 402 0 l 257
+ 402 277 l 257
+ 646 721 l 257
+ 499 721 l 257
+ 331 419 l 257
+ 162 721 l 257
+ 9 721 l 257
+ 257 277 l 257
+ 257 0 l 257
+EndSplineSet
+Kerns2: 351 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: Yacute
+Encoding: 221 221 164
+Width: 654
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 179 180 N 1 0 0 1 257 196 2
+Refer: 163 89 N 1 0 0 1 0 0 2
+Kerns2: 351 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: Ycircumflex
+Encoding: 374 374 165
+Width: 654
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 221 710 N 1 0 0 1 208 196 2
+Refer: 163 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ydieresis
+Encoding: 376 376 166
+Width: 654
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 233 168 N 1 0 0 1 97 196 2
+Refer: 163 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Ygrave
+Encoding: 7922 7922 167
+Width: 654
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 289 96 N 1 0 0 1 145 196 2
+Refer: 163 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0232
+Encoding: 562 562 168
+Width: 654
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 336 175 N 1 0 0 1 213 196 2
+Refer: 163 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EF8
+Encoding: 7928 7928 169
+Width: 654
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 434 732 N 1 0 0 1 150 196 2
+Refer: 163 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Z
+Encoding: 90 90 170
+Width: 596
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+60 0 m 257
+ 557 0 l 257
+ 557 103 l 257
+ 229 103 l 257
+ 551 633 l 257
+ 551 721 l 257
+ 72 721 l 257
+ 72 614 l 257
+ 383 614 l 257
+ 60 86 l 257
+ 60 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: Zacute
+Encoding: 377 377 171
+Width: 596
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 179 180 N 1 0 0 1 257 196 2
+Refer: 170 90 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Zcaron
+Encoding: 381 381 172
+Width: 596
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 213 711 N 1 0 0 1 208 196 2
+Refer: 170 90 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Zdotaccent
+Encoding: 379 379 173
+Width: 596
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 237 729 N 1 0 0 1 213 196 2
+Refer: 170 90 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: a
+Encoding: 97 97 174
+Width: 573
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+AnchorPoint: "ogonek" 492 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+207 -11 m 256
+ 284 -11 339 17 370 63 c 257
+ 386 21 417 -4 495 -4 c 258
+ 540 -4 l 257
+ 545 93 l 257
+ 497 93 490 102 490 150 c 258
+ 490 358 l 258
+ 490 466 436 536 279 536 c 256
+ 135 536 70 471 70 369 c 258
+ 70 353 l 257
+ 195 353 l 257
+ 195 374 l 258
+ 195 415 210 443 276 443 c 256
+ 336 443 359 428 359 386 c 256
+ 359 345 344 339 317 329 c 258
+ 221 294 l 258
+ 98 250 55 203 55 136 c 256
+ 55 46 116 -11 207 -11 c 256
+241 79 m 256
+ 209 79 182 95 182 141 c 256
+ 182 172 202 198 254 219 c 258
+ 359 260 l 257
+ 359 141 l 257
+ 333 101 272 79 241 79 c 256
+EndSplineSet
+EndChar
+
+StartChar: aacute
+Encoding: 225 225 175
+Width: 573
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+Refer: 179 180 N 1 0 0 1 208 0 2
+Refer: 174 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: abreve
+Encoding: 259 259 176
+Width: 573
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+Refer: 207 728 N 1 0 0 1 160 0 2
+Refer: 174 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01CE
+Encoding: 462 462 177
+Width: 573
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 213 711 N 1 0 0 1 160 0 2
+Refer: 174 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: acircumflex
+Encoding: 226 226 178
+Width: 573
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+Refer: 221 710 N 1 0 0 1 160 0 2
+Refer: 174 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: acute
+Encoding: 180 180 179
+Width: 270
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+52 595 m 257
+ 125 595 l 257
+ 238 773 l 257
+ 107 773 l 257
+ 52 595 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni0201
+Encoding: 513 513 180
+Width: 573
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+Refer: 463 783 N 1 0 0 1 -21 0 2
+Refer: 174 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: adieresis
+Encoding: 228 228 181
+Width: 573
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+Refer: 233 168 N 1 0 0 1 48 0 2
+Refer: 174 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0227
+Encoding: 551 551 182
+Width: 573
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 237 729 N 1 0 0 1 165 0 2
+Refer: 174 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ae
+Encoding: 230 230 183
+Width: 846
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+55 143 m 256
+ 55 48 110 -11 205 -11 c 256
+ 303 -11 359 15 414 63 c 257
+ 440 14 496 -11 579 -11 c 256
+ 721 -11 789 20 792 172 c 257
+ 669 172 l 257
+ 667 89 641 81 581 81 c 256
+ 526 81 494 99 494 157 c 258
+ 494 251 l 257
+ 793 251 l 257
+ 793 364 l 258
+ 793 469 739 536 580 536 c 256
+ 516 536 464 515 429 472 c 257
+ 406 515 345 536 280 536 c 256
+ 136 536 70 466 70 364 c 258
+ 70 351 l 257
+ 195 351 l 257
+ 195 369 l 258
+ 195 410 210 443 277 443 c 256
+ 339 443 361 416 361 376 c 256
+ 361 308 321 312 219 286 c 256
+ 77 250 55 210 55 143 c 256
+251 77 m 256
+ 207 77 182 102 182 144 c 256
+ 182 173 195 204 257 218 c 256
+ 305 229 349 244 361 254 c 257
+ 361 126 l 257
+ 337 89 283 77 251 77 c 256
+494 320 m 257
+ 494 371 l 258
+ 494 427 530 443 583 443 c 256
+ 636 443 669 432 669 374 c 258
+ 669 320 l 257
+ 494 320 l 257
+EndSplineSet
+EndChar
+
+StartChar: aeacute
+Encoding: 509 509 184
+Width: 846
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 183 230 N 1 0 0 1 0 0 2
+Refer: 179 180 N 1 0 0 1 353 0 2
+EndChar
+
+StartChar: uni01E3
+Encoding: 483 483 185
+Width: 846
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 336 175 N 1 0 0 1 309 0 2
+Refer: 183 230 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: agrave
+Encoding: 224 224 186
+Width: 573
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+Refer: 289 96 N 1 0 0 1 96 0 2
+Refer: 174 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0203
+Encoding: 515 515 187
+Width: 573
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+Refer: 464 785 N 1 0 0 1 143 0 2
+Refer: 174 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: amacron
+Encoding: 257 257 188
+Width: 573
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+Refer: 336 175 N 1 0 0 1 165 0 2
+Refer: 174 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ampersand
+Encoding: 38 38 189
+Width: 745
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+358 -13 m 256
+ 482 -13 542 8 579 50 c 257
+ 642 -11 l 257
+ 720 73 l 257
+ 637 151 l 257
+ 646 179 650 226 650 268 c 258
+ 650 401 l 257
+ 535 401 l 257
+ 535 244 l 257
+ 312 464 l 257
+ 268 510 254 523 254 561 c 256
+ 254 607 272 637 371 637 c 256
+ 463 637 488 629 488 562 c 258
+ 488 542 l 257
+ 604 542 l 257
+ 604 583 l 258
+ 604 698 538 735 367 735 c 256
+ 191 735 125 681 125 569 c 256
+ 125 494 160 450 211 403 c 257
+ 116 375 72 323 72 225 c 256
+ 72 53 142 -13 358 -13 c 256
+358 95 m 256
+ 233 95 205 127 205 228 c 256
+ 205 288 207 326 273 344 c 257
+ 485 136 l 257
+ 467 96 411 95 358 95 c 256
+EndSplineSet
+EndChar
+
+StartChar: aogonek
+Encoding: 261 261 190
+Width: 573
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+Refer: 359 731 N 1 0 0 1 362 0 2
+Refer: 174 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: approxequal
+Encoding: 8776 8776 191
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+352 360 m 256
+ 418 360 471 409 471 501 c 257
+ 417 501 l 257
+ 417 466 401 442 357 442 c 256
+ 318 442 222 509 147 509 c 256
+ 81 509 29 460 29 368 c 257
+ 82 368 l 257
+ 82 403 99 428 143 428 c 256
+ 182 428 277 360 352 360 c 256
+352 552 m 256
+ 418 552 471 601 471 693 c 257
+ 417 693 l 257
+ 417 658 401 634 357 634 c 256
+ 318 634 222 701 147 701 c 256
+ 81 701 29 652 29 560 c 257
+ 82 560 l 257
+ 82 595 99 620 143 620 c 256
+ 182 620 277 552 352 552 c 256
+EndSplineSet
+EndChar
+
+StartChar: aring
+Encoding: 229 229 192
+Width: 573
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+Refer: 406 730 N 1 0 0 1 145 0 2
+Refer: 174 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: aringacute
+Encoding: 507 507 193
+Width: 573
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 192 229 N 1 0 0 1 0 0 2
+Refer: 179 180 N 1 0 0 1 201 249 2
+EndChar
+
+StartChar: asciicircum
+Encoding: 94 94 194
+Width: 613
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+39 250 m 257
+ 155 250 l 257
+ 304 543 l 257
+ 452 250 l 257
+ 563 250 l 257
+ 364 626 l 257
+ 237 626 l 257
+ 39 250 l 257
+EndSplineSet
+EndChar
+
+StartChar: asciitilde
+Encoding: 126 126 195
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+337 552 m 256
+ 403 552 456 616 456 708 c 257
+ 403 708 l 257
+ 403 673 387 634 343 634 c 256
+ 304 634 237 716 162 716 c 256
+ 96 716 44 652 44 560 c 257
+ 97 560 l 257
+ 97 595 113 635 157 635 c 256
+ 196 635 262 552 337 552 c 256
+EndSplineSet
+EndChar
+
+StartChar: asterisk
+Encoding: 42 42 196
+Width: 487
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+200 292 m 257
+ 287 292 l 257
+ 273 445 l 257
+ 394 353 l 257
+ 440 427 l 257
+ 303 497 l 257
+ 445 554 l 257
+ 406 632 l 257
+ 272 547 l 257
+ 287 706 l 257
+ 200 706 l 257
+ 214 553 l 257
+ 93 646 l 257
+ 47 571 l 257
+ 184 502 l 257
+ 42 445 l 257
+ 81 366 l 257
+ 214 451 l 257
+ 200 292 l 257
+EndSplineSet
+EndChar
+
+StartChar: at
+Encoding: 64 64 197
+Width: 1000
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+529 -233 m 256
+ 648 -233 773 -206 862 -183 c 257
+ 833 -84 l 257
+ 754 -101 646 -125 542 -125 c 256
+ 374 -125 242 -61 242 177 c 258
+ 242 362 l 258
+ 242 609 336 645 518 645 c 256
+ 699 645 728 579 728 437 c 257
+ 728 437 577 400 557 395 c 256
+ 379 348 356 285 356 209 c 256
+ 356 90 447 26 555 26 c 256
+ 632 26 709 59 740 102 c 257
+ 758 62 775 29 851 29 c 258
+ 902 29 l 257
+ 912 126 l 257
+ 865 126 860 144 860 192 c 258
+ 859 421 l 258
+ 859 643 778 744 495 744 c 256
+ 224 744 117 615 117 376 c 258
+ 117 170 l 258
+ 117 -133 291 -233 529 -233 c 256
+579 130 m 256
+ 525 130 480 153 480 217 c 256
+ 480 269 501 301 590 325 c 256
+ 613 331 727 362 729 363 c 257
+ 729 184 l 257
+ 724 159 639 130 579 130 c 256
+EndSplineSet
+EndChar
+
+StartChar: atilde
+Encoding: 227 227 198
+Width: 573
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+Refer: 434 732 N 1 0 0 1 102 0 2
+Refer: 174 97 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: b
+Encoding: 98 98 199
+Width: 601
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+325 -11 m 256
+ 452 -11 533 59 533 161 c 258
+ 533 368 l 258
+ 533 456 480 536 333 536 c 256
+ 289 536 248 525 216 508 c 257
+ 216 740 l 257
+ 83 740 l 257
+ 83 0 l 257
+ 174 0 l 257
+ 188 32 l 257
+ 222 10 268 -11 325 -11 c 256
+303 82 m 256
+ 267 82 236 90 216 105 c 257
+ 216 418 l 257
+ 226 423 261 443 309 443 c 256
+ 368 443 400 422 400 370 c 258
+ 400 158 l 258
+ 400 105 360 82 303 82 c 256
+EndSplineSet
+Kerns2: 483 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  481 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  480 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  473 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  199 -5 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: backslash
+Encoding: 92 92 200
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+330 0 m 257
+ 448 0 l 257
+ 170 740 l 257
+ 52 740 l 257
+ 330 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: bar
+Encoding: 124 124 201
+Width: 375
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+128 -62 m 257
+ 247 -62 l 257
+ 247 785 l 257
+ 128 785 l 257
+ 128 -62 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni1E03
+Encoding: 7683 7683 202
+Width: 601
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 237 729 N 1 0 0 1 217 0 2
+Refer: 199 98 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: braceleft
+Encoding: 123 123 203
+Width: 484
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+413 -62 m 257
+ 413 22 l 257
+ 329 22 322 49 322 123 c 258
+ 322 180 l 258
+ 322 278 301 332 243 353 c 257
+ 298 371 321 437 321 527 c 258
+ 321 591 l 258
+ 321 659 328 675 413 675 c 257
+ 413 760 l 257
+ 239 760 185 740 185 556 c 258
+ 185 506 l 258
+ 185 426 164 407 92 407 c 257
+ 92 291 l 257
+ 163 291 185 280 185 200 c 258
+ 185 157 l 258
+ 185 -6 230 -62 413 -62 c 257
+EndSplineSet
+EndChar
+
+StartChar: braceright
+Encoding: 125 125 204
+Width: 483
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+86 -62 m 257
+ 269 -62 314 -6 314 157 c 258
+ 314 200 l 258
+ 314 280 337 291 408 291 c 257
+ 408 407 l 257
+ 336 407 314 426 314 506 c 258
+ 314 556 l 258
+ 314 740 260 760 86 760 c 257
+ 86 675 l 257
+ 171 675 178 659 178 591 c 258
+ 178 527 l 258
+ 178 437 201 371 256 353 c 257
+ 198 332 178 278 178 180 c 258
+ 178 123 l 258
+ 178 49 170 22 86 22 c 257
+ 86 -62 l 257
+EndSplineSet
+EndChar
+
+StartChar: bracketleft
+Encoding: 91 91 205
+Width: 411
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+104 -43 m 257
+ 339 -43 l 257
+ 339 35 l 257
+ 237 35 l 257
+ 237 699 l 257
+ 339 699 l 257
+ 339 777 l 257
+ 104 777 l 257
+ 104 -43 l 257
+EndSplineSet
+EndChar
+
+StartChar: bracketright
+Encoding: 93 93 206
+Width: 411
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+71 -43 m 257
+ 307 -43 l 257
+ 307 777 l 257
+ 71 777 l 257
+ 71 699 l 257
+ 174 699 l 257
+ 174 35 l 257
+ 71 35 l 257
+ 71 -43 l 257
+EndSplineSet
+EndChar
+
+StartChar: breve
+Encoding: 728 728 207
+Width: 250
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+125 594 m 256
+ 187 594 250 623 250 721 c 257
+ 180 721 l 257
+ 180 684 152 672 125 672 c 256
+ 98 672 70 684 70 721 c 257
+ 0 721 l 257
+ 0 623 63 594 125 594 c 256
+EndSplineSet
+EndChar
+
+StartChar: brokenbar
+Encoding: 166 166 208
+Width: 375
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+137 -59 m 257
+ 239 -59 l 257
+ 239 288 l 257
+ 137 288 l 257
+ 137 -59 l 257
+137 391 m 257
+ 239 391 l 257
+ 239 721 l 257
+ 137 721 l 257
+ 137 391 l 257
+EndSplineSet
+EndChar
+
+StartChar: bullet
+Encoding: 8226 8226 209
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+250 190 m 256
+ 344 190 406 256 406 345 c 256
+ 406 435 344 500 250 500 c 256
+ 156 500 94 435 94 345 c 256
+ 94 255 156 190 250 190 c 256
+EndSplineSet
+EndChar
+
+StartChar: uni2219
+Encoding: 8729 8729 210
+Width: 224
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+57 611 m 257
+ 178 611 l 257
+ 178 731 l 257
+ 57 731 l 257
+ 57 611 l 257
+EndSplineSet
+EndChar
+
+StartChar: c
+Encoding: 99 99 211
+Width: 565
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "bot" 289 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+288 -11 m 256
+ 456 -11 498 38 501 186 c 257
+ 377 186 l 257
+ 377 97 362 82 291 82 c 256
+ 230 82 201 101 201 157 c 258
+ 201 369 l 258
+ 201 423 234 443 291 443 c 256
+ 361 443 377 427 377 332 c 257
+ 502 341 l 257
+ 502 491 429 536 286 536 c 256
+ 149 536 68 475 68 370 c 258
+ 68 160 l 258
+ 68 69 109 -11 288 -11 c 256
+EndSplineSet
+Kerns2: 211 -1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: cacute
+Encoding: 263 263 212
+Width: 565
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 211 99 N 1 0 0 1 0 0 2
+Refer: 179 180 N 1 0 0 1 217 0 2
+EndChar
+
+StartChar: caron
+Encoding: 711 711 213
+Width: 250
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+186 594 m 257
+ 288 739 l 257
+ 178 739 l 257
+ 130 669 l 257
+ 79 739 l 257
+ -34 739 l 257
+ 76 594 l 257
+ 186 594 l 257
+EndSplineSet
+EndChar
+
+StartChar: caron.alt
+Encoding: 65537 -1 214
+Width: 292
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "caron.alt" 187 524 mark 0
+LayerCount: 2
+Fore
+SplineSet
+346 583 m 257
+ 376 611 441 700 441 798 c 258
+ 441 907 l 257
+ 284 907 l 257
+ 284 772 l 257
+ 365 772 l 257
+ 365 705 318 633 293 605 c 257
+ 346 583 l 257
+EndSplineSet
+EndChar
+
+StartChar: ccaron
+Encoding: 269 269 215
+Width: 565
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 213 711 N 1 0 0 1 168 0 2
+Refer: 211 99 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ccedilla
+Encoding: 231 231 216
+Width: 565
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+Refer: 219 184 N 1 0 0 1 193 0 2
+Refer: 211 99 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ccircumflex
+Encoding: 265 265 217
+Width: 565
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 221 710 N 1 0 0 1 168 0 2
+Refer: 211 99 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: cdotaccent
+Encoding: 267 267 218
+Width: 565
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 237 729 N 1 0 0 1 173 0 2
+Refer: 211 99 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: cedilla
+Encoding: 184 184 219
+Width: 250
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "bot" 95 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+105 -236 m 256
+ 185 -236 225 -193 225 -147 c 256
+ 225 -103 203 -57 131 -44 c 257
+ 128 5 l 257
+ 77 5 l 257
+ 77 -79 l 257
+ 125 -80 147 -110 147 -136 c 256
+ 147 -161 128 -178 90 -178 c 256
+ 81 -178 71 -177 59 -175 c 257
+ 59 -232 l 257
+ 76 -235 91 -236 105 -236 c 256
+EndSplineSet
+EndChar
+
+StartChar: cent
+Encoding: 162 162 220
+Width: 540
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+263 491 m 257
+ 308 491 l 257
+ 308 630 l 257
+ 263 630 l 257
+ 263 491 l 257
+263 -104 m 257
+ 308 -104 l 257
+ 308 35 l 257
+ 263 35 l 257
+ 263 -104 l 257
+EndSplineSet
+Refer: 211 99 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: circumflex
+Encoding: 710 710 221
+Width: 250
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+-34 594 m 257
+ 79 594 l 257
+ 130 664 l 257
+ 178 594 l 257
+ 288 594 l 257
+ 186 739 l 257
+ 76 739 l 257
+ -34 594 l 257
+EndSplineSet
+EndChar
+
+StartChar: colon
+Encoding: 58 58 222
+Width: 375
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 381 46 N 1 0 0 1 3 96 2
+Refer: 381 46 N 1 0 0 1 3 417 2
+EndChar
+
+StartChar: comma
+Encoding: 44 44 223
+Width: 375
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+170 -190 m 257
+ 200 -163 266 -72 266 26 c 258
+ 266 135 l 257
+ 109 135 l 257
+ 109 0 l 257
+ 189 0 l 257
+ 189 -67 143 -139 118 -167 c 257
+ 170 -190 l 257
+EndSplineSet
+EndChar
+
+StartChar: copyright
+Encoding: 169 169 224
+Width: 867
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+439 140 m 256
+ 574 140 598 206 598 292 c 258
+ 598 309 l 257
+ 541 309 l 257
+ 541 279 l 258
+ 541 205 514 184 439 184 c 256
+ 365 184 326 205 326 279 c 258
+ 326 435 l 258
+ 326 509 364 533 438 533 c 256
+ 512 533 541 509 541 435 c 258
+ 541 403 l 257
+ 598 408 l 257
+ 598 420 l 258
+ 598 509 573 577 438 577 c 256
+ 297 577 267 513 267 424 c 258
+ 267 288 l 258
+ 267 201 299 140 439 140 c 256
+435 40 m 256
+ 257 40 127 175 127 353 c 256
+ 127 531 257 665 435 665 c 256
+ 614 665 741 531 741 353 c 256
+ 741 175 614 40 435 40 c 256
+434 -7 m 256
+ 637 -7 793 148 793 353 c 256
+ 793 557 637 711 434 711 c 256
+ 232 711 74 557 74 353 c 256
+ 74 148 232 -7 434 -7 c 256
+EndSplineSet
+EndChar
+
+StartChar: currency
+Encoding: 164 164 225
+Width: 549
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+273 186 m 256
+ 326 186 368 207 396 237 c 257
+ 464 188 l 257
+ 489 227 l 257
+ 422 275 l 257
+ 434 298 439 326 439 353 c 256
+ 439 380 433 409 421 433 c 257
+ 488 481 l 257
+ 465 521 l 257
+ 395 471 l 257
+ 367 501 326 520 273 520 c 256
+ 220 520 180 501 152 473 c 257
+ 86 521 l 257
+ 61 482 l 257
+ 125 436 l 257
+ 112 411 105 382 105 353 c 256
+ 105 325 112 297 124 273 c 257
+ 62 228 l 257
+ 85 187 l 257
+ 151 234 l 257
+ 179 205 220 186 273 186 c 256
+273 258 m 256
+ 209 258 180 304 180 353 c 256
+ 180 402 209 448 273 448 c 256
+ 336 448 365 402 365 353 c 256
+ 365 304 336 258 273 258 c 256
+EndSplineSet
+EndChar
+
+StartChar: d
+Encoding: 100 100 226
+Width: 599
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "caron.alt" 468 524 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+277 -11 m 256
+ 331 -11 379 7 413 31 c 257
+ 427 0 l 257
+ 517 0 l 257
+ 517 740 l 257
+ 384 740 l 257
+ 384 517 l 257
+ 353 528 316 536 286 536 c 256
+ 133 536 68 465 68 368 c 258
+ 68 158 l 258
+ 68 53 135 -11 277 -11 c 256
+292 82 m 256
+ 233 82 201 103 201 156 c 258
+ 201 371 l 258
+ 201 424 236 443 297 443 c 256
+ 334 443 366 433 384 425 c 257
+ 384 103 l 257
+ 363 91 329 82 292 82 c 256
+EndSplineSet
+Kerns2: 226 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: dagger
+Encoding: 8224 8224 227
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+200 0 m 257
+ 300 0 l 257
+ 300 418 l 257
+ 422 418 l 257
+ 422 495 l 257
+ 300 495 l 257
+ 300 646 l 257
+ 200 646 l 257
+ 200 495 l 257
+ 78 495 l 257
+ 78 418 l 257
+ 200 418 l 257
+ 200 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: daggerdbl
+Encoding: 8225 8225 228
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+200 0 m 257
+ 300 0 l 257
+ 300 187 l 257
+ 394 187 l 257
+ 394 278 l 257
+ 300 278 l 257
+ 300 426 l 257
+ 394 426 l 257
+ 394 517 l 257
+ 300 517 l 257
+ 300 646 l 257
+ 200 646 l 257
+ 200 517 l 257
+ 107 517 l 257
+ 107 426 l 257
+ 200 426 l 257
+ 200 278 l 257
+ 107 278 l 257
+ 107 187 l 257
+ 200 187 l 257
+ 200 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: dcaron
+Encoding: 271 271 229
+Width: 599
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 226 100 N 1 0 0 1 0 0 2
+Refer: 214 -1 N 1 0 0 1 282 0 2
+EndChar
+
+StartChar: dcroat
+Encoding: 273 273 230
+Width: 599
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 336 175 N 1 0 0 1 326 -8 2
+Refer: 226 100 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1E0B
+Encoding: 7691 7691 231
+Width: 599
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 237 729 N 1 0 0 1 142 0 2
+Refer: 226 100 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: degree
+Encoding: 176 176 232
+Width: 475
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+239 484 m 256
+ 172 484 141 529 141 577 c 256
+ 141 624 172 669 239 669 c 256
+ 305 669 336 624 336 577 c 256
+ 336 529 305 484 239 484 c 256
+239 415 m 256
+ 354 415 413 493 413 576 c 256
+ 413 659 354 738 239 738 c 256
+ 122 738 62 659 62 576 c 256
+ 62 493 122 415 239 415 c 256
+EndSplineSet
+EndChar
+
+StartChar: dieresis
+Encoding: 168 168 233
+Width: 472
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+56 607 m 257
+ 185 607 l 257
+ 185 721 l 257
+ 56 721 l 257
+ 56 607 l 257
+305 607 m 257
+ 434 607 l 257
+ 434 721 l 257
+ 305 721 l 257
+ 305 607 l 257
+EndSplineSet
+EndChar
+
+StartChar: divide
+Encoding: 247 247 234
+Width: 490
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+190 46 m 257
+ 301 46 l 257
+ 301 158 l 257
+ 190 158 l 257
+ 190 46 l 257
+55 234 m 257
+ 436 234 l 257
+ 436 313 l 257
+ 55 313 l 257
+ 55 234 l 257
+190 387 m 257
+ 301 387 l 257
+ 301 499 l 257
+ 190 499 l 257
+ 190 387 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni2215
+Encoding: 8725 8725 235
+Width: 500
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 420 47 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: dollar
+Encoding: 36 36 236
+Width: 625
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+300 -152 m 257
+ 354 -152 l 257
+ 354 858 l 257
+ 300 858 l 257
+ 300 -152 l 257
+EndSplineSet
+Refer: 127 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: dotaccent
+Encoding: 729 729 237
+Width: 238
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+57 611 m 257
+ 188 611 l 257
+ 188 735 l 257
+ 57 735 l 257
+ 57 611 l 257
+EndSplineSet
+EndChar
+
+StartChar: dotlessi
+Encoding: 305 305 238
+Width: 278
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "ogonek" 151 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+83 0 m 257
+ 206 0 l 257
+ 206 524 l 257
+ 83 524 l 257
+ 83 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni0237
+Encoding: 567 567 239
+Width: 328
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+8 -161 m 257
+ 61 -161 l 258
+ 191 -161 244 -89 244 15 c 258
+ 244 524 l 257
+ 110 524 l 257
+ 110 21 l 258
+ 110 -19 95 -66 27 -66 c 258
+ 5 -66 l 257
+ 8 -161 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni01F3
+Encoding: 499 499 240
+Width: 1085
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 488 122 N 1 0 0 1 600 0 2
+Refer: 226 100 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01C6
+Encoding: 454 454 241
+Width: 1085
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 490 382 N 1 0 0 1 600 0 2
+Refer: 226 100 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: e
+Encoding: 101 101 242
+Width: 576
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "bot" 294 0 basechar 0
+AnchorPoint: "ogonek" 344 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+294 -11 m 256
+ 431 -11 511 15 515 161 c 257
+ 392 161 l 257
+ 390 82 357 81 296 81 c 256
+ 233 81 201 89 201 151 c 258
+ 201 237 l 257
+ 515 237 l 257
+ 515 364 l 258
+ 515 469 454 536 292 536 c 256
+ 156 536 68 476 68 369 c 258
+ 68 164 l 258
+ 68 29 166 -11 294 -11 c 256
+201 318 m 257
+ 201 377 l 258
+ 201 433 242 443 295 443 c 256
+ 348 443 390 437 390 379 c 258
+ 390 318 l 257
+ 201 318 l 257
+EndSplineSet
+Kerns2: 479 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: eacute
+Encoding: 233 233 243
+Width: 576
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 242 101 N 1 0 0 1 0 0 2
+Refer: 179 180 N 1 0 0 1 220 0 2
+Kerns2: 479 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: ebreve
+Encoding: 277 277 244
+Width: 576
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 242 101 N 1 0 0 1 0 0 2
+Refer: 207 728 N 1 0 0 1 171 0 2
+EndChar
+
+StartChar: ecaron
+Encoding: 283 283 245
+Width: 576
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 242 101 N 1 0 0 1 0 0 2
+Refer: 213 711 N 1 0 0 1 171 0 2
+EndChar
+
+StartChar: ecircumflex
+Encoding: 234 234 246
+Width: 576
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 242 101 N 1 0 0 1 0 0 2
+Refer: 221 710 N 1 0 0 1 171 0 2
+Kerns2: 479 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: uni0205
+Encoding: 517 517 247
+Width: 576
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 463 783 N 1 0 0 1 -10 0 2
+Refer: 242 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: edieresis
+Encoding: 235 235 248
+Width: 576
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 242 101 N 1 0 0 1 0 0 2
+Refer: 233 168 N 1 0 0 1 60 0 2
+Kerns2: 479 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: edotaccent
+Encoding: 279 279 249
+Width: 576
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 242 101 N 1 0 0 1 0 0 2
+Refer: 237 729 N 1 0 0 1 176 0 2
+EndChar
+
+StartChar: egrave
+Encoding: 232 232 250
+Width: 576
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 289 96 N 1 0 0 1 108 0 2
+Refer: 242 101 N 1 0 0 1 0 0 2
+Kerns2: 479 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: eight
+Encoding: 56 56 251
+Width: 673
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+335 -10 m 256
+ 507 -10 604 58 604 183 c 256
+ 604 269 556 340 441 382 c 257
+ 542 414 585 480 585 551 c 256
+ 585 651 518 730 336 730 c 256
+ 156 730 83 652 83 554 c 256
+ 83 476 126 413 223 382 c 257
+ 127 340 70 279 70 182 c 256
+ 70 62 168 -10 335 -10 c 256
+336 94 m 256
+ 235 94 204 138 204 191 c 256
+ 204 245 246 289 336 328 c 257
+ 426 289 468 245 468 191 c 256
+ 468 138 437 94 336 94 c 256
+336 424 m 257
+ 253 464 220 493 220 546 c 256
+ 220 594 246 629 336 629 c 256
+ 426 629 451 592 451 546 c 256
+ 451 495 415 464 336 424 c 257
+EndSplineSet
+EndChar
+
+StartChar: uni0207
+Encoding: 519 519 252
+Width: 576
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 464 785 N 1 0 0 1 155 0 2
+Refer: 242 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ellipsis
+Encoding: 8230 8230 253
+Width: 878
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 381 46 N 1 0 0 1 -29 0 2
+Refer: 381 46 N 1 0 0 1 265 0 2
+Refer: 381 46 N 1 0 0 1 557 0 2
+EndChar
+
+StartChar: emacron
+Encoding: 275 275 254
+Width: 576
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 336 175 N 1 0 0 1 176 0 2
+Refer: 242 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: emdash
+Encoding: 8212 8212 255
+Width: 469
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+1 187 m 257
+ 467 187 l 257
+ 467 271 l 257
+ 1 271 l 257
+ 1 187 l 257
+EndSplineSet
+EndChar
+
+StartChar: emptyset
+Encoding: 8709 8709 256
+Width: 757
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+380 101 m 256
+ 248 101 151 200 151 333 c 256
+ 151 465 248 565 380 565 c 256
+ 513 565 607 465 607 333 c 256
+ 607 200 513 101 380 101 c 256
+379 32 m 256
+ 549 32 680 162 680 333 c 256
+ 680 503 549 633 379 633 c 256
+ 210 633 78 503 78 333 c 256
+ 78 162 210 32 379 32 c 256
+97 34 m 257
+ 140 -3 l 257
+ 666 624 l 257
+ 623 661 l 257
+ 97 34 l 257
+EndSplineSet
+EndChar
+
+StartChar: endash
+Encoding: 8211 8211 257
+Width: 349
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+62 218 m 257
+ 287 218 l 257
+ 287 299 l 257
+ 62 299 l 257
+ 62 218 l 257
+EndSplineSet
+EndChar
+
+StartChar: eng
+Encoding: 331 331 258
+Width: 612
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+270 -178 m 257
+ 486 -178 538 -99 538 87 c 258
+ 538 388 l 258
+ 538 476 470 536 369 536 c 256
+ 296 536 233 503 211 463 c 257
+ 211 524 l 257
+ 78 524 l 257
+ 78 0 l 257
+ 211 0 l 257
+ 211 370 l 258
+ 211 421 265 443 313 443 c 256
+ 354 443 405 430 405 375 c 258
+ 405 84 l 258
+ 405 -68 375 -74 256 -85 c 257
+ 270 -178 l 257
+EndSplineSet
+EndChar
+
+StartChar: eogonek
+Encoding: 281 281 259
+Width: 576
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 359 731 N 1 0 0 1 214 0 2
+Refer: 242 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: equal
+Encoding: 61 61 260
+Width: 429
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+55 181 m 257
+ 375 181 l 257
+ 375 266 l 257
+ 55 266 l 257
+ 55 181 l 257
+55 361 m 257
+ 375 361 l 257
+ 375 446 l 257
+ 55 446 l 257
+ 55 361 l 257
+EndSplineSet
+EndChar
+
+StartChar: estimated
+Encoding: 8494 8494 261
+Width: 588
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+311 573 m 256
+ 361 573 411 554 439 515 c 257
+ 439 395 l 257
+ 178 395 l 257
+ 178 515 l 257
+ 208 553 260 573 311 573 c 256
+46 356 m 256
+ 46 201 137 87 323 87 c 256
+ 424 87 490 130 538 188 c 257
+ 497 227 l 257
+ 452 178 397 148 323 148 c 256
+ 259 148 217 168 182 208 c 257
+ 182 342 l 257
+ 542 342 l 257
+ 542 516 466 625 311 625 c 256
+ 155 625 46 508 46 356 c 256
+EndSplineSet
+EndChar
+
+StartChar: eth
+Encoding: 240 240 262
+Width: 640
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+331 -11 m 256
+ 518 -11 576 96 576 225 c 258
+ 576 262 l 258
+ 576 555 456 672 334 707 c 257
+ 370 780 l 257
+ 312 808 l 257
+ 270 725 l 257
+ 234 733 199 735 169 735 c 256
+ 153 735 138 734 125 733 c 257
+ 114 652 l 257
+ 148 652 188 651 230 644 c 257
+ 192 570 l 257
+ 250 542 l 257
+ 294 627 l 257
+ 352 610 411 556 422 450 c 257
+ 409 461 335 476 303 476 c 256
+ 175 476 81 413 81 302 c 258
+ 81 167 l 258
+ 81 58 160 -11 331 -11 c 256
+331 87 m 256
+ 249 87 217 108 217 163 c 258
+ 217 299 l 258
+ 217 363 260 387 331 387 c 256
+ 360 387 412 374 433 359 c 257
+ 440 319 444 243 444 209 c 256
+ 444 126 435 87 331 87 c 256
+EndSplineSet
+EndChar
+
+StartChar: uni1EBD
+Encoding: 7869 7869 263
+Width: 576
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 434 732 N 1 0 0 1 113 0 2
+Refer: 242 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: exclam
+Encoding: 33 33 264
+Width: 316
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+94 0 m 257
+ 216 0 l 257
+ 216 120 l 257
+ 94 120 l 257
+ 94 0 l 257
+137 200 m 257
+ 174 200 l 257
+ 174 200 223 663 223 721 c 257
+ 96 721 l 257
+ 96 663 137 200 137 200 c 257
+EndSplineSet
+EndChar
+
+StartChar: exclamdown
+Encoding: 161 161 265
+Width: 316
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 264 33 N -1 0 0 -1 316 524 2
+EndChar
+
+StartChar: f
+Encoding: 102 102 266
+Width: 379
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+112 0 m 257
+ 245 0 l 257
+ 245 440 l 257
+ 349 440 l 257
+ 349 524 l 257
+ 245 524 l 257
+ 245 579 l 258
+ 245 614 254 648 312 648 c 258
+ 354 648 l 257
+ 350 740 l 257
+ 289 740 l 258
+ 164 740 112 674 112 549 c 258
+ 112 524 l 257
+ 42 524 l 257
+ 42 440 l 257
+ 112 440 l 257
+ 112 0 l 257
+EndSplineSet
+Kerns2: 356 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  266 -21 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: f_f
+Encoding: 65538 -1 267
+Width: 738
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 266 102 N 1 0 0 1 358 0 2
+Refer: 266 102 N 1 0 0 1 0 0 2
+Ligature2: "'liga' Standard Ligatures lookup 12 subtable" f f
+EndChar
+
+StartChar: f_f_i
+Encoding: 65539 -1 268
+Width: 1016
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 301 105 N 1 0 0 1 738 0 2
+Refer: 266 102 N 1 0 0 1 358 0 2
+Refer: 266 102 N 1 0 0 1 0 0 2
+Ligature2: "'liga' Standard Ligatures lookup 12 subtable" f f i
+EndChar
+
+StartChar: f_f_l
+Encoding: 65540 -1 269
+Width: 1096
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 324 108 N 1 0 0 1 738 0 2
+Refer: 266 102 N 1 0 0 1 358 0 2
+Refer: 266 102 N 1 0 0 1 0 0 2
+Ligature2: "'liga' Standard Ligatures lookup 12 subtable" f f l
+EndChar
+
+StartChar: f_j
+Encoding: 65541 -1 270
+Width: 292
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+EndChar
+
+StartChar: uni1E1F
+Encoding: 7711 7711 271
+Width: 379
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 266 102 N 1 0 0 1 0 0 2
+Refer: 237 729 N 1 0 0 1 81 196 2
+EndChar
+
+StartChar: uniFB01
+Encoding: 64257 64257 272
+Width: 658
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 301 105 N 1 0 0 1 380 0 2
+Refer: 266 102 N 1 0 0 1 0 0 2
+Ligature2: "'liga' Standard Ligatures lookup 12 subtable" f i
+EndChar
+
+StartChar: uni02C9
+Encoding: 713 713 273
+Width: 249
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-23 611 m 257
+ 272 611 l 257
+ 272 688 l 257
+ -23 688 l 257
+ -23 611 l 257
+EndSplineSet
+EndChar
+
+StartChar: five
+Encoding: 53 53 274
+Width: 673
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+350 -10 m 256
+ 517 -10 622 87 622 231 c 256
+ 622 362 534 467 388 467 c 256
+ 340 467 277 456 245 423 c 257
+ 265 601 l 257
+ 567 601 l 257
+ 567 721 l 257
+ 156 721 l 257
+ 116 347 l 257
+ 221 295 l 257
+ 266 338 323 345 362 345 c 256
+ 429 345 480 302 480 231 c 256
+ 480 134 422 99 342 99 c 256
+ 288 99 209 111 129 159 c 257
+ 91 62 l 257
+ 133 32 239 -10 350 -10 c 256
+EndSplineSet
+EndChar
+
+StartChar: uniFB02
+Encoding: 64258 64258 275
+Width: 738
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 324 108 N 1 0 0 1 380 0 2
+Refer: 266 102 N 1 0 0 1 0 0 2
+Ligature2: "'liga' Standard Ligatures lookup 12 subtable" f l
+EndChar
+
+StartChar: florin
+Encoding: 402 402 276
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+179 -100 m 256
+ 290 -100 300 -33 300 49 c 258
+ 300 412 l 257
+ 384 412 l 257
+ 384 470 l 257
+ 300 470 l 257
+ 300 589 l 258
+ 300 625 306 658 354 658 c 256
+ 361 658 372 655 382 655 c 257
+ 382 727 l 257
+ 356 730 341 730 323 730 c 256
+ 210 730 200 663 200 577 c 258
+ 200 470 l 257
+ 128 470 l 257
+ 128 412 l 257
+ 200 412 l 257
+ 200 36 l 258
+ 200 0 193 -27 149 -27 c 256
+ 142 -27 130 -26 118 -24 c 257
+ 118 -96 l 257
+ 144 -99 160 -100 179 -100 c 256
+EndSplineSet
+EndChar
+
+StartChar: foundryicon
+Encoding: 65542 -1 277
+Width: 657
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+237 198 m 257
+ 237 328 l 257
+ 289 328 l 257
+ 372 255 l 257
+ 372 328 l 257
+ 423 328 l 257
+ 423 198 l 257
+ 372 198 l 257
+ 289 270 l 257
+ 289 198 l 257
+ 237 198 l 257
+137 1 m 257
+ 327 136 l 257
+ 521 1 l 257
+ 450 225 l 257
+ 641 369 l 257
+ 404 369 l 257
+ 327 593 l 257
+ 253 369 l 257
+ 17 369 l 257
+ 207 225 l 257
+ 137 1 l 257
+EndSplineSet
+EndChar
+
+StartChar: four
+Encoding: 52 52 278
+Width: 673
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+410 0 m 257
+ 525 0 l 257
+ 525 138 l 257
+ 633 138 l 257
+ 633 258 l 257
+ 525 258 l 257
+ 525 421 l 257
+ 410 421 l 257
+ 410 258 l 257
+ 241 258 l 257
+ 451 721 l 257
+ 302 721 l 257
+ 83 259 l 257
+ 83 138 l 257
+ 410 138 l 257
+ 410 0 l 257
+EndSplineSet
+Substitution2: "'sups' Superscript lookup 10 subtable" uni2074
+EndChar
+
+StartChar: uni2074
+Encoding: 8308 8308 279
+Width: 544
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+303 301 m 257
+ 378 301 l 257
+ 378 397 l 257
+ 449 397 l 257
+ 449 475 l 257
+ 378 475 l 257
+ 378 578 l 257
+ 303 578 l 257
+ 303 475 l 257
+ 202 475 l 257
+ 315 765 l 257
+ 212 765 l 257
+ 88 476 l 257
+ 88 397 l 257
+ 303 397 l 257
+ 303 301 l 257
+EndSplineSet
+EndChar
+
+StartChar: fraction
+Encoding: 8260 8260 280
+Width: 448
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+27 0 m 257
+ 146 0 l 257
+ 422 740 l 257
+ 304 740 l 257
+ 27 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: g
+Encoding: 103 103 281
+Width: 606
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+288 -215 m 256
+ 456 -215 525 -135 525 -6 c 258
+ 525 525 l 257
+ 426 525 l 257
+ 415 487 l 257
+ 382 514 326 536 268 536 c 256
+ 120 536 68 457 68 367 c 258
+ 68 179 l 258
+ 68 76 147 16 273 16 c 256
+ 313 16 361 24 392 43 c 257
+ 392 -15 l 258
+ 392 -87 359 -118 283 -118 c 256
+ 242 -118 191 -112 142 -98 c 257
+ 115 -188 l 257
+ 152 -206 223 -215 288 -215 c 256
+295 104 m 256
+ 240 104 201 121 201 174 c 258
+ 201 370 l 258
+ 201 423 234 443 295 443 c 256
+ 355 443 392 420 392 406 c 258
+ 392 127 l 257
+ 374 114 340 104 295 104 c 256
+EndSplineSet
+Kerns2: 470 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  448 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  443 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  356 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  226 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: uni01F5
+Encoding: 501 501 282
+Width: 606
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 281 103 N 1 0 0 1 0 0 2
+Refer: 179 180 N 1 0 0 1 201 0 2
+EndChar
+
+StartChar: gbreve
+Encoding: 287 287 283
+Width: 606
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 281 103 N 1 0 0 1 0 0 2
+Refer: 207 728 N 1 0 0 1 152 0 2
+EndChar
+
+StartChar: gcaron
+Encoding: 487 487 284
+Width: 606
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 281 103 N 1 0 0 1 0 0 2
+Refer: 213 711 N 1 0 0 1 152 0 2
+EndChar
+
+StartChar: gcircumflex
+Encoding: 285 285 285
+Width: 606
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 281 103 N 1 0 0 1 0 0 2
+Refer: 221 710 N 1 0 0 1 152 0 2
+EndChar
+
+StartChar: uni0123
+Encoding: 291 291 286
+Width: 606
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 465 786 N 1 0 0 1 136 0 2
+Refer: 281 103 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: gdotaccent
+Encoding: 289 289 287
+Width: 606
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 281 103 N 1 0 0 1 0 0 2
+Refer: 237 729 N 1 0 0 1 157 0 2
+EndChar
+
+StartChar: germandbls
+Encoding: 223 223 288
+Width: 627
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+68 0 m 257
+ 220 0 l 257
+ 220 551 l 258
+ 220 607 238 644 309 644 c 256
+ 397 644 408 589 408 542 c 256
+ 408 489 391 436 302 436 c 257
+ 302 343 l 257
+ 402 333 451 317 451 206 c 256
+ 451 129 417 83 295 83 c 257
+ 304 -10 l 257
+ 513 -10 592 76 592 195 c 256
+ 592 267 569 371 429 400 c 257
+ 509 422 544 484 544 548 c 256
+ 544 652 481 736 299 736 c 256
+ 143 736 68 659 68 546 c 258
+ 68 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: grave
+Encoding: 96 96 289
+Width: 271
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+37 773 m 257
+ 151 595 l 257
+ 224 595 l 257
+ 168 773 l 257
+ 37 773 l 257
+EndSplineSet
+EndChar
+
+StartChar: greater
+Encoding: 62 62 290
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+74 15 m 257
+ 438 218 l 257
+ 438 325 l 257
+ 74 528 l 257
+ 74 414 l 257
+ 349 271 l 257
+ 74 127 l 257
+ 74 15 l 257
+EndSplineSet
+EndChar
+
+StartChar: greaterequal
+Encoding: 8805 8805 291
+Width: 610
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+120 115 m 257
+ 482 318 l 257
+ 482 425 l 257
+ 120 628 l 257
+ 120 514 l 257
+ 395 372 l 257
+ 120 227 l 257
+ 120 115 l 257
+90 0 m 257
+ 521 0 l 257
+ 521 85 l 257
+ 90 85 l 257
+ 90 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: guillemotleft
+Encoding: 171 171 292
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+169 39 m 257
+ 238 73 l 257
+ 137 259 l 257
+ 238 444 l 257
+ 166 479 l 257
+ 33 259 l 257
+ 169 39 l 257
+372 39 m 257
+ 439 73 l 257
+ 339 259 l 257
+ 439 444 l 257
+ 368 479 l 257
+ 235 259 l 257
+ 372 39 l 257
+EndSplineSet
+EndChar
+
+StartChar: guillemotright
+Encoding: 187 187 293
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+146 39 m 257
+ 279 259 l 257
+ 143 479 l 257
+ 75 444 l 257
+ 175 259 l 257
+ 75 73 l 257
+ 146 39 l 257
+348 39 m 257
+ 481 259 l 257
+ 345 479 l 257
+ 276 444 l 257
+ 377 259 l 257
+ 276 73 l 257
+ 348 39 l 257
+EndSplineSet
+EndChar
+
+StartChar: guilsinglleft
+Encoding: 8249 8249 294
+Width: 375
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+222 39 m 257
+ 290 73 l 257
+ 189 259 l 257
+ 290 444 l 257
+ 218 479 l 257
+ 85 259 l 257
+ 222 39 l 257
+EndSplineSet
+EndChar
+
+StartChar: guilsinglright
+Encoding: 8250 8250 295
+Width: 375
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+160 39 m 257
+ 293 259 l 257
+ 156 479 l 257
+ 88 444 l 257
+ 189 259 l 257
+ 88 73 l 257
+ 160 39 l 257
+EndSplineSet
+EndChar
+
+StartChar: h
+Encoding: 104 104 296
+Width: 621
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+83 0 m 257
+ 216 0 l 257
+ 216 360 l 258
+ 216 411 272 437 320 437 c 256
+ 362 437 409 424 409 369 c 258
+ 409 0 l 257
+ 542 0 l 257
+ 542 388 l 258
+ 542 476 481 536 380 536 c 256
+ 307 536 238 511 216 474 c 257
+ 216 740 l 257
+ 83 740 l 257
+ 83 0 l 257
+EndSplineSet
+Kerns2: 483 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  481 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  480 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: hbar
+Encoding: 295 295 297
+Width: 612
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+2 596 m 257
+ 359 596 l 257
+ 359 666 l 257
+ 2 666 l 257
+ 2 596 l 257
+EndSplineSet
+Refer: 296 104 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: hcircumflex
+Encoding: 293 293 298
+Width: 621
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 296 104 N 1 0 0 1 0 0 2
+Refer: 221 710 N 1 0 0 1 270 113 2
+EndChar
+
+StartChar: hungarumlaut
+Encoding: 733 733 299
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+52 565 m 257
+ 125 565 l 257
+ 238 743 l 257
+ 107 743 l 257
+ 52 565 l 257
+252 565 m 257
+ 325 565 l 257
+ 438 743 l 257
+ 308 743 l 257
+ 252 565 l 257
+EndSplineSet
+EndChar
+
+StartChar: hyphen
+Encoding: 45 45 300
+Width: 472
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+64 241 m 257
+ 408 241 l 257
+ 408 313 l 257
+ 64 313 l 257
+ 64 241 l 257
+EndSplineSet
+EndChar
+
+StartChar: i
+Encoding: 105 105 301
+Width: 278
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 238 305 N 1 0 0 1 0 0 2
+Refer: 237 729 N 1 0 0 1 22 0 2
+Substitution2: "'locl' Localized Forms in Latin lookup 9 subtable" idotaccent
+Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" idotaccent
+Substitution2: "'locl' Localized Forms in Latin lookup 7 subtable" idotaccent
+Substitution2: "'locl' Localized Forms in Latin lookup 6 subtable" idotaccent
+Substitution2: "'locl' Localized Forms in Latin lookup 5 subtable" idotaccent
+EndChar
+
+StartChar: i.loclTRK
+Encoding: 65543 -1 302
+Width: 1000
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: iacute
+Encoding: 237 237 303
+Width: 278
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 238 305 N 1 0 0 1 0 0 2
+Refer: 179 180 N 1 0 0 1 66 0 2
+EndChar
+
+StartChar: ibreve
+Encoding: 301 301 304
+Width: 278
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 238 305 N 1 0 0 1 0 0 2
+Refer: 207 728 N 1 0 0 1 18 0 2
+EndChar
+
+StartChar: uni01D0
+Encoding: 464 464 305
+Width: 278
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 238 305 N 1 0 0 1 0 0 2
+Refer: 213 711 N 1 0 0 1 18 0 2
+EndChar
+
+StartChar: icircumflex
+Encoding: 238 238 306
+Width: 278
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 238 305 N 1 0 0 1 0 0 2
+Refer: 221 710 N 1 0 0 1 18 0 2
+EndChar
+
+StartChar: uni0209
+Encoding: 521 521 307
+Width: 278
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 463 783 N 1 0 0 1 -164 0 2
+Refer: 238 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: idieresis
+Encoding: 239 239 308
+Width: 278
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 238 305 N 1 0 0 1 0 0 2
+Refer: 233 168 N 1 0 0 1 -94 0 2
+EndChar
+
+StartChar: igrave
+Encoding: 236 236 309
+Width: 278
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 289 96 N 1 0 0 1 -46 0 2
+Refer: 238 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni020B
+Encoding: 523 523 310
+Width: 278
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 464 785 N 1 0 0 1 1 0 2
+Refer: 238 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ij
+Encoding: 307 307 311
+Width: 606
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 317 106 N 1 0 0 1 278 0 2
+Refer: 301 105 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: imacron
+Encoding: 299 299 312
+Width: 278
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 336 175 N 1 0 0 1 22 0 2
+Refer: 238 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: infinity
+Encoding: 8734 8734 313
+Width: 1000
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+248 176 m 256
+ 337 176 500 303 500 303 c 257
+ 500 303 663 176 752 176 c 256
+ 831 176 894 245 894 374 c 256
+ 894 503 831 571 752 571 c 256
+ 663 571 500 444 500 444 c 257
+ 500 444 337 571 248 571 c 256
+ 169 571 106 503 106 374 c 256
+ 106 245 169 176 248 176 c 256
+257 290 m 256
+ 204 290 185 326 185 374 c 256
+ 185 422 204 458 257 458 c 256
+ 293 458 382 399 434 374 c 257
+ 382 349 293 290 257 290 c 256
+743 290 m 256
+ 707 290 618 349 566 374 c 257
+ 618 399 707 458 743 458 c 256
+ 796 458 815 422 815 374 c 256
+ 815 326 796 290 743 290 c 256
+EndSplineSet
+EndChar
+
+StartChar: integral
+Encoding: 8747 8747 314
+Width: 338
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+86 -128 m 256
+ 197 -128 208 -61 208 21 c 258
+ 208 562 l 258
+ 208 599 213 631 261 631 c 256
+ 268 631 280 629 290 628 c 257
+ 290 700 l 257
+ 264 703 248 704 230 704 c 256
+ 117 704 107 636 107 550 c 258
+ 107 8 l 258
+ 107 -28 101 -56 57 -56 c 256
+ 50 -56 37 -54 25 -52 c 257
+ 25 -124 l 257
+ 51 -127 67 -128 86 -128 c 256
+EndSplineSet
+EndChar
+
+StartChar: iogonek
+Encoding: 303 303 315
+Width: 278
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 359 731 N 1 0 0 1 21 0 2
+Refer: 238 305 N 1 0 0 1 0 0 2
+Refer: 237 729 N 1 0 0 1 22 0 2
+EndChar
+
+StartChar: itilde
+Encoding: 297 297 316
+Width: 278
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 434 732 N 1 0 0 1 -41 0 2
+Refer: 238 305 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: j
+Encoding: 106 106 317
+Width: 328
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 239 567 N 1 0 0 1 0 0 2
+Refer: 237 729 N 1 0 0 1 55 0 2
+EndChar
+
+StartChar: uni01F0
+Encoding: 496 496 318
+Width: 328
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 239 567 N 1 0 0 1 0 0 2
+Refer: 213 711 N 1 0 0 1 50 0 2
+EndChar
+
+StartChar: jcircumflex
+Encoding: 309 309 319
+Width: 328
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 239 567 N 1 0 0 1 0 0 2
+Refer: 221 710 N 1 0 0 1 50 0 2
+EndChar
+
+StartChar: k
+Encoding: 107 107 320
+Width: 591
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "bot" 324 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+83 0 m 257
+ 216 0 l 257
+ 216 183 l 257
+ 274 243 l 257
+ 438 0 l 257
+ 583 0 l 257
+ 377 298 l 257
+ 575 524 l 257
+ 423 524 l 257
+ 216 294 l 257
+ 216 740 l 257
+ 83 740 l 257
+ 83 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni01E9
+Encoding: 489 489 321
+Width: 591
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 320 107 N 1 0 0 1 0 0 2
+Refer: 213 711 N 1 0 0 1 255 113 2
+EndChar
+
+StartChar: uni0137
+Encoding: 311 311 322
+Width: 591
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 466 806 N 1 0 0 1 172 0 2
+Refer: 320 107 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: kgreenlandic
+Encoding: 312 312 323
+Width: 592
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+83 0 m 257
+ 217 0 l 257
+ 217 188 l 257
+ 264 236 l 257
+ 422 0 l 257
+ 581 0 l 257
+ 376 295 l 257
+ 571 524 l 257
+ 413 524 l 257
+ 388 497 242 321 217 294 c 257
+ 217 524 l 257
+ 83 524 l 257
+ 83 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: l
+Encoding: 108 108 324
+Width: 358
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "caron.alt" 159 524 basechar 0
+AnchorPoint: "bot" 230 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+260 -6 m 258
+ 316 -6 l 257
+ 326 93 l 257
+ 310 93 l 258
+ 239 93 216 116 216 174 c 258
+ 216 740 l 257
+ 83 740 l 257
+ 83 172 l 258
+ 83 40 143 -6 260 -6 c 258
+EndSplineSet
+EndChar
+
+StartChar: lacute
+Encoding: 314 314 325
+Width: 358
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 324 108 N 1 0 0 1 0 0 2
+Refer: 179 180 N 1 0 0 1 82 214 2
+EndChar
+
+StartChar: lcaron
+Encoding: 318 318 326
+Width: 358
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 324 108 N 1 0 0 1 0 0 2
+Refer: 214 -1 N 1 0 0 1 -28 0 2
+EndChar
+
+StartChar: uni013C
+Encoding: 316 316 327
+Width: 358
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 466 806 N 1 0 0 1 78 0 2
+Refer: 324 108 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ldot
+Encoding: 320 320 328
+Width: 358
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 382 183 N 1 0 0 1 151 19 2
+Refer: 324 108 N 1 0 0 1 0 0 2
+Ligature2: "Ligature Substitution lookup 1 subtable" l periodcentered
+EndChar
+
+StartChar: less
+Encoding: 60 60 329
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+418 15 m 257
+ 418 128 l 257
+ 143 271 l 257
+ 418 415 l 257
+ 418 528 l 257
+ 55 324 l 257
+ 55 217 l 257
+ 418 15 l 257
+EndSplineSet
+EndChar
+
+StartChar: lessequal
+Encoding: 8804 8804 330
+Width: 611
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+500 117 m 257
+ 500 229 l 257
+ 205 373 l 257
+ 500 517 l 257
+ 500 629 l 257
+ 117 426 l 257
+ 117 319 l 257
+ 500 117 l 257
+112 0 m 257
+ 499 0 l 257
+ 499 85 l 257
+ 112 85 l 257
+ 112 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni01C9
+Encoding: 457 457 331
+Width: 687
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 317 106 N 1 0 0 1 358 0 2
+Refer: 324 108 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: logicalnot
+Encoding: 172 172 332
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+344 110 m 257
+ 417 110 l 257
+ 417 370 l 257
+ 63 370 l 257
+ 63 287 l 257
+ 344 287 l 257
+ 344 110 l 257
+EndSplineSet
+EndChar
+
+StartChar: lozenge
+Encoding: 9674 9674 333
+Width: 539
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+228 0 m 257
+ 324 0 l 257
+ 489 368 l 257
+ 324 735 l 257
+ 228 735 l 257
+ 50 368 l 257
+ 228 0 l 257
+277 92 m 257
+ 154 368 l 257
+ 277 638 l 257
+ 387 368 l 257
+ 277 92 l 257
+EndSplineSet
+EndChar
+
+StartChar: lslash
+Encoding: 322 322 334
+Width: 345
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+12 332 m 257
+ 292 447 l 257
+ 292 517 l 257
+ 12 402 l 257
+ 12 332 l 257
+EndSplineSet
+Refer: 324 108 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: m
+Encoding: 109 109 335
+Width: 933
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+82 0 m 257
+ 215 0 l 257
+ 215 361 l 258
+ 215 412 277 438 325 438 c 256
+ 367 438 403 427 403 372 c 258
+ 403 0 l 257
+ 536 0 l 257
+ 536 366 l 257
+ 540 413 600 438 647 438 c 256
+ 688 438 722 427 722 372 c 258
+ 722 0 l 257
+ 854 0 l 257
+ 854 388 l 258
+ 854 476 789 536 688 536 c 256
+ 605 536 552 509 514 471 c 257
+ 487 516 437 536 370 536 c 256
+ 283 536 230 494 215 478 c 257
+ 215 524 l 257
+ 82 524 l 257
+ 82 0 l 257
+EndSplineSet
+Kerns2: 483 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  481 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  480 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: macron
+Encoding: 175 175 336
+Width: 249
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+-23 611 m 257
+ 272 611 l 257
+ 272 688 l 257
+ -23 688 l 257
+ -23 611 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni1E41
+Encoding: 7745 7745 337
+Width: 933
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 335 109 N 1 0 0 1 0 0 2
+Refer: 237 729 N 1 0 0 1 393 0 2
+EndChar
+
+StartChar: minus
+Encoding: 8722 8722 338
+Width: 386
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+60 214 m 257
+ 324 214 l 257
+ 324 302 l 257
+ 60 302 l 257
+ 60 214 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni03BC
+Encoding: 956 956 339
+Width: 608
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+398 524 m 257
+ 398 155 l 258
+ 398 106 342 81 294 81 c 256
+ 253 81 205 95 205 150 c 258
+ 205 524 l 257
+ 72 524 l 257
+ 72 -115 l 257
+ 195 -115 l 257
+ 195 1 l 257
+ 222 -6 248 -9 270 -9 c 256
+ 336 -9 379 20 398 66 c 257
+ 401 0 l 257
+ 531 0 l 257
+ 531 524 l 257
+ 398 524 l 257
+EndSplineSet
+EndChar
+
+StartChar: multiply
+Encoding: 215 215 340
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+129 105 m 257
+ 250 224 l 257
+ 372 105 l 257
+ 425 168 l 257
+ 310 281 l 257
+ 425 394 l 257
+ 372 458 l 257
+ 250 339 l 257
+ 129 458 l 257
+ 75 394 l 257
+ 191 281 l 257
+ 75 168 l 257
+ 129 105 l 257
+EndSplineSet
+EndChar
+
+StartChar: n
+Encoding: 110 110 341
+Width: 621
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "bot" 324 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+542 376 m 258
+ 542 469 486 537 377 537 c 256
+ 278 537 226 487 215 478 c 257
+ 215 524 l 257
+ 82 524 l 257
+ 82 0 l 257
+ 215 0 l 257
+ 215 359 l 258
+ 215 410 269 437 317 437 c 256
+ 359 437 409 424 409 369 c 258
+ 409 0 l 257
+ 542 0 l 257
+ 542 376 l 258
+EndSplineSet
+EndChar
+
+StartChar: nacute
+Encoding: 324 324 342
+Width: 621
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 341 110 N 1 0 0 1 0 0 2
+Refer: 179 180 N 1 0 0 1 250 0 2
+EndChar
+
+StartChar: napostrophe
+Encoding: 329 329 343
+Width: 621
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 461 700 N 1 0 0 1 0 0 2
+Refer: 341 110 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ncaron
+Encoding: 328 328 344
+Width: 621
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 341 110 N 1 0 0 1 0 0 2
+Refer: 213 711 N 1 0 0 1 201 0 2
+EndChar
+
+StartChar: uni0146
+Encoding: 326 326 345
+Width: 621
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 466 806 N 1 0 0 1 172 0 2
+Refer: 341 110 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: nine
+Encoding: 57 57 346
+Width: 673
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+237 0 m 257
+ 394 0 l 257
+ 535 258 l 257
+ 573 331 601 407 601 500 c 256
+ 601 648 510 730 346 730 c 256
+ 176 730 82 650 82 506 c 256
+ 82 331 167 278 320 278 c 256
+ 335 278 377 283 395 288 c 257
+ 237 0 l 257
+345 382 m 256
+ 251 382 221 412 221 506 c 256
+ 221 583 265 626 344 626 c 256
+ 418 626 458 583 458 507 c 256
+ 458 414 430 382 345 382 c 256
+EndSplineSet
+EndChar
+
+StartChar: uni01CC
+Encoding: 460 460 347
+Width: 949
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 317 106 N 1 0 0 1 621 0 2
+Refer: 341 110 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: notequal
+Encoding: 8800 8800 348
+Width: 448
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+62 73 m 257
+ 146 73 l 257
+ 360 534 l 257
+ 276 534 l 257
+ 62 73 l 257
+EndSplineSet
+Refer: 260 61 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ntilde
+Encoding: 241 241 349
+Width: 621
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 434 732 N 1 0 0 1 143 0 2
+Refer: 341 110 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: numbersign
+Encoding: 35 35 350
+Width: 698
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+109 0 m 257
+ 209 0 l 257
+ 250 233 l 257
+ 375 233 l 257
+ 333 0 l 257
+ 434 0 l 257
+ 474 233 l 257
+ 607 233 l 257
+ 607 302 l 257
+ 486 302 l 257
+ 510 438 l 257
+ 619 438 l 257
+ 619 506 l 257
+ 522 506 l 257
+ 559 721 l 257
+ 462 721 l 257
+ 424 506 l 257
+ 297 506 l 257
+ 334 721 l 257
+ 238 721 l 257
+ 199 506 l 257
+ 62 506 l 257
+ 62 438 l 257
+ 188 438 l 257
+ 163 302 l 257
+ 51 302 l 257
+ 51 233 l 257
+ 151 233 l 257
+ 109 0 l 257
+262 302 m 257
+ 285 438 l 257
+ 412 438 l 257
+ 387 302 l 257
+ 262 302 l 257
+EndSplineSet
+EndChar
+
+StartChar: o
+Encoding: 111 111 351
+Width: 591
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "bot" 297 0 basechar 0
+AnchorPoint: "ogonek" 329 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+296 81 m 256
+ 235 81 201 100 201 153 c 258
+ 201 371 l 258
+ 201 424 238 443 296 443 c 256
+ 356 443 391 424 391 371 c 258
+ 391 153 l 258
+ 391 100 353 81 296 81 c 256
+296 -11 m 256
+ 466 -11 523 55 523 159 c 258
+ 523 365 l 258
+ 523 472 439 536 296 536 c 256
+ 152 536 68 472 68 365 c 258
+ 68 159 l 258
+ 68 55 130 -11 296 -11 c 256
+EndSplineSet
+EndChar
+
+StartChar: oacute
+Encoding: 243 243 352
+Width: 591
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 351 111 N 1 0 0 1 0 0 2
+Refer: 179 180 N 1 0 0 1 215 0 2
+EndChar
+
+StartChar: obreve
+Encoding: 335 335 353
+Width: 591
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 351 111 N 1 0 0 1 0 0 2
+Refer: 207 728 N 1 0 0 1 167 0 2
+EndChar
+
+StartChar: uni01D2
+Encoding: 466 466 354
+Width: 591
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 351 111 N 1 0 0 1 0 0 2
+Refer: 213 711 N 1 0 0 1 167 0 2
+EndChar
+
+StartChar: ocircumflex
+Encoding: 244 244 355
+Width: 591
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 351 111 N 1 0 0 1 0 0 2
+Refer: 221 710 N 1 0 0 1 167 0 2
+EndChar
+
+StartChar: uni020D
+Encoding: 525 525 356
+Width: 591
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 463 783 N 1 0 0 1 -15 0 2
+Refer: 351 111 N 1 0 0 1 0 0 2
+Kerns2: 479 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: odieresis
+Encoding: 246 246 357
+Width: 591
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 351 111 N 1 0 0 1 0 0 2
+Refer: 233 168 N 1 0 0 1 55 0 2
+EndChar
+
+StartChar: oe
+Encoding: 339 339 358
+Width: 869
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+285 -11 m 256
+ 358 -11 408 11 442 44 c 257
+ 481 9 536 -11 597 -11 c 256
+ 739 -11 812 22 815 174 c 257
+ 691 174 l 257
+ 689 91 659 81 599 81 c 256
+ 543 81 509 99 509 157 c 258
+ 509 250 l 257
+ 815 250 l 257
+ 815 364 l 258
+ 815 469 755 536 596 536 c 256
+ 532 536 479 518 441 477 c 257
+ 403 518 349 536 285 536 c 256
+ 150 536 61 474 61 366 c 258
+ 61 159 l 258
+ 61 55 120 -11 285 -11 c 256
+285 81 m 256
+ 225 81 194 100 194 153 c 258
+ 194 372 l 258
+ 194 425 229 443 285 443 c 256
+ 345 443 375 424 375 372 c 258
+ 375 153 l 258
+ 375 100 341 81 285 81 c 256
+509 320 m 257
+ 509 371 l 258
+ 509 427 546 443 599 443 c 256
+ 652 443 690 432 690 374 c 258
+ 690 320 l 257
+ 509 320 l 257
+EndSplineSet
+EndChar
+
+StartChar: ogonek
+Encoding: 731 731 359
+Width: 237
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "ogonek" 129 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+200 -248 m 257
+ 206 -179 l 257
+ 163 -179 120 -171 120 -120 c 256
+ 120 -77 141 -35 161 4 c 257
+ 104 4 l 257
+ 60 -38 30 -95 30 -144 c 256
+ 30 -232 116 -248 193 -248 c 258
+ 200 -248 l 257
+EndSplineSet
+EndChar
+
+StartChar: ograve
+Encoding: 242 242 360
+Width: 591
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 351 111 N 1 0 0 1 0 0 2
+Refer: 289 96 N 1 0 0 1 103 0 2
+EndChar
+
+StartChar: ohungarumlaut
+Encoding: 337 337 361
+Width: 591
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 351 111 N 1 0 0 1 0 0 2
+Refer: 299 733 N 1 0 0 1 118 0 2
+EndChar
+
+StartChar: uni020F
+Encoding: 527 527 362
+Width: 591
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 464 785 N 1 0 0 1 150 0 2
+Refer: 351 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: omacron
+Encoding: 333 333 363
+Width: 591
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 351 111 N 1 0 0 1 0 0 2
+Refer: 336 175 N 1 0 0 1 171 0 2
+EndChar
+
+StartChar: one
+Encoding: 49 49 364
+Width: 673
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+122 0 m 257
+ 602 0 l 257
+ 602 102 l 257
+ 443 102 l 257
+ 443 721 l 257
+ 343 721 l 257
+ 120 686 l 257
+ 132 580 l 257
+ 298 606 l 257
+ 298 102 l 257
+ 122 102 l 257
+ 122 0 l 257
+EndSplineSet
+Substitution2: "'sups' Superscript lookup 10 subtable" uni00B9
+EndChar
+
+StartChar: onehalf
+Encoding: 189 189 365
+Width: 1259
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+841 -1 m 257
+ 1157 -1 l 257
+ 1157 78 l 257
+ 944 78 l 257
+ 1058 188 l 258
+ 1116 244 1163 299 1163 375 c 256
+ 1163 459 1121 523 989 523 c 256
+ 850 523 807 468 807 345 c 257
+ 913 345 l 257
+ 913 420 924 445 990 445 c 256
+ 1040 445 1058 421 1058 375 c 256
+ 1058 329 1036 297 993 253 c 258
+ 819 78 l 257
+ 841 -1 l 257
+64 206 m 257
+ 418 206 l 257
+ 418 278 l 257
+ 298 278 l 257
+ 298 721 l 257
+ 227 721 l 257
+ 62 695 l 257
+ 71 625 l 257
+ 194 644 l 257
+ 194 278 l 257
+ 63 278 l 257
+ 64 206 l 257
+429 0 m 257
+ 514 0 l 257
+ 827 735 l 257
+ 742 735 l 257
+ 429 0 l 257
+EndSplineSet
+Ligature2: "'frac' Diagonal Fractions lookup 11 subtable" one slash two
+EndChar
+
+StartChar: onequarter
+Encoding: 188 188 366
+Width: 1187
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+966 0 m 257
+ 1043 0 l 257
+ 1043 103 l 257
+ 1125 103 l 257
+ 1125 182 l 257
+ 1043 182 l 257
+ 1043 300 l 257
+ 966 300 l 257
+ 966 182 l 257
+ 820 182 l 257
+ 951 524 l 257
+ 858 524 l 257
+ 721 180 l 257
+ 721 103 l 257
+ 966 103 l 257
+ 966 0 l 257
+64 206 m 257
+ 418 206 l 257
+ 418 278 l 257
+ 298 278 l 257
+ 298 721 l 257
+ 227 721 l 257
+ 62 695 l 257
+ 71 625 l 257
+ 194 644 l 257
+ 194 278 l 257
+ 63 278 l 257
+ 64 206 l 257
+415 0 m 257
+ 500 0 l 257
+ 812 735 l 257
+ 728 735 l 257
+ 415 0 l 257
+EndSplineSet
+Ligature2: "'frac' Diagonal Fractions lookup 11 subtable" one slash four
+EndChar
+
+StartChar: uni00B9
+Encoding: 185 185 367
+Width: 550
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+104 305 m 257
+ 459 305 l 257
+ 459 372 l 257
+ 338 372 l 257
+ 338 760 l 257
+ 272 760 l 257
+ 103 737 l 257
+ 111 667 l 257
+ 243 684 l 257
+ 243 372 l 257
+ 104 372 l 257
+ 104 305 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni01EB
+Encoding: 491 491 368
+Width: 591
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 359 731 N 1 0 0 1 199 0 2
+Refer: 351 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ordfeminine
+Encoding: 170 170 369
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+SplineSet
+65 383 m 256
+ 65 303 112 253 188 253 c 257
+ 188 252 l 257
+ 250 252 296 288 319 320 c 257
+ 334 284 350 259 409 259 c 258
+ 450 259 l 257
+ 459 342 l 257
+ 425 342 417 355 417 396 c 258
+ 417 569 l 258
+ 417 662 373 722 247 722 c 256
+ 131 722 79 666 79 579 c 258
+ 79 565 l 257
+ 179 565 l 257
+ 179 583 l 258
+ 179 618 191 643 245 643 c 256
+ 293 643 310 624 310 588 c 256
+ 310 531 276 530 200 506 c 256
+ 86 470 65 441 65 383 c 256
+168 391 m 256
+ 168 415 182 438 226 451 c 256
+ 262 462 296 476 309 489 c 257
+ 309 376 l 257
+ 289 345 250 334 224 334 c 256
+ 188 334 168 354 168 391 c 256
+EndSplineSet
+EndChar
+
+StartChar: ordmasculine
+Encoding: 186 186 370
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+249 330 m 258
+ 200 330 172 346 172 392 c 258
+ 172 580 l 258
+ 172 626 202 642 249 642 c 256
+ 298 642 326 626 326 580 c 258
+ 326 392 l 258
+ 326 346 296 330 250 330 c 258
+ 249 330 l 258
+250 250 m 256
+ 387 250 434 307 434 396 c 258
+ 434 574 l 258
+ 434 666 366 720 250 720 c 256
+ 133 720 66 666 66 574 c 258
+ 66 396 l 258
+ 66 306 116 250 250 250 c 256
+EndSplineSet
+EndChar
+
+StartChar: oslash
+Encoding: 248 248 371
+Width: 576
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+179 -104 m 257
+ 438 615 l 257
+ 402 625 l 257
+ 144 -95 l 257
+ 179 -104 l 257
+EndSplineSet
+Refer: 351 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: oslashacute
+Encoding: 511 511 372
+Width: 576
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 371 248 N 1 0 0 1 0 0 2
+Refer: 179 180 N 1 0 0 1 211 0 2
+EndChar
+
+StartChar: otilde
+Encoding: 245 245 373
+Width: 591
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 434 732 N 1 0 0 1 108 0 2
+Refer: 351 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: p
+Encoding: 112 112 374
+Width: 590
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+82 -200 m 257
+ 215 -200 l 257
+ 215 8 l 257
+ 240 -3 273 -11 315 -11 c 256
+ 463 -11 530 69 530 159 c 258
+ 530 367 l 258
+ 530 468 458 536 331 536 c 256
+ 274 536 223 515 188 490 c 257
+ 175 524 l 257
+ 82 524 l 257
+ 82 -200 l 257
+304 81 m 256
+ 253 81 222 100 215 104 c 257
+ 215 411 l 257
+ 230 426 266 443 308 443 c 256
+ 364 443 397 422 397 369 c 258
+ 397 156 l 258
+ 397 103 365 81 304 81 c 256
+EndSplineSet
+Kerns2: 483 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  481 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  480 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: paragraph
+Encoding: 182 182 375
+Width: 596
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+218 0 m 257
+ 302 0 l 257
+ 302 651 l 257
+ 415 651 l 257
+ 415 0 l 257
+ 499 0 l 257
+ 499 721 l 257
+ 226 721 l 258
+ 131 721 46 678 46 573 c 256
+ 46 470 123 419 218 419 c 257
+ 218 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: parenleft
+Encoding: 40 40 376
+Width: 461
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+382 -78 m 257
+ 382 27 l 257
+ 280 27 238 59 238 190 c 258
+ 238 498 l 258
+ 238 630 281 664 382 664 c 257
+ 382 769 l 257
+ 380 769 l 258
+ 167 769 102 654 102 481 c 258
+ 102 205 l 258
+ 102 33 168 -78 380 -78 c 258
+ 382 -78 l 257
+EndSplineSet
+EndChar
+
+StartChar: parenright
+Encoding: 41 41 377
+Width: 461
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+88 -78 m 257
+ 90 -78 l 258
+ 303 -78 368 37 368 210 c 258
+ 368 486 l 258
+ 368 658 302 769 90 769 c 258
+ 88 769 l 257
+ 88 664 l 257
+ 190 664 232 632 232 500 c 258
+ 232 193 l 258
+ 232 61 189 28 88 28 c 257
+ 88 -78 l 257
+EndSplineSet
+EndChar
+
+StartChar: partialdiff
+Encoding: 8706 8706 378
+Width: 593
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+231 -10 m 256
+ 423 -10 541 189 541 440 c 256
+ 541 636 427 730 286 730 c 256
+ 224 730 154 710 101 678 c 257
+ 121 629 l 257
+ 171 656 207 666 245 666 c 256
+ 327 666 401 606 401 468 c 258
+ 401 456 l 257
+ 176 442 54 279 54 151 c 256
+ 54 66 108 -10 231 -10 c 256
+238 63 m 256
+ 221 63 207 91 207 138 c 256
+ 207 233 277 364 397 388 c 257
+ 385 259 329 63 238 63 c 256
+EndSplineSet
+EndChar
+
+StartChar: uni1E57
+Encoding: 7767 7767 379
+Width: 590
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 374 112 N 1 0 0 1 0 0 2
+Refer: 237 729 N 1 0 0 1 216 0 2
+EndChar
+
+StartChar: percent
+Encoding: 37 37 380
+Width: 1032
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+242 388 m 256
+ 180 388 174 436 174 502 c 258
+ 174 546 l 258
+ 174 609 178 653 242 653 c 256
+ 307 653 312 609 312 545 c 258
+ 312 502 l 258
+ 312 436 304 388 242 388 c 256
+242 324 m 256
+ 354 324 391 397 391 509 c 258
+ 391 536 l 257
+ 390 650 354 716 242 716 c 256
+ 129 716 96 649 96 535 c 258
+ 96 509 l 258
+ 96 398 130 324 242 324 c 256
+788 54 m 256
+ 726 54 719 103 719 169 c 258
+ 719 212 l 258
+ 719 275 724 319 788 319 c 256
+ 852 319 857 275 857 211 c 258
+ 857 169 l 258
+ 857 103 850 54 788 54 c 256
+788 -9 m 256
+ 900 -9 937 64 937 176 c 258
+ 937 202 l 257
+ 936 316 900 383 788 383 c 256
+ 675 383 641 316 641 202 c 258
+ 641 176 l 258
+ 641 65 676 -9 788 -9 c 256
+339 0 m 257
+ 426 0 l 257
+ 688 706 l 257
+ 604 706 l 257
+ 339 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: period
+Encoding: 46 46 381
+Width: 309
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+80 0 m 257
+ 226 0 l 257
+ 226 139 l 257
+ 80 139 l 257
+ 80 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: periodcentered
+Encoding: 183 183 382
+Width: 250
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+129 381 m 257
+ 250 381 l 257
+ 250 500 l 257
+ 129 500 l 257
+ 129 381 l 257
+EndSplineSet
+EndChar
+
+StartChar: perthousand
+Encoding: 8240 8240 383
+Width: 1352
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+209 385 m 256
+ 147 385 141 434 141 500 c 258
+ 141 543 l 258
+ 141 606 145 650 209 650 c 256
+ 273 650 278 606 278 542 c 258
+ 278 500 l 258
+ 278 434 271 385 209 385 c 256
+209 321 m 256
+ 321 321 358 394 358 506 c 258
+ 358 533 l 257
+ 357 647 321 713 209 713 c 256
+ 96 713 62 646 62 532 c 258
+ 62 506 l 258
+ 62 395 97 321 209 321 c 256
+755 54 m 256
+ 693 54 686 103 686 169 c 258
+ 686 212 l 258
+ 686 275 691 319 755 319 c 256
+ 819 319 824 275 824 211 c 258
+ 824 169 l 258
+ 824 103 817 54 755 54 c 256
+755 -9 m 256
+ 867 -9 904 64 904 176 c 258
+ 904 202 l 257
+ 903 316 867 383 755 383 c 256
+ 642 383 608 316 608 202 c 258
+ 608 176 l 258
+ 608 65 643 -9 755 -9 c 256
+1123 54 m 256
+ 1061 54 1054 103 1054 169 c 258
+ 1054 212 l 258
+ 1054 275 1059 319 1123 319 c 256
+ 1187 319 1192 275 1192 211 c 258
+ 1192 169 l 258
+ 1192 103 1185 54 1123 54 c 256
+1123 -9 m 256
+ 1235 -9 1272 64 1272 176 c 258
+ 1272 202 l 257
+ 1271 316 1235 383 1123 383 c 256
+ 1010 383 976 316 976 202 c 258
+ 976 176 l 258
+ 976 65 1011 -9 1123 -9 c 256
+306 0 m 257
+ 393 0 l 257
+ 655 706 l 257
+ 571 706 l 257
+ 306 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: pi
+Encoding: 960 960 384
+Width: 613
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+18 391 m 257
+ 47 412 64 430 116 435 c 257
+ 116 0 l 257
+ 239 0 l 257
+ 239 436 l 257
+ 369 436 l 257
+ 369 145 l 258
+ 369 19 425 -10 534 -10 c 258
+ 542 -10 l 257
+ 564 76 l 257
+ 502 88 492 89 492 167 c 258
+ 492 436 l 257
+ 581 436 l 257
+ 581 524 l 257
+ 116 524 l 258
+ 66 524 37 503 18 481 c 257
+ 18 391 l 257
+EndSplineSet
+EndChar
+
+StartChar: plus
+Encoding: 43 43 385
+Width: 471
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+196 76 m 257
+ 276 76 l 257
+ 276 238 l 257
+ 407 238 l 257
+ 407 317 l 257
+ 276 317 l 257
+ 276 473 l 257
+ 196 473 l 257
+ 196 317 l 257
+ 64 317 l 257
+ 64 238 l 257
+ 196 238 l 257
+ 196 76 l 257
+EndSplineSet
+EndChar
+
+StartChar: plusminus
+Encoding: 177 177 386
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+209 159 m 257
+ 291 159 l 257
+ 291 289 l 257
+ 417 289 l 257
+ 417 369 l 257
+ 291 369 l 257
+ 291 497 l 257
+ 209 497 l 257
+ 209 369 l 257
+ 83 369 l 257
+ 83 289 l 257
+ 209 289 l 257
+ 209 159 l 257
+83 0 m 257
+ 417 0 l 257
+ 417 81 l 257
+ 83 81 l 257
+ 83 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: product
+Encoding: 8719 8719 387
+Width: 867
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+318 156 m 257
+ 382 156 l 257
+ 382 318 l 257
+ 469 318 l 258
+ 576 318 604 372 604 437 c 258
+ 604 443 l 257
+ 602 528 553 563 476 563 c 258
+ 318 563 l 257
+ 318 156 l 257
+382 362 m 257
+ 382 519 l 257
+ 478 519 l 258
+ 536 519 540 469 540 440 c 258
+ 540 428 l 258
+ 540 397 529 362 473 362 c 258
+ 382 362 l 257
+435 40 m 256
+ 257 40 127 175 127 353 c 256
+ 127 531 257 665 435 665 c 256
+ 614 665 741 531 741 353 c 256
+ 741 175 614 40 435 40 c 256
+434 -7 m 256
+ 637 -7 793 148 793 353 c 256
+ 793 557 637 711 434 711 c 256
+ 232 711 74 557 74 353 c 256
+ 74 148 232 -7 434 -7 c 256
+EndSplineSet
+EndChar
+
+StartChar: q
+Encoding: 113 113 388
+Width: 590
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+376 -200 m 257
+ 509 -200 l 257
+ 509 524 l 257
+ 410 524 l 257
+ 400 491 l 257
+ 370 516 320 536 265 536 c 256
+ 138 536 61 469 61 366 c 258
+ 61 155 l 258
+ 61 67 115 -11 262 -11 c 256
+ 302 -11 344 -2 376 16 c 257
+ 376 -200 l 257
+287 81 m 256
+ 228 81 193 97 193 150 c 258
+ 193 369 l 258
+ 193 422 230 443 287 443 c 256
+ 334 443 364 429 376 410 c 257
+ 376 107 l 257
+ 375 104 343 81 287 81 c 256
+EndSplineSet
+EndChar
+
+StartChar: question
+Encoding: 63 63 389
+Width: 607
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+217 210 m 257
+ 329 210 l 257
+ 418 284 l 258
+ 507 358 546 421 546 521 c 256
+ 546 629 511 733 302 733 c 256
+ 91 733 63 639 63 506 c 258
+ 63 470 l 257
+ 197 470 l 257
+ 197 511 l 258
+ 197 580 203 625 302 625 c 256
+ 393 625 403 570 403 516 c 256
+ 403 457 385 420 338 361 c 258
+ 217 210 l 257
+209 0 m 257
+ 331 0 l 257
+ 331 120 l 257
+ 209 120 l 257
+ 209 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: questiondown
+Encoding: 191 191 390
+Width: 607
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 389 63 N -1 0 0 -1 599 595 2
+EndChar
+
+StartChar: quotedbl
+Encoding: 34 34 391
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+135 426 m 257
+ 193 426 l 257
+ 220 740 l 257
+ 97 740 l 257
+ 135 426 l 257
+308 426 m 257
+ 366 426 l 257
+ 403 740 l 257
+ 279 740 l 257
+ 308 426 l 257
+EndSplineSet
+EndChar
+
+StartChar: quotedblbase
+Encoding: 8222 8222 392
+Width: 670
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+450 -190 m 257
+ 480 -163 545 -72 545 26 c 258
+ 545 135 l 257
+ 388 135 l 257
+ 388 0 l 257
+ 469 0 l 257
+ 469 -67 422 -139 397 -167 c 257
+ 450 -190 l 257
+206 -190 m 257
+ 236 -163 302 -72 302 26 c 258
+ 302 135 l 257
+ 145 135 l 257
+ 145 0 l 257
+ 225 0 l 257
+ 225 -67 179 -139 154 -167 c 257
+ 206 -190 l 257
+EndSplineSet
+EndChar
+
+StartChar: quotedblleft
+Encoding: 8220 8220 393
+Width: 639
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+221 740 m 257
+ 191 713 125 622 125 524 c 258
+ 125 415 l 257
+ 282 415 l 257
+ 282 550 l 257
+ 202 550 l 257
+ 202 617 248 689 273 717 c 257
+ 221 740 l 257
+453 740 m 257
+ 423 713 357 622 357 524 c 258
+ 357 415 l 257
+ 515 415 l 257
+ 515 550 l 257
+ 434 550 l 257
+ 434 617 480 689 505 717 c 257
+ 453 740 l 257
+EndSplineSet
+EndChar
+
+StartChar: quotedblright
+Encoding: 8221 8221 394
+Width: 659
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+206 416 m 257
+ 236 443 302 533 302 631 c 258
+ 302 740 l 257
+ 145 740 l 257
+ 145 605 l 257
+ 225 605 l 257
+ 225 538 179 466 154 438 c 257
+ 206 416 l 257
+438 416 m 257
+ 468 443 534 533 534 631 c 258
+ 534 740 l 257
+ 377 740 l 257
+ 377 605 l 257
+ 458 605 l 257
+ 458 538 411 466 386 438 c 257
+ 438 416 l 257
+EndSplineSet
+EndChar
+
+StartChar: quoteleft
+Encoding: 8216 8216 395
+Width: 426
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+240 734 m 257
+ 210 707 145 616 145 518 c 258
+ 145 409 l 257
+ 302 409 l 257
+ 302 544 l 257
+ 221 544 l 257
+ 221 611 267 683 292 711 c 257
+ 240 734 l 257
+EndSplineSet
+EndChar
+
+StartChar: quoteright
+Encoding: 8217 8217 396
+Width: 407
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+187 410 m 257
+ 217 437 282 527 282 625 c 258
+ 282 734 l 257
+ 125 734 l 257
+ 125 600 l 257
+ 206 600 l 257
+ 206 533 159 460 134 432 c 257
+ 187 410 l 257
+EndSplineSet
+EndChar
+
+StartChar: quotesinglbase
+Encoding: 8218 8218 397
+Width: 426
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+206 -190 m 257
+ 236 -163 302 -72 302 26 c 258
+ 302 135 l 257
+ 145 135 l 257
+ 145 0 l 257
+ 225 0 l 257
+ 225 -67 179 -139 154 -167 c 257
+ 206 -190 l 257
+EndSplineSet
+EndChar
+
+StartChar: quotesingle
+Encoding: 39 39 398
+Width: 375
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+165 426 m 257
+ 223 426 l 257
+ 250 740 l 257
+ 126 740 l 257
+ 165 426 l 257
+EndSplineSet
+EndChar
+
+StartChar: r
+Encoding: 114 114 399
+Width: 417
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "bot" 147 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+78 0 m 257
+ 211 0 l 257
+ 211 352 l 257
+ 221 394 326 416 393 419 c 257
+ 396 532 l 257
+ 393 532 388 533 384 533 c 256
+ 334 533 234 506 211 462 c 257
+ 211 524 l 257
+ 78 524 l 257
+ 78 0 l 257
+EndSplineSet
+Kerns2: 388 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  226 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  211 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: racute
+Encoding: 341 341 400
+Width: 417
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 399 114 N 1 0 0 1 0 0 2
+Refer: 179 180 N 1 0 0 1 183 0 2
+EndChar
+
+StartChar: radical
+Encoding: 8730 8730 401
+Width: 633
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+-1 250 m 257
+ 57 250 l 257
+ 208 0 l 257
+ 329 0 l 257
+ 619 735 l 257
+ 523 735 l 257
+ 271 112 l 257
+ 166 304 l 257
+ -1 304 l 257
+ -1 250 l 257
+EndSplineSet
+EndChar
+
+StartChar: rcaron
+Encoding: 345 345 402
+Width: 417
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 399 114 N 1 0 0 1 0 0 2
+Refer: 213 711 N 1 0 0 1 134 0 2
+Kerns2: 388 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  226 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  211 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: uni0157
+Encoding: 343 343 403
+Width: 417
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 466 806 N 1 0 0 1 -5 0 2
+Refer: 399 114 N 1 0 0 1 0 0 2
+Kerns2: 388 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  226 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  211 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: uni0211
+Encoding: 529 529 404
+Width: 417
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 463 783 N 1 0 0 1 -47 0 2
+Refer: 399 114 N 1 0 0 1 0 0 2
+Kerns2: 388 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  356 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  281 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  226 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  217 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  216 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  211 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: registered
+Encoding: 174 174 405
+Width: 867
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+289 156 m 257
+ 353 156 l 257
+ 353 318 l 257
+ 479 318 l 257
+ 567 156 l 257
+ 630 156 l 257
+ 540 325 l 257
+ 585 337 614 372 614 437 c 258
+ 614 443 l 257
+ 612 528 563 563 486 563 c 258
+ 289 563 l 257
+ 289 156 l 257
+353 362 m 257
+ 353 519 l 257
+ 488 519 l 258
+ 546 519 550 469 550 440 c 258
+ 550 428 l 258
+ 550 397 539 362 483 362 c 258
+ 353 362 l 257
+435 40 m 256
+ 257 40 127 175 127 353 c 256
+ 127 531 257 665 435 665 c 256
+ 614 665 741 531 741 353 c 256
+ 741 175 614 40 435 40 c 256
+434 -7 m 256
+ 637 -7 793 148 793 353 c 256
+ 793 557 637 711 434 711 c 256
+ 232 711 74 557 74 353 c 256
+ 74 148 232 -7 434 -7 c 256
+EndSplineSet
+EndChar
+
+StartChar: ring
+Encoding: 730 730 406
+Width: 289
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+145 621 m 256
+ 112 621 87 634 87 681 c 256
+ 87 728 111 741 144 741 c 256
+ 177 741 202 727 202 680 c 256
+ 202 633 178 621 145 621 c 256
+145 577 m 256
+ 215 577 257 615 257 681 c 256
+ 257 747 214 784 145 784 c 256
+ 75 784 32 747 32 681 c 256
+ 32 615 75 577 145 577 c 256
+EndSplineSet
+EndChar
+
+StartChar: uni0213
+Encoding: 531 531 407
+Width: 417
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 464 785 N 1 0 0 1 118 0 2
+Refer: 399 114 N 1 0 0 1 0 0 2
+Kerns2: 388 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  226 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  211 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: s
+Encoding: 115 115 408
+Width: 511
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+AnchorPoint: "bot" 261 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+260 534 m 256
+ 156 534 69 493 69 383 c 256
+ 69 315 97 264 178 239 c 258
+ 293 203 l 258
+ 327 192 337 173 337 150 c 256
+ 337 123 328 81 266 81 c 256
+ 214 81 149 96 93 120 c 257
+ 66 30 l 257
+ 132 6 204 -10 266 -10 c 256
+ 374 -10 459 35 459 148 c 256
+ 459 230 429 278 341 306 c 258
+ 232 340 l 258
+ 208 347 196 364 196 387 c 256
+ 196 421 209 443 270 443 c 256
+ 320 443 385 425 416 409 c 257
+ 447 491 l 257
+ 394 517 325 534 260 534 c 256
+EndSplineSet
+EndChar
+
+StartChar: sacute
+Encoding: 347 347 409
+Width: 511
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+Refer: 408 115 N 1 0 0 1 0 0 2
+Refer: 179 180 N 1 0 0 1 199 0 2
+EndChar
+
+StartChar: scaron
+Encoding: 353 353 410
+Width: 511
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+Refer: 408 115 N 1 0 0 1 0 0 2
+Refer: 213 711 N 1 0 0 1 150 0 2
+EndChar
+
+StartChar: scedilla
+Encoding: 351 351 411
+Width: 511
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+Refer: 408 115 N 1 0 0 1 0 0 2
+Refer: 219 184 N 1 0 0 1 166 0 2
+Substitution2: "'locl' Localized Forms in Latin lookup 4 subtable" uni0219
+Substitution2: "'locl' Localized Forms in Latin lookup 3 subtable" uni0219
+EndChar
+
+StartChar: uni0259
+Encoding: 601 601 412
+Width: 292
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+EndChar
+
+StartChar: scircumflex
+Encoding: 349 349 413
+Width: 511
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+Refer: 408 115 N 1 0 0 1 0 0 2
+Refer: 221 710 N 1 0 0 1 150 0 2
+EndChar
+
+StartChar: uni0219
+Encoding: 537 537 414
+Width: 511
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+Refer: 466 806 N 1 0 0 1 108 0 2
+Refer: 408 115 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1E61
+Encoding: 7777 7777 415
+Width: 511
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 408 115 N 1 0 0 1 0 0 2
+Refer: 237 729 N 1 0 0 1 155 0 2
+EndChar
+
+StartChar: section
+Encoding: 167 167 416
+Width: 529
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+61 55 m 257
+ 109 16 182 -11 271 -11 c 256
+ 396 -11 459 60 459 148 c 256
+ 459 196 445 224 418 247 c 257
+ 451 278 470 314 470 350 c 256
+ 470 398 437 445 365 479 c 258
+ 238 539 l 258
+ 213 551 197 562 197 589 c 256
+ 197 622 227 639 269 639 c 256
+ 309 639 359 625 410 595 c 257
+ 451 672 l 257
+ 417 698 348 731 258 731 c 256
+ 146 731 73 685 73 582 c 256
+ 73 539 88 512 118 488 c 257
+ 85 464 65 426 65 387 c 256
+ 65 342 92 295 159 262 c 258
+ 287 201 l 258
+ 325 182 336 166 336 140 c 256
+ 336 108 305 86 256 86 c 256
+ 215 86 162 101 106 137 c 257
+ 61 55 l 257
+360 283 m 257
+ 197 358 l 258
+ 166 372 155 388 155 414 c 256
+ 155 432 168 453 176 459 c 257
+ 323 389 l 257
+ 367 370 371 344 371 318 c 256
+ 371 306 367 294 360 283 c 257
+EndSplineSet
+EndChar
+
+StartChar: semicolon
+Encoding: 59 59 417
+Width: 375
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 381 46 N 1 0 0 1 3 417 2
+Refer: 223 44 N 1 0 0 1 7 97 2
+EndChar
+
+StartChar: seven
+Encoding: 55 55 418
+Width: 673
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+173 0 m 257
+ 326 0 l 257
+ 597 620 l 257
+ 597 721 l 257
+ 109 721 l 257
+ 109 607 l 257
+ 438 607 l 257
+ 173 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: six
+Encoding: 54 54 419
+Width: 673
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+347 -10 m 256
+ 509 -10 611 77 611 218 c 256
+ 611 393 528 454 375 454 c 256
+ 360 454 316 446 298 441 c 257
+ 456 721 l 257
+ 299 721 l 257
+ 158 471 l 257
+ 120 398 92 317 92 224 c 256
+ 92 79 190 -10 347 -10 c 256
+354 97 m 256
+ 278 97 230 146 230 224 c 256
+ 230 307 267 354 352 354 c 256
+ 446 354 478 305 478 225 c 256
+ 478 147 430 97 354 97 c 256
+EndSplineSet
+EndChar
+
+StartChar: slash
+Encoding: 47 47 420
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+52 0 m 257
+ 170 0 l 257
+ 448 740 l 257
+ 330 740 l 257
+ 52 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni00AD
+Encoding: 173 173 421
+Width: 472
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+64 241 m 257
+ 408 241 l 257
+ 408 313 l 257
+ 64 313 l 257
+ 64 241 l 257
+EndSplineSet
+EndChar
+
+StartChar: space
+Encoding: 32 32 422
+Width: 270
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+EndChar
+
+StartChar: sterling
+Encoding: 163 163 423
+Width: 627
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+101 0 m 257
+ 549 0 l 257
+ 549 110 l 257
+ 252 110 l 257
+ 269 303 l 257
+ 509 303 l 257
+ 509 396 l 257
+ 277 396 l 257
+ 286 510 l 258
+ 291 576 312 625 388 625 c 256
+ 423 625 465 616 517 593 c 257
+ 552 691 l 257
+ 514 716 446 740 376 740 c 256
+ 214 740 150 656 142 518 c 257
+ 132 396 l 257
+ 65 396 l 257
+ 65 303 l 257
+ 125 303 l 257
+ 101 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: summation
+Encoding: 8721 8721 424
+Width: 583
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+529 0 m 257
+ 529 113 l 257
+ 223 113 l 257
+ 441 351 l 257
+ 441 399 l 257
+ 229 608 l 257
+ 529 608 l 257
+ 529 721 l 257
+ 63 721 l 257
+ 63 607 l 257
+ 291 372 l 257
+ 63 115 l 257
+ 63 0 l 257
+ 529 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: t
+Encoding: 116 116 425
+Width: 419
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "caron.alt" 196 524 basechar 0
+AnchorPoint: "bot" 230 12 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+316 -6 m 258
+ 363 -6 l 257
+ 368 93 l 257
+ 338 93 l 258
+ 250 93 240 111 240 176 c 258
+ 240 440 l 257
+ 365 440 l 257
+ 365 524 l 257
+ 240 524 l 257
+ 240 693 l 257
+ 124 693 l 257
+ 111 524 l 257
+ 24 524 l 257
+ 24 440 l 257
+ 107 440 l 257
+ 107 167 l 258
+ 107 32 158 -6 316 -6 c 258
+EndSplineSet
+EndChar
+
+StartChar: tbar
+Encoding: 359 359 426
+Width: 419
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 425 116 N 1 0 0 1 0 0 2
+Refer: 336 175 N 1 0 0 1 59 -346 2
+EndChar
+
+StartChar: tcaron
+Encoding: 357 357 427
+Width: 419
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 425 116 N 1 0 0 1 0 0 2
+Refer: 214 -1 N 1 0 0 1 10 0 2
+EndChar
+
+StartChar: uni0163
+Encoding: 355 355 428
+Width: 419
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 425 116 N 1 0 0 1 0 0 2
+Refer: 219 184 N 1 0 0 1 135 12 2
+Substitution2: "'locl' Localized Forms in Latin lookup 4 subtable" uni0163
+Substitution2: "'locl' Localized Forms in Latin lookup 3 subtable" uni0163
+EndChar
+
+StartChar: uni1E6B
+Encoding: 7787 7787 429
+Width: 419
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 425 116 N 1 0 0 1 0 0 2
+Refer: 237 729 N 1 0 0 1 69 163 2
+EndChar
+
+StartChar: thorn
+Encoding: 254 254 430
+Width: 591
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+77 -200 m 257
+ 210 -200 l 257
+ 210 8 l 257
+ 236 -3 269 -12 311 -12 c 256
+ 459 -12 527 69 527 159 c 258
+ 527 367 l 258
+ 527 468 453 535 326 535 c 256
+ 282 535 241 523 210 506 c 257
+ 210 740 l 257
+ 77 740 l 257
+ 77 -200 l 257
+300 81 m 256
+ 249 81 217 100 210 104 c 257
+ 210 411 l 257
+ 226 426 261 442 304 442 c 256
+ 359 442 394 421 394 369 c 258
+ 394 156 l 258
+ 394 103 360 81 300 81 c 256
+EndSplineSet
+EndChar
+
+StartChar: three
+Encoding: 51 51 431
+Width: 673
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+344 -10 m 256
+ 504 -10 594 68 594 208 c 256
+ 594 298 553 360 479 381 c 257
+ 549 396 587 453 587 538 c 256
+ 587 662 501 730 345 730 c 256
+ 194 730 109 650 108 504 c 257
+ 244 504 l 257
+ 244 579 280 621 347 621 c 256
+ 411 621 447 589 447 531 c 256
+ 447 465 418 428 311 428 c 257
+ 311 331 l 257
+ 420 331 451 289 451 214 c 256
+ 451 134 413 98 346 98 c 256
+ 275 98 242 139 241 213 c 257
+ 105 213 l 257
+ 108 70 189 -10 344 -10 c 256
+EndSplineSet
+Substitution2: "'sups' Superscript lookup 10 subtable" uni00B3
+EndChar
+
+StartChar: threequarters
+Encoding: 190 190 432
+Width: 1407
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+299 213 m 256
+ 434 213 472 284 472 363 c 256
+ 472 421 454 466 392 483 c 257
+ 458 497 468 547 468 595 c 256
+ 468 679 412 730 302 730 c 256
+ 190 730 122 694 122 564 c 257
+ 212 564 l 257
+ 212 567 l 258
+ 212 640 229 656 298 656 c 256
+ 359 656 377 633 377 590 c 256
+ 377 540 374 517 274 517 c 257
+ 274 448 l 257
+ 364 448 380 427 380 368 c 256
+ 380 318 368 289 306 289 c 256
+ 239 289 211 298 210 377 c 257
+ 120 377 l 257
+ 122 262 168 213 299 213 c 256
+985 0 m 257
+ 1063 0 l 257
+ 1063 103 l 257
+ 1145 103 l 257
+ 1145 182 l 257
+ 1063 182 l 257
+ 1063 300 l 257
+ 985 300 l 257
+ 985 182 l 257
+ 839 182 l 257
+ 971 524 l 257
+ 877 524 l 257
+ 741 180 l 257
+ 741 103 l 257
+ 985 103 l 257
+ 985 0 l 257
+434 0 m 257
+ 519 0 l 257
+ 832 735 l 257
+ 747 735 l 257
+ 434 0 l 257
+EndSplineSet
+Ligature2: "'frac' Diagonal Fractions lookup 11 subtable" three slash four
+EndChar
+
+StartChar: uni00B3
+Encoding: 179 179 433
+Width: 452
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+68 448 m 257
+ 69 345 130 297 230 297 c 256
+ 329 297 393 337 393 427 c 256
+ 393 487 369 524 311 539 c 257
+ 364 549 387 593 387 644 c 256
+ 387 738 319 772 228 772 c 256
+ 126 772 71 725 71 623 c 257
+ 163 623 l 257
+ 163 677 178 699 228 699 c 256
+ 280 699 292 673 292 640 c 256
+ 292 592 274 573 189 573 c 257
+ 189 505 l 257
+ 274 505 295 485 295 429 c 256
+ 295 389 275 371 228 371 c 256
+ 179 371 162 394 161 448 c 257
+ 68 448 l 257
+EndSplineSet
+EndChar
+
+StartChar: tilde
+Encoding: 732 732 434
+Width: 370
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+131 601 m 256
+ 206 601 226 651 252 651 c 256
+ 268 651 279 639 279 609 c 257
+ 337 609 l 257
+ 337 700 298 736 239 736 c 256
+ 164 736 146 686 122 686 c 256
+ 105 686 91 697 91 728 c 257
+ 34 728 l 257
+ 34 637 72 601 131 601 c 256
+EndSplineSet
+EndChar
+
+StartChar: trademark
+Encoding: 8482 8482 435
+Width: 899
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+403 374 m 257
+ 483 374 l 257
+ 483 605 l 257
+ 561 455 l 257
+ 640 455 l 257
+ 714 605 l 257
+ 714 374 l 257
+ 795 374 l 257
+ 795 706 l 257
+ 690 706 l 257
+ 599 539 l 257
+ 509 706 l 257
+ 403 706 l 257
+ 403 374 l 257
+154 374 m 257
+ 249 374 l 257
+ 249 636 l 257
+ 338 636 l 257
+ 338 706 l 257
+ 65 706 l 257
+ 65 636 l 257
+ 154 636 l 257
+ 154 374 l 257
+EndSplineSet
+EndChar
+
+StartChar: two
+Encoding: 50 50 436
+Width: 673
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+135 0 m 257
+ 569 0 l 257
+ 569 115 l 257
+ 295 115 l 257
+ 445 257 l 258
+ 535 342 576 412 576 518 c 256
+ 576 642 506 730 346 730 c 256
+ 155 730 99 652 99 484 c 257
+ 245 484 l 257
+ 245 586 273 619 350 619 c 256
+ 402 619 436 584 436 517 c 256
+ 436 463 421 422 360 360 c 258
+ 118 110 l 257
+ 135 0 l 257
+EndSplineSet
+Substitution2: "'sups' Superscript lookup 10 subtable" uni00B2
+EndChar
+
+StartChar: uni00B2
+Encoding: 178 178 437
+Width: 490
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+92 305 m 257
+ 404 305 l 257
+ 404 377 l 257
+ 195 377 l 257
+ 314 474 l 258
+ 380 528 413 568 413 632 c 256
+ 413 710 365 772 243 772 c 256
+ 115 772 65 726 65 613 c 257
+ 164 613 l 257
+ 164 682 186 701 247 701 c 256
+ 300 701 320 676 320 632 c 256
+ 320 596 306 575 256 531 c 258
+ 81 377 l 257
+ 92 305 l 257
+EndSplineSet
+EndChar
+
+StartChar: u
+Encoding: 117 117 438
+Width: 619
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "ogonek" 474 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+79 142 m 258
+ 79 51 146 -12 253 -12 c 256
+ 322 -12 389 17 409 58 c 257
+ 413 0 l 257
+ 538 0 l 257
+ 538 524 l 257
+ 405 524 l 257
+ 405 171 l 258
+ 405 112 349 89 301 89 c 256
+ 260 89 212 109 212 164 c 258
+ 212 524 l 257
+ 79 524 l 257
+ 79 142 l 258
+EndSplineSet
+EndChar
+
+StartChar: uacute
+Encoding: 250 250 439
+Width: 619
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 438 117 N 1 0 0 1 0 0 2
+Refer: 179 180 N 1 0 0 1 232 0 2
+EndChar
+
+StartChar: ubreve
+Encoding: 365 365 440
+Width: 619
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 438 117 N 1 0 0 1 0 0 2
+Refer: 207 728 N 1 0 0 1 184 0 2
+EndChar
+
+StartChar: uni01D4
+Encoding: 468 468 441
+Width: 619
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 438 117 N 1 0 0 1 0 0 2
+Refer: 213 711 N 1 0 0 1 184 0 2
+EndChar
+
+StartChar: ucircumflex
+Encoding: 251 251 442
+Width: 619
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 438 117 N 1 0 0 1 0 0 2
+Refer: 221 710 N 1 0 0 1 184 0 2
+EndChar
+
+StartChar: uni0215
+Encoding: 533 533 443
+Width: 619
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 463 783 N 1 0 0 1 2 0 2
+Refer: 438 117 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: udieresis
+Encoding: 252 252 444
+Width: 619
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 438 117 N 1 0 0 1 0 0 2
+Refer: 233 168 N 1 0 0 1 72 0 2
+EndChar
+
+StartChar: ugrave
+Encoding: 249 249 445
+Width: 619
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 438 117 N 1 0 0 1 0 0 2
+Refer: 289 96 N 1 0 0 1 120 0 2
+EndChar
+
+StartChar: uhungarumlaut
+Encoding: 369 369 446
+Width: 619
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 438 117 N 1 0 0 1 0 0 2
+Refer: 299 733 N 1 0 0 1 135 0 2
+EndChar
+
+StartChar: uni0217
+Encoding: 535 535 447
+Width: 619
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 464 785 N 1 0 0 1 167 0 2
+Refer: 438 117 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: umacron
+Encoding: 363 363 448
+Width: 619
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 438 117 N 1 0 0 1 0 0 2
+Refer: 336 175 N 1 0 0 1 188 0 2
+EndChar
+
+StartChar: underscore
+Encoding: 95 95 449
+Width: 441
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+4 -16 m 257
+ 435 -16 l 257
+ 435 70 l 257
+ 4 70 l 257
+ 4 -16 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni00A0
+Encoding: 160 160 450
+Width: 170
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+EndChar
+
+StartChar: uni01F8
+Encoding: 504 504 451
+Width: 819
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 289 96 N 1 0 0 1 228 196 2
+Refer: 93 78 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01F9
+Encoding: 505 505 452
+Width: 621
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 341 110 N 1 0 0 1 0 0 2
+Refer: 289 96 N 1 0 0 1 138 0 2
+EndChar
+
+StartChar: uni021A
+Encoding: 538 538 453
+Width: 583
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 466 806 N 1 0 0 1 128 0 2
+Refer: 136 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni021B
+Encoding: 539 539 454
+Width: 419
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 466 806 N 1 0 0 1 78 12 2
+Refer: 425 116 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni021E
+Encoding: 542 542 455
+Width: 814
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 213 711 N 1 0 0 1 283 196 2
+Refer: 61 72 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni021F
+Encoding: 543 543 456
+Width: 621
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 296 104 N 1 0 0 1 0 0 2
+Refer: 213 711 N 1 0 0 1 270 113 2
+EndChar
+
+StartChar: uni0228
+Encoding: 552 552 457
+Width: 642
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 219 184 N 1 0 0 1 260 0 2
+Refer: 36 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0229
+Encoding: 553 553 458
+Width: 576
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 242 101 N 1 0 0 1 0 0 2
+Refer: 219 184 N 1 0 0 1 199 0 2
+EndChar
+
+StartChar: uni022E
+Encoding: 558 558 459
+Width: 791
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 237 729 N 1 0 0 1 276 196 2
+Refer: 101 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni022F
+Encoding: 559 559 460
+Width: 591
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 351 111 N 1 0 0 1 0 0 2
+Refer: 237 729 N 1 0 0 1 171 0 2
+EndChar
+
+StartChar: uni02BC
+Encoding: 700 700 461
+Width: 292
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 223 44 N 1 0 0 1 -98 797 2
+EndChar
+
+StartChar: uni0307
+Encoding: 775 775 462
+Width: 292
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+91 648 m 257
+ 185 648 l 257
+ 185 750 l 257
+ 91 750 l 257
+ 91 648 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni030F
+Encoding: 783 783 463
+Width: 500
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+366 565 m 257
+ 438 565 l 257
+ 383 743 l 257
+ 252 743 l 257
+ 366 565 l 257
+166 565 m 257
+ 238 565 l 257
+ 183 743 l 257
+ 52 743 l 257
+ 166 565 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni0311
+Encoding: 785 785 464
+Width: 280
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+17 594 m 257
+ 87 594 l 257
+ 87 631 115 643 142 643 c 256
+ 169 643 196 631 196 594 c 257
+ 267 594 l 257
+ 267 692 204 721 142 721 c 256
+ 80 721 17 692 17 594 c 257
+EndSplineSet
+EndChar
+
+StartChar: uni0312
+Encoding: 786 786 465
+Width: 292
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 223 44 N -1 0 0 -1 340 778 2
+EndChar
+
+StartChar: uni0326
+Encoding: 806 806 466
+Width: 292
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "bot" 152 0 mark 0
+LayerCount: 2
+Fore
+Refer: 223 44 N 1 0 0 1 -34 -219 2
+EndChar
+
+StartChar: uni0358
+Encoding: 856 856 467
+Width: 292
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+97 648 m 257
+ 191 648 l 257
+ 191 750 l 257
+ 97 750 l 257
+ 97 648 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni2015
+Encoding: 8213 8213 468
+Width: 2000
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+64 241 m 257
+ 64 313 l 257
+ 1936 313 l 257
+ 1936 241 l 257
+ 64 241 l 257
+EndSplineSet
+EndChar
+
+StartChar: uni2113
+Encoding: 8467 8467 469
+Width: 358
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 324 108 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uogonek
+Encoding: 371 371 470
+Width: 619
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+sS'com.typemytype.robofont.layerData'
+p4
+(dp5
+s."
+LayerCount: 2
+Fore
+Refer: 438 117 N 1 0 0 1 0 0 2
+Refer: 359 731 N 1 0 0 1 344 0 2
+EndChar
+
+StartChar: uring
+Encoding: 367 367 471
+Width: 619
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 438 117 N 1 0 0 1 0 0 2
+Refer: 406 730 N 1 0 0 1 169 0 2
+EndChar
+
+StartChar: utilde
+Encoding: 361 361 472
+Width: 619
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 438 117 N 1 0 0 1 0 0 2
+Refer: 434 732 N 1 0 0 1 125 0 2
+EndChar
+
+StartChar: v
+Encoding: 118 118 473
+Width: 571
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+220 0 m 257
+ 361 0 l 257
+ 539 524 l 257
+ 413 524 l 257
+ 291 130 l 257
+ 166 524 l 257
+ 33 524 l 257
+ 220 0 l 257
+EndSplineSet
+Kerns2: 352 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: w
+Encoding: 119 119 474
+Width: 826
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+178 0 m 257
+ 304 0 l 257
+ 416 362 l 257
+ 523 0 l 257
+ 653 0 l 257
+ 793 524 l 257
+ 669 524 l 257
+ 582 144 l 257
+ 469 524 l 257
+ 361 524 l 257
+ 251 148 l 257
+ 157 524 l 257
+ 33 524 l 257
+ 178 0 l 257
+EndSplineSet
+Kerns2: 355 -3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: wacute
+Encoding: 7811 7811 475
+Width: 826
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 474 119 N 1 0 0 1 0 0 2
+Refer: 179 180 N 1 0 0 1 336 0 2
+EndChar
+
+StartChar: wcircumflex
+Encoding: 373 373 476
+Width: 826
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 474 119 N 1 0 0 1 0 0 2
+Refer: 221 710 N 1 0 0 1 288 0 2
+EndChar
+
+StartChar: wdieresis
+Encoding: 7813 7813 477
+Width: 826
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 474 119 N 1 0 0 1 0 0 2
+Refer: 233 168 N 1 0 0 1 176 0 2
+EndChar
+
+StartChar: wgrave
+Encoding: 7809 7809 478
+Width: 826
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 474 119 N 1 0 0 1 0 0 2
+Refer: 289 96 N 1 0 0 1 224 0 2
+EndChar
+
+StartChar: x
+Encoding: 120 120 479
+Width: 545
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+26 0 m 257
+ 167 0 l 257
+ 277 165 l 257
+ 387 0 l 257
+ 520 0 l 257
+ 343 262 l 257
+ 519 524 l 257
+ 383 524 l 257
+ 274 360 l 257
+ 166 524 l 257
+ 27 524 l 257
+ 207 264 l 257
+ 26 0 l 257
+EndSplineSet
+Kerns2: 373 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  362 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  360 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  357 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  356 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  355 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  352 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  351 -5 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: y
+Encoding: 121 121 480
+Width: 546
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+83 -227 m 257
+ 249 -212 286 -174 370 68 c 258
+ 529 524 l 257
+ 397 524 l 257
+ 289 172 l 257
+ 152 524 l 257
+ 24 524 l 257
+ 222 18 l 257
+ 192 -96 169 -117 73 -127 c 257
+ 83 -227 l 257
+EndSplineSet
+EndChar
+
+StartChar: yacute
+Encoding: 253 253 481
+Width: 546
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 480 121 N 1 0 0 1 0 0 2
+Refer: 179 180 N 1 0 0 1 201 0 2
+EndChar
+
+StartChar: ycircumflex
+Encoding: 375 375 482
+Width: 546
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 480 121 N 1 0 0 1 0 0 2
+Refer: 221 710 N 1 0 0 1 152 0 2
+EndChar
+
+StartChar: ydieresis
+Encoding: 255 255 483
+Width: 546
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 480 121 N 1 0 0 1 0 0 2
+Refer: 233 168 N 1 0 0 1 41 0 2
+EndChar
+
+StartChar: yen
+Encoding: 165 165 484
+Width: 636
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+498 260 m 257
+ 498 326 l 257
+ 136 326 l 257
+ 136 260 l 257
+ 498 260 l 257
+498 113 m 257
+ 498 178 l 257
+ 136 178 l 257
+ 136 113 l 257
+ 498 113 l 257
+EndSplineSet
+Refer: 163 89 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: ygrave
+Encoding: 7923 7923 485
+Width: 546
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 480 121 N 1 0 0 1 0 0 2
+Refer: 289 96 N 1 0 0 1 89 0 2
+EndChar
+
+StartChar: uni0233
+Encoding: 563 563 486
+Width: 546
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 480 121 N 1 0 0 1 0 0 2
+Refer: 336 175 N 1 0 0 1 157 0 2
+EndChar
+
+StartChar: uni1EF9
+Encoding: 7929 7929 487
+Width: 546
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 480 121 N 1 0 0 1 0 0 2
+Refer: 434 732 N 1 0 0 1 94 0 2
+EndChar
+
+StartChar: z
+Encoding: 122 122 488
+Width: 485
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+AnchorPoint: "bot" 241 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+59 0 m 257
+ 430 0 l 257
+ 430 93 l 257
+ 203 93 l 257
+ 425 444 l 257
+ 425 524 l 257
+ 61 524 l 257
+ 61 434 l 257
+ 279 434 l 257
+ 59 82 l 257
+ 59 0 l 257
+EndSplineSet
+Kerns2: 356 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar
+
+StartChar: zacute
+Encoding: 378 378 489
+Width: 485
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 488 122 N 1 0 0 1 0 0 2
+Refer: 179 180 N 1 0 0 1 177 0 2
+EndChar
+
+StartChar: zcaron
+Encoding: 382 382 490
+Width: 485
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 488 122 N 1 0 0 1 0 0 2
+Refer: 213 711 N 1 0 0 1 128 0 2
+EndChar
+
+StartChar: zdotaccent
+Encoding: 380 380 491
+Width: 485
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+Refer: 488 122 N 1 0 0 1 0 0 2
+Refer: 237 729 N 1 0 0 1 133 0 2
+EndChar
+
+StartChar: zero
+Encoding: 48 48 492
+Width: 693
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'org.robofab.postScriptHintData'
+p2
+(dp3
+s."
+LayerCount: 2
+Fore
+SplineSet
+351 100 m 256
+ 248 100 220 181 220 244 c 258
+ 220 475 l 258
+ 220 538 244 620 351 620 c 256
+ 457 620 479 538 479 475 c 258
+ 479 244 l 258
+ 479 181 455 100 351 100 c 256
+351 -10 m 256
+ 542 -10 620 120 620 249 c 258
+ 620 469 l 258
+ 620 602 546 730 351 730 c 256
+ 152 730 73 604 73 471 c 258
+ 73 247 l 258
+ 73 117 155 -10 351 -10 c 256
+EndSplineSet
+EndChar
+
+StartChar: idotaccent
+Encoding: 65544 -1 493
+Width: 1000
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+EndChars
+EndSplineFont
