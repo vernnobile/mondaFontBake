@@ -4,16 +4,10 @@
   <unicode hex="0044"/>
   <outline>
     <contour>
-      <point x="205" y="73" type="line"/>
-      <point x="205" y="632" type="line"/>
-      <point x="378" y="632" type="line" smooth="yes"/>
-      <point x="479" y="632"/>
-      <point x="556" y="604"/>
-      <point x="556" y="474" type="curve" smooth="yes"/>
-      <point x="556" y="226" type="line" smooth="yes"/>
-      <point x="556" y="96"/>
-      <point x="480" y="73"/>
-      <point x="378" y="73" type="curve" smooth="yes"/>
+      <point x="350" y="706" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="174" y="372" type="move" name="mid"/>
     </contour>
     <contour>
       <point x="106" y="0" type="line"/>
@@ -28,16 +22,23 @@
       <point x="106" y="706" type="line"/>
     </contour>
     <contour>
-      <point x="174" y="372" type="move" name="mid"/>
-    </contour>
-    <contour>
-      <point x="350" y="706" type="move" name="top"/>
+      <point x="205" y="73" type="line"/>
+      <point x="205" y="632" type="line"/>
+      <point x="378" y="632" type="line" smooth="yes"/>
+      <point x="479" y="632"/>
+      <point x="556" y="604"/>
+      <point x="556" y="474" type="curve" smooth="yes"/>
+      <point x="556" y="226" type="line" smooth="yes"/>
+      <point x="556" y="96"/>
+      <point x="480" y="73"/>
+      <point x="378" y="73" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

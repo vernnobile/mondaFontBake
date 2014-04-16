@@ -7,6 +7,11 @@
       <point x="626" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
+      <point x="186" y="192" type="line"/>
+      <point x="335" y="600" type="line"/>
+      <point x="484" y="192" type="line"/>
+    </contour>
+    <contour>
       <point x="42" y="0" type="line"/>
       <point x="116" y="0" type="line"/>
       <point x="168" y="138" type="line"/>
@@ -15,11 +20,6 @@
       <point x="622" y="0" type="line"/>
       <point x="359" y="697" type="line"/>
       <point x="307" y="697" type="line"/>
-    </contour>
-    <contour>
-      <point x="186" y="192" type="line"/>
-      <point x="335" y="600" type="line"/>
-      <point x="484" y="192" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_f" format="1">
   <advance width="777"/>
+  <unicode hex="FB00"/>
   <outline>
-    <component base="f" xOffset="395"/>
     <component base="f"/>
+    <component base="f" xOffset="395"/>
   </outline>
 </glyph>

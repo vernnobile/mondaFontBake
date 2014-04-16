@@ -3,13 +3,30 @@
   <advance width="587"/>
   <unicode hex="0166"/>
   <outline>
-    <component base="T"/>
-    <component base="macron" xOffset="169" yOffset="-313"/>
+    <contour>
+      <point x="245" y="0" type="line"/>
+      <point x="343" y="0" type="line"/>
+      <point x="343" y="332" type="line"/>
+      <point x="420" y="332" type="line"/>
+      <point x="420" y="404" type="line"/>
+      <point x="343" y="404" type="line"/>
+      <point x="343" y="625" type="line"/>
+      <point x="547" y="625" type="line"/>
+      <point x="547" y="706" type="line"/>
+      <point x="41" y="706" type="line"/>
+      <point x="41" y="625" type="line"/>
+      <point x="245" y="625" type="line"/>
+      <point x="245" y="404" type="line"/>
+      <point x="162" y="404" type="line"/>
+      <point x="162" y="332" type="line"/>
+      <point x="245" y="332" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

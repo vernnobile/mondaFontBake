@@ -7,6 +7,17 @@
       <point x="392" y="0" type="move" name="bot"/>
     </contour>
     <contour>
+      <point x="249" y="388" type="line"/>
+      <point x="249" y="618" type="line"/>
+      <point x="433" y="618" type="line" smooth="yes"/>
+      <point x="505" y="618"/>
+      <point x="517" y="558"/>
+      <point x="517" y="499" type="curve" smooth="yes"/>
+      <point x="517" y="437"/>
+      <point x="501" y="388"/>
+      <point x="427" y="388" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
       <point x="104" y="0" type="line"/>
       <point x="249" y="0" type="line"/>
       <point x="249" y="285" type="line"/>
@@ -21,17 +32,6 @@
       <point x="606" y="721"/>
       <point x="415" y="721" type="curve" smooth="yes"/>
       <point x="104" y="721" type="line"/>
-    </contour>
-    <contour>
-      <point x="249" y="388" type="line"/>
-      <point x="249" y="618" type="line"/>
-      <point x="433" y="618" type="line" smooth="yes"/>
-      <point x="505" y="618"/>
-      <point x="517" y="558"/>
-      <point x="517" y="499" type="curve" smooth="yes"/>
-      <point x="517" y="437"/>
-      <point x="501" y="388"/>
-      <point x="427" y="388" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>

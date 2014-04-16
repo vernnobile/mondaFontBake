@@ -3,24 +3,25 @@
   <advance width="541"/>
   <unicode hex="00A2"/>
   <outline>
-    <contour>
-      <point x="264" y="495" type="line"/>
-      <point x="314" y="495" type="line"/>
-      <point x="314" y="624" type="line"/>
-      <point x="264" y="624" type="line"/>
-    </contour>
+    <component base="c"/>
     <contour>
       <point x="264" y="-100" type="line"/>
       <point x="314" y="-100" type="line"/>
       <point x="314" y="29" type="line"/>
       <point x="264" y="29" type="line"/>
     </contour>
-    <component base="c"/>
+    <contour>
+      <point x="264" y="495" type="line"/>
+      <point x="314" y="495" type="line"/>
+      <point x="314" y="624" type="line"/>
+      <point x="264" y="624" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

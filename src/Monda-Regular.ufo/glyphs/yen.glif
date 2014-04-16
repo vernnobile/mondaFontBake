@@ -6,21 +6,34 @@
     <contour>
       <point x="519" y="273" type="line"/>
       <point x="519" y="346" type="line"/>
+      <point x="411.888" y="346" type="line"/>
+      <point x="620" y="706" type="line"/>
+      <point x="519" y="706" type="line"/>
+      <point x="323" y="363" type="line"/>
+      <point x="127" y="706" type="line"/>
+      <point x="23" y="706" type="line"/>
+      <point x="232.79" y="346" type="line"/>
       <point x="127" y="346" type="line"/>
       <point x="127" y="273" type="line"/>
-    </contour>
-    <contour>
-      <point x="519" y="123" type="line"/>
-      <point x="519" y="195" type="line"/>
+      <point x="273" y="273" type="line"/>
+      <point x="273" y="195" type="line"/>
       <point x="127" y="195" type="line"/>
       <point x="127" y="123" type="line"/>
+      <point x="273" y="123" type="line"/>
+      <point x="273" y="0" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="372" y="123" type="line"/>
+      <point x="519" y="123" type="line"/>
+      <point x="519" y="195" type="line"/>
+      <point x="372" y="195" type="line"/>
+      <point x="372" y="273" type="line"/>
     </contour>
-    <component base="Y"/>
   </outline>
   <lib>
     <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict/>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>
