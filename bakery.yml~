@@ -1,5 +1,6 @@
 copyright_license: ofl
 copyright_notice: Copyright (c) 2012-14, vernon adams (vern@newtypography.co.uk)
+familyname: Monda
 hinting_level: '1'
 license_file: src/OFL.txt
 process_files: [src/Monda-Regular.ufo, src/Monda-Light.ufo, src/Monda-Bold.ufo]
