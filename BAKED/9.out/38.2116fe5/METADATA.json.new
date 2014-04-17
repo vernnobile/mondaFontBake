@@ -1,0 +1,43 @@
+{
+  "name": "Monda",
+  "designer": "Vernon Adams",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": 24841,
+  "fonts": [
+    {
+      "name": "Monda-Regular",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Monda-Regular-Regular.ttf",
+      "postScriptName": "Monda-Regular-Regular",
+      "fullName": "Monda-Regular Regular",
+      "copyright": "Digitized data Copyright (c) 2012-2014, vernon adams."
+    },
+    {
+      "name": "Monda-Regular",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Monda-Regular-Bold.ttf",
+      "postScriptName": "Monda-Regular-Bold",
+      "fullName": "Monda-Regular Bold",
+      "copyright": "Digitized data Copyright (c) 2012-2014, vernon adams."
+    },
+    {
+      "name": "Monda-Regular",
+      "style": "normal",
+      "weight": 300,
+      "filename": "Monda-Regular-Light.ttf",
+      "postScriptName": "Monda-Regular-Light",
+      "fullName": "Monda-Regular Light",
+      "copyright": "Digitized data Copyright (c) 2012-2014, vernon adams."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "menu"
+  ],
+  "dateAdded": "2012-11-30"
+}

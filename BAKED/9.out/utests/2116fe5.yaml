@@ -1,0 +1,324 @@
+METADATA.json:
+  error: []
+  failure: []
+  passed: true
+  success:
+  - err_msg: ''
+    methodDoc: BOLDMONDAY.com
+    methodName: test_does_not_familyName_exist_in_boldmonday_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: &id001 [metadata]
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: COMMERCIALTYPE.com
+    methodName: test_does_not_familyName_exist_in_commercialtype_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: DALTONMAAG.com
+    methodName: test_does_not_familyName_exist_in_daltonmaag_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: EUROPATYPE.com
+    methodName: test_does_not_familyName_exist_in_europatype_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: FONTBUREAU.com
+    methodName: test_does_not_familyName_exist_in_fontbureau_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: FONTS.com
+    methodName: test_does_not_familyName_exist_in_fontscom_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: FONTSHOP.com
+    methodName: test_does_not_familyName_exist_in_fontshop_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: FONTSMITH.com
+    methodName: test_does_not_familyName_exist_in_fontsmith_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: GRILLITYPE.com
+    methodName: test_does_not_familyName_exist_in_grillitype_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: HOUSEIND.com
+    methodName: test_does_not_familyName_exist_in_houseind_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: LETTERROR.com
+    methodName: test_does_not_familyName_exist_in_letterror_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: MYFONTS.com
+    methodName: test_does_not_familyName_exist_in_myfonts_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: NOUVELLENOIRE.ch
+    methodName: test_does_not_familyName_exist_in_nouvellenoire_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: OPTIMO.ch
+    methodName: test_does_not_familyName_exist_in_optimo_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: SWISSTYPEFACES.com
+    methodName: test_does_not_familyName_exist_in_swisstypefaces_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: TEFF.nl
+    methodName: test_does_not_familyName_exist_in_teff_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: TERMINALDESIGN.com
+    methodName: test_does_not_familyName_exist_in_terminaldesign_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: TYPEDIFFERENT.com
+    methodName: test_does_not_familyName_exist_in_typedifferent_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: TYPOGRAPHY.com
+    methodName: test_does_not_familyName_exist_in_typography_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  - err_msg: ''
+    methodDoc: VEER.com
+    methodName: test_does_not_familyName_exist_in_veer_catalogue
+    name: checker.tests.metadata_test
+    tags: [note]
+    targets: *id001
+    tool: METADATA.json
+  sum: 20
+Properties tests:
+  error: []
+  failure: []
+  passed: true
+  success:
+  - err_msg: ''
+    methodDoc: Are all copyright notices the same in all styles?
+    methodName: test_copyright_notices_same_for_all_styles
+    name: checker.tests.upstream_test
+    tags: [note]
+    targets: [upstream-bulk]
+    tool: Bulk
+  sum: 1
+src/Monda-Bold.ufo:
+  error:
+  - err_msg: has_character() takes exactly 2 arguments (3 given)
+    methodDoc: "Does this font include a glyph for \u20B9, the Indian Rupee Sign codepoint?"
+    methodName: test_has_rupee
+    name: checker.tests.upstream_test
+    tags: &id003 [note]
+    targets: &id002 [upstream]
+    tool: Robofab
+  failure:
+  - err_msg: None != [0]
+    methodDoc: Is the OS/2 table fsType set to 0?
+    methodName: test_is_fsType_eq_1
+    name: checker.tests.upstream_test
+    tags: &id004 [note]
+    targets: *id002
+    tool: Robofab
+  passed: true
+  success:
+  - err_msg: ''
+    methodDoc: Does this font have a glyph named 'A'?
+    methodName: test_is_A
+    name: checker.tests.upstream_test
+    tags: &id005 [note]
+    targets: *id002
+    tool: Robofab
+  - err_msg: ''
+    methodDoc: Is this font's property A an instance of an RGlyph object?
+    methodName: test_is_A_a_glyph_instance
+    name: checker.tests.upstream_test
+    tags: &id006 [note]
+    targets: *id002
+    tool: Robofab
+  - err_msg: ''
+    methodDoc: Does this font file's name end with '.ufo'?
+    methodName: test_is_ended_ufo
+    name: checker.tests.upstream_test
+    tags: &id007 [note]
+    targets: *id002
+    tool: Robofab
+  - err_msg: ''
+    methodDoc: Is this UFO really a folder?
+    methodName: test_is_folder
+    name: checker.tests.upstream_test
+    tags: &id008 [note]
+    targets: *id002
+    tool: Robofab
+  - err_msg: ''
+    methodDoc: Does this UFO path exist?
+    methodName: test_it_exists
+    name: checker.tests.upstream_test
+    tags: &id009 [note]
+    targets: *id002
+    tool: Robofab
+  sum: 7
+src/Monda-Light.ufo:
+  error:
+  - err_msg: has_character() takes exactly 2 arguments (3 given)
+    methodDoc: "Does this font include a glyph for \u20B9, the Indian Rupee Sign codepoint?"
+    methodName: test_has_rupee
+    name: checker.tests.upstream_test
+    tags: *id003
+    targets: *id002
+    tool: Robofab
+  failure:
+  - err_msg: None != [0]
+    methodDoc: Is the OS/2 table fsType set to 0?
+    methodName: test_is_fsType_eq_1
+    name: checker.tests.upstream_test
+    tags: *id004
+    targets: *id002
+    tool: Robofab
+  passed: true
+  success:
+  - err_msg: ''
+    methodDoc: Does this font have a glyph named 'A'?
+    methodName: test_is_A
+    name: checker.tests.upstream_test
+    tags: *id005
+    targets: *id002
+    tool: Robofab
+  - err_msg: ''
+    methodDoc: Is this font's property A an instance of an RGlyph object?
+    methodName: test_is_A_a_glyph_instance
+    name: checker.tests.upstream_test
+    tags: *id006
+    targets: *id002
+    tool: Robofab
+  - err_msg: ''
+    methodDoc: Does this font file's name end with '.ufo'?
+    methodName: test_is_ended_ufo
+    name: checker.tests.upstream_test
+    tags: *id007
+    targets: *id002
+    tool: Robofab
+  - err_msg: ''
+    methodDoc: Is this UFO really a folder?
+    methodName: test_is_folder
+    name: checker.tests.upstream_test
+    tags: *id008
+    targets: *id002
+    tool: Robofab
+  - err_msg: ''
+    methodDoc: Does this UFO path exist?
+    methodName: test_it_exists
+    name: checker.tests.upstream_test
+    tags: *id009
+    targets: *id002
+    tool: Robofab
+  sum: 7
+src/Monda-Regular.ufo:
+  error:
+  - err_msg: has_character() takes exactly 2 arguments (3 given)
+    methodDoc: "Does this font include a glyph for \u20B9, the Indian Rupee Sign codepoint?"
+    methodName: test_has_rupee
+    name: checker.tests.upstream_test
+    tags: *id003
+    targets: *id002
+    tool: Robofab
+  failure:
+  - err_msg: None != [0]
+    methodDoc: Is the OS/2 table fsType set to 0?
+    methodName: test_is_fsType_eq_1
+    name: checker.tests.upstream_test
+    tags: *id004
+    targets: *id002
+    tool: Robofab
+  passed: true
+  success:
+  - err_msg: ''
+    methodDoc: Does this font have a glyph named 'A'?
+    methodName: test_is_A
+    name: checker.tests.upstream_test
+    tags: *id005
+    targets: *id002
+    tool: Robofab
+  - err_msg: ''
+    methodDoc: Is this font's property A an instance of an RGlyph object?
+    methodName: test_is_A_a_glyph_instance
+    name: checker.tests.upstream_test
+    tags: *id006
+    targets: *id002
+    tool: Robofab
+  - err_msg: ''
+    methodDoc: Does this font file's name end with '.ufo'?
+    methodName: test_is_ended_ufo
+    name: checker.tests.upstream_test
+    tags: *id007
+    targets: *id002
+    tool: Robofab
+  - err_msg: ''
+    methodDoc: Is this UFO really a folder?
+    methodName: test_is_folder
+    name: checker.tests.upstream_test
+    tags: *id008
+    targets: *id002
+    tool: Robofab
+  - err_msg: ''
+    methodDoc: Does this UFO path exist?
+    methodName: test_it_exists
+    name: checker.tests.upstream_test
+    tags: *id009
+    targets: *id002
+    tool: Robofab
+  sum: 7
